@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:athena@piccoloportfolios.com
+      url: mailto:athena@piccoloportfolios.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://piccoloportfolios.com"
+      url: "https://piccoloportfolios.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shenchingtou"
