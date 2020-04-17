@@ -1,8 +1,48 @@
 ---
+layout: single
+title:  "About"
+date:   2020-03-27 11:03:36 +0100
 permalink: /about/
-title: "About"
 ---
+Hi there,
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Athena. I am a content marketer. I copy and paste code to render a collage of my notes online.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I express myself best when talking about products. You can psychoanalyse my choice of tools:
+
+
+Favourite writing tools:
+- [Bear](https://bear.app/)
+- [HackMD](https://hackmd.io)
+- [Quiver](https://happenapps.com/#quiver)
+- [Buttondown](https://buttondown.email/athena)
+- [Substack](https://elsewhere.substack.com)
+
+UI/UX: [Figma](figma.com/) - because it's free. Otherwise AdobeXD.
+
+Visualistion tools:
+- [Infogram](https://infogram.com/)
+- [Canva](https://canva.co)
+
+Productivity tools:
+- [Airtable](https://airtable.com)
+- [Calendly](calendly.com/athena-lam/)
+- [Notion](https://notion.so)
+
+Favourite marketing tools: 
+- [Ahrefs](https://ahrefs.com)
+- [Hootsuite](https://hootsuite.com) (If there's budget.)
+- [Buffer](https://buffer.com) (If there's no budget.)
+
+
+Favourite code editor: [Sublimetext](https://www.sublimetext.com/)
+
+
+I like learning about backend and software architecture, especially in how they improve UX from behind the scenes. However, I am chiefly focused on thinking about how I can share information in a way that is convenient for me as a creator and viewers of the information displayed. Organisations I like products from include **[Foundation](https://get.foundation/sites/docs/)**, **[Ghost.org](https://ghost.org)**, **[Craft CMS](https://craftcms.com)**.
+
+
+You can check out my [LinkedIn][linkedin] for more information on my past work and see my latest projects on [my Github repo][jekyll-gh]. If you have questions, you can [e-mail me](mailto:athen@piccoloportfolios.com).
+
+[linkedin]: https://www.linkedin.com/in/athenaylam/
+[twitter]:   https://twitter.com/shenchingtou
+[jekyll-gh]: https://github.com/shenchingtou/
