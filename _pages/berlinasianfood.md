@@ -8,7 +8,7 @@ I like to solve problems and start projects, especially if the solution is simpl
 
 ### A map of Berlin Asian Restaurants & Groceries
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19x9ImgaXJqmdcaOYLMozS9lG-XW5pFT2" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19x9ImgaXJqmdcaOYLMozS9lG-XW5pFT2" width="100%" height="400"></iframe>
 
 ### About the project
 
