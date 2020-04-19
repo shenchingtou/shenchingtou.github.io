@@ -3,6 +3,16 @@ layout: single
 title:  "Berlin Asian Food"
 date:   2020-04-20 11:03:36 +0100
 permalink: /berlinasianfood/
+classes: wide
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 ---
 I like to solve problems and start projects, especially if the solution is simple.
 
