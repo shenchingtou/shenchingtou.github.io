@@ -57,7 +57,3 @@ By giving €3,00 through [**Buy me a Coffee**](https://www.buymeacoffee.com/ath
 The icons that you see right were added with Google's custom icons. However, a purchase is necessary to pay the creators and download the file.
 
 Of course, any support would be appreciated as creating and maintaining this map takes time! Thanks!
-
-## Contact
-[linkedin]: https://www.linkedin.com/in/athenaylam/
-[twitter]:   https://twitter.com/shenchingtou
