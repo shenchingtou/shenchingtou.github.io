@@ -6,7 +6,7 @@ permalink: /berlinasianfood/
 classes: wide
 excerpt: "The Berlin Asian Food Map Project shares Asian-owned food businesses to support during Covid-19, including Chinese, Taiwanese, Japanese, Korean, Thai, Vietnamese, Singapore, Malaysian, Nepalese, Sri Lankan, Indian, Pakistani, Afghan, and general regional grocers and restaurants."
 header:
-  overlay_image: /assets/images/BerlinAsianFood/xiaolongbao.jpg
+  overlay_image: /assets/images/BerlinAsianFood/xiaolongbao1.jpg
   overlay_filter: rgba(0, 0, 0, 0.36)
   caption: "Photo credit: **Athena Lam**"
 
@@ -45,7 +45,7 @@ With the Berlin Asian Food map, you can:
 ## Contribute
 This map depends on community contributions and information updates, so I would welcome help!
 
-[**Submit a Google Map link**](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
+[**Submit a Google Map link**](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM)
 
 [**Adopt a Pin**](https://www.buymeacoffee.com/athena)
 
