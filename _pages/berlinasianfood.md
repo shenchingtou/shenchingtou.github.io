@@ -45,10 +45,12 @@ With the Berlin Asian Food map, you can:
 ## Contribute
 This map depends on community contributions and information updates, so I would welcome help!
 
-[**Submit a Google Map link**]
+**Submit a Google Map link**
+
 [Submit your link to this Typeform](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
 
 [**Adopt a Pin**](https://www.buymeacoffee.com/athena)
+
 By giving €3,00 through [**Buy me a Coffee**](https://www.buymeacoffee.com/athena), you can help [purchase a flag pin](https://www.iconfinder.com/iconsets/flat-world-flags
 ). Please leave a note on which flag you'd like purchased. 
 
