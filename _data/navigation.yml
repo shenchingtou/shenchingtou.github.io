@@ -1,6 +1,6 @@
 main:
-  - title: "Berlin Asian Food"
-    url: https://tinyurl.com/berlinasianfood
+  - title: "Berlin Asian Food Map"
+    url: /berlinasianfood/
   - title: "Asian Eats Directory"
     url: https://directory.foodcoop.asia
   - title: "Projects"
