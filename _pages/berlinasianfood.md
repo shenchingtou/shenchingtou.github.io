@@ -45,9 +45,7 @@ With the Berlin Asian Food map, you can:
 ## Contribute
 This map depends on community contributions and information updates, so I would welcome help!
 
-**Submit a Google Map link**
-
-[Submit your link to this Typeform](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
+[**Submit a Google Map link**](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
 
 [**Adopt a Pin**](https://www.buymeacoffee.com/athena)
 
