@@ -11,11 +11,13 @@ header:
   caption: "Photo credit: **Athena Lam**"
 
 ---
-### A map of Berlin Asian Food
+## A map of Berlin Asian Food
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19x9ImgaXJqmdcaOYLMozS9lG-XW5pFT2" width="100%" height="400"></iframe>
 
-### About the project
+Click in to load on your Google Maps app.
+
+## About the project
 
 I started the Berlin Asian Food map because I wanted to help Asian-owned businesses stay in business and people who wanted to support local restaurants find relevant information.
 
@@ -31,7 +33,8 @@ Before the lockdown, East Asians and Southeast Asians were already being attacke
 
 Neighbourhood and business support reveals a stark digital and language divide — many of these businesses don't have easy access to networks or resources to submit to directories or set up stores and social media accounts. In addition, many hire immigrants who experiencing Covid twice because they've already gone through the outbreak virtually with their family and friends in East Asia; many of them may also not feel safe to work in Berlin because measures aren't taken as stringently as they would expect. The stark reality is that all these factors — safety, lack of general business, lack of community support, language barriers — add up to closures.
 
-**How to use the Berlin Asian Food Map**
+### How to use the Berlin Asian Food Map
+
 With the Berlin Asian Food map, you can:
 - Save it to your phone for convenient access
 - See what type of Asian restaurants are around (Country pins)
@@ -39,17 +42,20 @@ With the Berlin Asian Food map, you can:
 - Show and hide cuisines based on what you like
 - Know if places were open (country flag) or closed (black pins)
 
-### Contribute
-This map depends on community contributions and information updates. 
+## Contribute
+This map depends on community contributions and information updates, so I would welcome help!
 
-[**Submit a Google Map link to this Typeform**](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
+[**Submit a Google Map link**]
+[Submit your link to this Typeform](https://covidsubmissions.typeform.com/to/w3sX8u?fbclid=IwAR1z9yZw9nlllWaRnEx_MtC2j0YAdwMuZuaidyCajUP8ZMGVRaIYeETd9FM).
 
-[**Adopt a Pin**]
+[**Adopt a Pin**](https://www.buymeacoffee.com/athena)
 By giving €3,00 through [**Buy me a Coffee**](https://www.buymeacoffee.com/athena), you can help [purchase a flag pin](https://www.iconfinder.com/iconsets/flat-world-flags
-). Please leave a note on which flag you'd like purchased.
+). Please leave a note on which flag you'd like purchased. 
 
 The icons that you see right were added with Google's custom icons. However, a purchase is necessary to pay the creators and download the file.
 
-### Contact
+Of course, any support would be appreciated as creating and maintaining this map takes time! Thanks!
+
+## Contact
 [linkedin]: https://www.linkedin.com/in/athenaylam/
 [twitter]:   https://twitter.com/shenchingtou
