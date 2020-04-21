@@ -7,7 +7,7 @@ classes: wide
 excerpt: "The Berlin Asian Food Map Project shares Asian-owned food businesses to support during Covid-19, including Chinese, Taiwanese, Japanese, Korean, Thai, Vietnamese, Singapore, Malaysian, Nepalese, Sri Lankan, Indian, Pakistani, Afghan, and general regional grocers and restaurants."
 header:
   overlay_image: /assets/images/BerlinAsianFood/xiaolongbao.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.28)
   caption: "Photo credit: **Athena Lam**"
 
 ---
