@@ -93,10 +93,7 @@ footer:
       url: "https://instagram.com/thecupandtheroad"
 
 collections:
-   projects:
-     output: true
-     permalink: /:collection/:path/
-   writing:
+   portfolio:
      output: true
      permalink: /:collection/:path/
   
@@ -121,14 +118,6 @@ defaults:
       layout: single
       author_profile: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _writing
   - scope:
       path: ""
       type: portfolio
