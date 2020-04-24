@@ -93,10 +93,10 @@ footer:
       url: "https://instagram.com/thecupandtheroad"
 
 collections:
-  - projects:
+   projects:
      output: true
      permalink: /:collection/:path/
-  - diary:
+   diary:
      output: true
      permalink: /:collection/:path/
   
