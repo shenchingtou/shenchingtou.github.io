@@ -1,8 +1,6 @@
 ---
 title: "Diary test"
 excerpt: "This is test"
-layout: page
-collection: writing
 header:
   image: /assets/images/BerlinAsianFood/dumpling.jpg
   teaser: /assets/images/BerlinAsianFood/dumpling.jpg
