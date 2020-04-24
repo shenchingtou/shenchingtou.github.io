@@ -117,7 +117,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _writing
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
