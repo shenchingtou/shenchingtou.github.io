@@ -1,21 +1,11 @@
 ---
-title: "Diary test"
+layout: single
+title:  "Things I work on"
 excerpt: "This is test"
-permalink: /projects
-header:
-  image: /assets/images/BerlinAsianFood/dumpling.jpg
-  teaser: /assets/images/BerlinAsianFood/dumpling.jpg
-gallery:
-  - url: /assets/images/BerlinAsianFood/dumpling.jpg
-    image_path: /assets/images/BerlinAsianFood/dumpling.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/BerlinAsianFood/dumplings.jpg
-    image_path: /assets/images/BerlinAsianFood/dumplings.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/BerlinAsianFood/eggtart.jpg
-    image_path: /assets/images/BerlinAsianFood/eggtart.jpg
-    alt: "placeholder image 3"
+date:   2020-03-27 11:03:36 +0100
+permalink: /projects/
 ---
+
 I like to solve problems and start projects, especially if the solution is simple.
 
 ### Writing found at:
