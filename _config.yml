@@ -96,7 +96,7 @@ collections:
    projects:
      output: true
      permalink: /:collection/:path/
-   diary:
+   writing:
      output: true
      permalink: /:collection/:path/
   
@@ -128,7 +128,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _diary
+  # _writing
   - scope:
       path: ""
       type: portfolio

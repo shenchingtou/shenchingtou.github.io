@@ -1,8 +1,8 @@
 ---
-title: Personal writing
+title: Creative writing
 layout: collection
-permalink: /diary/
-collection: portfolio
+permalink: /writing/
+collection: writing
 entries_layout: grid
 classes: wide
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Diary test"
 excerpt: "This is test"
+collection: portfolio
 header:
   image: /assets/images/BerlinAsianFood/dumpling.jpg
   teaser: /assets/images/BerlinAsianFood/dumpling.jpg
