@@ -7,6 +7,16 @@ categories: [tech]
 tags: [apps, canada, vancouver, toronto]
 header:
   teaser: /assets/images/BerlinAsianFood/chinesestirfry.jpg
+gallery:
+  - url: /assets/images/chinesefoodapps/fantuan1.png
+    image_path: /assets/images/chinesefoodapps/fantuan1.png
+    alt: "Canada's Chinese food ordering app Fantuan"
+  - url: /assets/images/chinesefoodapps/fantuan3.png
+    image_path: /assets/images/chinesefoodapps/fantuan3.png
+    alt: "Fantuan English ordering menu"
+  - url: /assets/images/chinesefoodapps/fantuan4.png
+    image_path: /assets/images/chinesefoodapps/fantuan4.png
+    alt: "Fantuan food delivery checkout"
 ---
 ![full](/assets/images/BerlinAsianFood/chinesestirfry.jpg)
 
@@ -15,6 +25,7 @@ In some Canadian cities -- Vancouver, the Greater Toronto Area, Edmonton, and Ca
 Canada has seen waves of Chinese immigration over the past two-hundred years. As such, it's more accurate to say the Chinese communities identified by generation (1st, 2nd, 3rd+), dialect, nationality, and hometown. Both the Chinese-dominant and English-dominant speaking communities are large enough to warrant their own markets. I was astounded to find the number of Chinese food apps in Canada -- likely the highest number outside of Greater China. For your reference, here are Canada App Store [送餐 search results](https://www.apple.com/ca/search/%E9%80%81%E9%A4%90?src=serp).
 
 ## An overview of Chinese Food and Delivery Apps in Canada
+{% include gallery caption="Screenshots from the app Fantuan Chinese food delivery service" %}
 Here is an overview list of apps I've found. I have not tested all of them, but you can find below this table a summary of the top recommendations. Most of the apps below are bilingual English-Chinese.
 
 | Canada (Multi-region) | Vancouver | Toronto/Ontario |
