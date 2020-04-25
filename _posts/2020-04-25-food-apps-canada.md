@@ -2,7 +2,7 @@
 layout: posts
 title: Chinese Food Apps in Canada
 description: A list of Chinese and English food delivery and grocery apps in major Canadian cities such as Vancouver, Toronto, Edmonton, and Calgar
-image: /assets/BerlinAsianFood/chinesestirfry.jpg
+teaser: /assets/images/BerlinAsianFood/chinesestirfry.jpg
 date: '2020-04-25 9:03:36 +0530'
 categories: [tech]
 tags: [apps, canada, vancouver, toronto]
