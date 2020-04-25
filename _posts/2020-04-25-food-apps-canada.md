@@ -7,7 +7,7 @@ date: '2020-04-25 9:03:36 +0530'
 categories: [tech]
 tags: [apps, canada, vancouver, toronto]
 ---
-<img src="/assets/BerlinAsianFood/chinesestirfry.jpg" alt="Chinese stirfry dish" style="float:center">
+<img src="/assets/BerlinAsianFood/chinesestirfry.jpg" alt="Chinese stirfry dish">
 
 In some Canadian cities -- Vancouver, the Greater Toronto Area, Edmonton, and Calgary, the Chinese community seems to be large enough to create its own parallel markets. Recenlty, when I was researching Chinese restaurant open during Covid-19, I came across the [Singtao Daily's Vancouver restaurant takeout](http://singtao.ca/van_takeout). The spreadsheets were thorough, listing what apps restaurants provided delivery in as well as discount offers (essential for doing Chinese business!).
 
