@@ -97,7 +97,7 @@ collections:
    portfolio:
      output: true
      permalink: /:collection/:path/
-   recipes:
+   tech:
      output: true
      permalink: /:collection/:path/
    writing:
