@@ -4,6 +4,10 @@ excerpt: "This is test"
 header:
   image: /assets/images/BerlinAsianFood/dumpling.jpg
   teaser: /assets/images/BerlinAsianFood/dumpling.jpg
+
+layout: single
+classes: wide
+
 gallery:
   - url: /assets/images/BerlinAsianFood/dumpling.jpg
     image_path: /assets/images/BerlinAsianFood/dumpling.jpg
