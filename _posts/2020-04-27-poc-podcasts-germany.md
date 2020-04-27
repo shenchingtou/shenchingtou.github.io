@@ -6,19 +6,9 @@ date: '2020-04-25 9:03:36 +0530'
 categories: [Culture]
 tags: [germany, podcasts]
 header:
-  teaser: /assets/images/BerlinAsianFood/chinesestirfry.jpg
-gallery:
-  - url: /assets/images/chinesefoodapps/fantuan1.png
-    image_path: /assets/images/chinesefoodapps/fantuan1.png
-    alt: "Canada's Chinese food ordering app Fantuan"
-  - url: /assets/images/chinesefoodapps/fantuan3.png
-    image_path: /assets/images/chinesefoodapps/fantuan3.png
-    alt: "Fantuan English ordering menu"
-  - url: /assets/images/chinesefoodapps/fantuan4.png
-    image_path: /assets/images/chinesefoodapps/fantuan4.png
-    alt: "Fantuan food delivery checkout"
+  teaser: https://images.unsplash.com/photo-1452098778377-8c512094a610?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
 ---
-![full](/assets/images/BerlinAsianFood/chinesestirfry.jpg)
+![full](https://images.unsplash.com/photo-1452098778377-8c512094a610?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 
 Sharing a list that was circulated in an Asian German activist group.
 
