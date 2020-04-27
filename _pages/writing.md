@@ -5,6 +5,5 @@ permalink: /writing/
 collection: writing
 entries_layout: grid
 classes: wide
-author_profile: false
 ---
 
