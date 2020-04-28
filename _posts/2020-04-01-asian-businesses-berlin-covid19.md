@@ -2,7 +2,10 @@
 layout: posts
 title: Asian Businesses to Support in Berlin
 date: '2020-04-1 9:03:36 +0530'
-categories: [Berlin, Startups]
+categories: [Covid19]
+tags: 
+ - Berlin
+ - Asian community
 ---
 
 *Update: You can now contribute to this post by directly editing this document: [https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw](https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw).*

@@ -2,7 +2,10 @@
 layout: posts
 title: Covid-19 Telegram community groups should be channels
 date: 2020-03-29 21:03:36 +0530
-categories: [Covid-19, Cybersecurity]
+categories: [Covid19]
+tags:
+ - Cybersecurity
+ - Telegram
 ---
 
 Recently, I hesitated before joining some Telegram Covid-19 community support groups in Germany. These [Corona News](https://t.me/joinchat/Kqtla1CfK_0BlAGeFysrzQ) a well-intentioned security flaw. For a country where everyone remembers to ask your permission every time before they give out your phone number, it's ironic that so many people would opt in to giving away their contacts so readily. In contrast, this [Covid Soli Group List](https://t.me/covidsoliberlinlist) is a channel that protects the privacy of the 400 odd subscribers.

@@ -2,7 +2,8 @@
 layout: posts
 title: Things to Know When Using Zoom for Video Calls
 date: '2020-04-2 9:03:36 +0530'
-categories: [Tech, Cybersecurity]
+category: [Tech]
+tags: Cybersecurity
 ---
 
 *A rough summary of the internet backlash on Zoom, it's questionable privacy practices, and security. What you can do to reduce monitoring.*

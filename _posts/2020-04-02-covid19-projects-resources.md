@@ -2,7 +2,11 @@
 layout: posts
 title: Coronavirus / Covid19 Projects & Resources
 date: '2020-04-1 9:03:36 +0530'
-categories: Covid-19
+category: Covid19
+tags: 
+- Berlin
+- Apps
+- Resources
 ---
 
 *A working list of resources and solutions I think are effective around the world for Covid19. With a bias for hacking existing tools over building new things.*

@@ -4,7 +4,7 @@ title: POC Podcasts in German
 excerpt: "A list of POC podcasts and Youtube channels in German, mostly for the DACH region and Europe"
 date: '2020-04-25 9:03:36 +0530'
 categories: [Culture]
-tags: [germany, podcasts]
+tags: [Podcasts, German]
 header:
   teaser: https://images.unsplash.com/photo-1452098778377-8c512094a610?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
 ---
