@@ -7,22 +7,13 @@ tags:
  - Berlin
  - Asian community
 ---
+*The Berlin Asian Food map was last updated 28 August, 2020.*
 
-*Update: You can now contribute to this post by directly editing this document: [https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw](https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw).*
 
-### Latest Additions
+*Contribute: You can submit restaurants or new takeout/delivery options in this document: [https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw](https://hackmd.io/C7UtXN8vTHqt2LWLamc3rw).*
 
-* [**Phojito**](http://www.phojito.de/): Vietnamese
-* [**Ixthys**](https://www.facebook.com/pages/Ixthys/164683643563079): Korean
-* [**Rani**](https://goo.gl/maps/RQdKT9t2MDRCNPV39): Indian
-* [**Papaya at Winterfeldt Platz**](papaya-restaurants.de): Thai
-- From [Support local business Berlin](https://www.facebook.com/groups/878282025940262/?multi_permalinks=896406890794442&notif_id=1586435284886767&notif_t=feedback_reaction_generic)
+*You can also contact me on [Twitter](http://www.twitter.com/@shenchingtou) or [Instagram](https://instagram.com/thecupandtheroad). Thanks!*
 
-<center>You can always support by <a href="https://www.buymeacoffee.com/athena" target="_blank">buying Athena a coffee</a></a>. ;)
-</center>
-
----
-## Just show me the food
 This is a regularly updated map of Asian restaurants and groceries in Berlin. It is categorised by country pins to roughly highlight the cuisine focus. 
 
 You can find it at [https://tinyurl.com/berlinasianfood](https://tinyurl.com/berlinasianfood).
@@ -37,22 +28,19 @@ Whether you are new to Berlin or have grown up in the city, if you identify as A
 
 **Since January, Asians have been experiencing much more racism and discrimination. Business is tough as it is, but Asian businesses will suffer doubly. Whatever your background, if you are going to #SupportYourLocal businesses, please seek out Asian ones to support as well. Thank you!**
 
-If you have someone to add, please contact Athena on [Twitter](http://www.twitter.com/@shenchingtou) or [Instagram](https://instagram.com/thecupandtheroad). Thanks!
 
-## Grocery Stores Still Open
-Please go support these places or your neighbourhood corner shop!
+## Asian grocery stores are still open
+Please go support these places or your neighbourhood corner shop! These places are still open (and likely many more):
 
 *  [**Go Asia**](https://goasia.net/): Online orders and the stores are still open! Also check their [Facebook page for updates](https://www.facebook.com/GoAsiaSupermarkt/)
+* Vinh-Lo
 *  [**Asia24 in Dong Xuan Centre**](http://asia24-lifefood.de/): A massive grocery store with staples for every type of Asian home cooking (from Indian to Japanese)
 *  [**Asia-Markt Kopenhagener Str.**](https://www.google.com/maps?cid=13374450085598609783): Well stocked for most Asian basics
 *  [**Asia Mekong**](https://www.google.com/maps?cid=14757497294014714285)
 *  [**Asia Market Lee**](http://nipponya.de/asia-markt-lee-mitte/) & [Google Maps](https://www.google.com/maps/place/Asia+Market+Lee+GmbH/@52.5190242,13.4127202,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd1472409d24e6296!8m2!3d52.5190242!4d13.4149089)
 
 ## Restaurants
-
-<center><img src="/assets/blog/2020-03/chinese_veg_stirfry.jpg" alt="Chinese vegetarian stirfry" height="250"></center>
-
-Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery, takeout, or vouchers. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
+Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery, takeout, or vouchers. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration. Below are some eateries to get you going, but the map above has 150+ entries. 
 
 ### Pan-Asian
 *  [**Easy Cook Asia**](https://www.facebook.com/easycookasia/?eid=ARDESy2ZiwYwa11EQsXRaE_PQCTWXBb36s90Lis81jVPxVxQojFX9lHj0mG80gAAIGaJ-8xInteN8yeJ&timeline_context_item_type=intro_card_work&timeline_context_item_source=642427799&fref=tag): Prepared ingredients to cook at home 
@@ -103,7 +91,6 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Li.Ke Thai**](https://www.instagram.com/li.ke.thai.vegan/): Vegan Thai 
 *  [**Kin Dee**](https://kindeeberlin.com/en//): Thai
 *  [**Papaya in Kantstrasse**](https://www.google.com/maps/place/papaya+in+der+kantstrasse+%2F+papaya+zaep+zaep/@52.506308,13.3082763,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd61004f2585ed089!8m2!3d52.506308!4d13.310465): Thai ([Menu here](https://www.papaya-service.de/wp-content/uploads/2020/03/papaya-in-der-kantstrasse-P5-optimiert-Mittel.pdf?fbclid=IwAR3FFYrf9bBFKE1nGhHrzj2DI3mUanUOQ6pE0bgxVtBp0nGYC-KV2F1IO2g))
-*  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
 *  [**Mae Charoen Thai Imbiss**](https://www.google.com/maps/place/Mae+Charoen+Thai+Imbiss/@52.4795534,13.4418076,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc94c0227a6e4aac2!8m2!3d52.4795534!4d13.4439963): Thai
 * [**Papaya at Winterfeldt Platz**](papaya-restaurants.de): Thai
 
@@ -122,35 +109,9 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 ### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
 [**Rani**](https://goo.gl/maps/RQdKT9t2MDRCNPV39): Indian
-*  [**Moksa**](https://www.instagram.com/moksa.kitchen/): Nontraditional Indian (self-styled)
 *  [**Lion Superfoods**](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi): Natural South Asian dried snacks direct from farmers in Sri Lanka
 * **[Many more on Google Maps!](https://tinyurl.com/berlinasianfood)**
 
-
-### Closed (or not sure)
-Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
-
-There's an endless list of restaurants and many that are not online (yet). If someone wants to volunteer to set up a form / open spreadsheet, I can more easily compile this list. :-) 
-
-* [Momiji Taiyaki](https://www.facebook.com/momijiberlin/?hc_location=ufi): Japanese snacks
-* [Taiyaki Berlin](https://www.instagram.com/taiyakiberlin/?igshid=cpfw6oujrj3c): Beloved Japanese street snack re-interpretted
-* [Nanohana](https://www.instagram.com/nanohana.berlin/): Japanese bistro
-* [Chotto](https://www.instagram.com/chottoberlin/): Japanese bistro
-* [Chon Thong](https://www.google.com/maps/place/Chon+Thong/@52.5067969,13.3086631,15z/data=!4m2!3m1!1s0x0:0x1ec2fcb809d36662?sa=X&ved=2ahUKEwipiJejptjoAhVPhlwKHSCxCnEQ_BIwE3oECBsQCA): Legendary Thai restaurant
-* [Made in China](https://www.instagram.com/madeinchina.berlin/?igshid=11gjqpxo04v8l): Their head chef returned to China. :-( Check for updates.
-* [Long Men's Noodles 龍門牛肉麵大王 台灣風味](https://www.instagram.com/lonmensnoodlehouse/?igshid=uzqy57t4ioj4)
-* [Dan's Dim Sum](https://www.facebook.com/dansdimsumberlin/)
-*  [The Panda Noodle](https://www.instagram.com/thepandanoodle/) 
-*  [Liu Nudelhaus 成都味道面馆](https://www.instagram.com/liuchengduweidao/?hl=en)
-*  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
-*  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
-*  [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
-*  [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
-*  [Anh Dao](https://www.google.com/maps/place/Anh+Dao/@52.5402998,13.4171689,17z/data=!4m5!3m4!1s0x0:0x518fd521e9c207ca!8m2!3d52.5397382!4d13.4190702?hl=zh-Hant-DE): Vegetarian Vietnamese
-*  [Kitchen Stories](https://www.kitchenstories.com/en) 
-*  [Hilo Donuts](https://hilodonuts.de/) 
-
-If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & Fräulein Kimchi respectively shared how they dived into deliveries in 4 days on **[Feminist Food Collective's](https://feministfoodclub.com) "Corona Crisis Talks"**.
 
 ## Home Products
 [**Binuyo**](www.binuyo.com): Natural, vegan soaps
@@ -159,11 +120,11 @@ If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & F
 ## Creatives & freelancers
 I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
 
-* [**Zi Gattina**](https://www.zigattina.com)
+* [Zi Gattina](https://www.zigattina.com)
 - IG: [@Zigattina](https://www.instagram.com/zigattina/?fbclid=IwAR0CDf0oSnbKIQgIZ8ujpyEHYadGSDEAjw_Ou4cItnUp5P6X0K9UgE3NijQ)
-* [**Jee Hei Park Illustration & Graphic Design**](https://www.jeeheipark.com/)
+* [Jee Hei Park Illustration & Graphic Design](https://www.jeeheipark.com/)
 - Contact: [e-mail](mailto:Hello.jeeheipark@gmail.com)
-* [**Mariko Chiba Ceramics**](https://marikochiba.com/post/190841547501)
+* [Mariko Chiba Ceramics](https://marikochiba.com/post/190841547501)
 
 
 ## Additional startups & businesses
