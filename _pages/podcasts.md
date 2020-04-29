@@ -2,7 +2,7 @@
 layout: single
 title:  "My Podcast List"
 date:   2020-04-20 11:03:36 +0100
-permalink: /berlinasianfood/
+permalink: /podcasts/
 classes: wide
 excerpt: "The Berlin Asian Food Map Project shares Asian-owned food businesses to support during Covid-19, including Chinese, Taiwanese, Japanese, Korean, Thai, Vietnamese, Singapore, Malaysian, Nepalese, Sri Lankan, Indian, Pakistani, Afghan, and general regional grocers and restaurants."
 header:
