@@ -23,6 +23,9 @@ I've kept it to German ones.
 - [bin ich süßsauer](https://binichsuesssauer.podigee.io/): Queer Asians
 - [Heimatmysterium](https://heimatmysterium.podigee.io/)
 - [Tupodcast](https://tupodcast.podigee.io/): Focus on the Black community in Germany, on Anti-Racism.
+- [Tanti Table](https://www.bearradio.org/tantitable?fbclid=IwAR0RMT5FChKuepaXQfk_bVBDzT-yoNyie926ml-H6rLa0rgLyfF6PTUmRkE) - Hosted by Berlin-based womxn- Trinidadian-American writer Rhea Ramjohn, South African artist, Goitseone Montsho, and Afghan-German lawyer and writer Armeghan Taheri
+
+Check out [Bear Radio](https://www.bearradio.org/) for more community podcasts in Berlin.
 
 ### Youtubers
 - [Karakaya talks](https://www.youtube.com/channel/UCfN7JOiJhYpMHuRgLV1JicA): Muslim, queer
