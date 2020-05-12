@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Berlin Asian Food"
+title:  "About the Berlin Asian Food Map"
 date:   2020-04-20 11:03:36 +0100
-permalink: /berlinasianfood/
+permalink: /berlinasianfoodmap/
 classes: wide
 excerpt: "The Berlin Asian Food Map Project shares Asian-owned food businesses to support during Covid-19, including Chinese, Taiwanese, Japanese, Korean, Thai, Vietnamese, Singapore, Malaysian, Nepalese, Sri Lankan, Indian, Pakistani, Afghan, and general regional grocers and restaurants."
 header:
