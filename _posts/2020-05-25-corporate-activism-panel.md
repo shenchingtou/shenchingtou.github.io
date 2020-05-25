@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Corporate Activism panel recap
+title: Corporate Activism Panel Recap
 excerpt: "Summary of the Corporate Activism panel with professionals from Olympia12062020, Patagonia in Europe, Soulbottles, and Moyee Coffee."
 date: '2020-05-25 12:03:36 +0530'
 categories: [Covid19]
