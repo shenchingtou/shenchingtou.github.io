@@ -6,8 +6,8 @@ date: '2020-05-25 12:03:36 +0530'
 categories: [Covid19]
 tags: [Apps, Events, Social enterprise, purpose-driven business]
 header:
-   teaser: /assets/images/corporateactivism_panelists.jpg
-   image: /assets/images/corporateactivism_panelists.jpg
+   teaser: /assets/images/corporateactivism_panelists.png
+   image: /assets/images/corporateactivism_panelists.png
 
     
 ---
