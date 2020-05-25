@@ -7,10 +7,8 @@ categories: [Covid19]
 tags: [Apps, Events, Social enterprise, purpose-driven business]
 header:
    teaser: /assets/images/corporateactivism_panelists.jpg
-#  image: /assets/images/corporateactivism_panelists.jpg
-  video:
-    id: Rs2owNgPZI4
-    provider: youtube
+   image: /assets/images/corporateactivism_panelists.jpg
+
     
 ---
 *On May 21, professionals from [Olympia12062020](https://www.12062020.de/en/), [Patagonia in Berlin](https://www.patagonia.com/sustainable-apparel-coalition.html), [soulbottles](https://www.soulbottles.de/en/) and [Moyee Coffee](https://www.moyeecoffee.com/) came together to discuss [**Corporate Activism - The Power of Purpose in Times of Uncertainty**](https://www.eventbrite.com/e/corporate-activism-the-power-of-purpose-in-times-of-uncertainty-tickets-104527911798#). This summary covers the main themes from my discussions with the panelists that addressed corporate activism on the ground, collaboration, and recent innovations since Covid-19 hit.*
