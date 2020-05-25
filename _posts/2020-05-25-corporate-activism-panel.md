@@ -117,7 +117,7 @@ Afra also says that there needs to be political support and regulations need to 
 
 Hervé challenged the question asking what sustainability meant since it has been marketed the wrong way by corporations. He hopes activism will not be the same. He thinks that the pandemic has shown that people have found out is that in the end we’re pretty bad consumers and that we’re pretty good human beings in a crisis. We’ve heard many beautiful stories showing resilience and mutual aid. And if there’s something activism should look at, it is the power of our collective imagination and the power of mutual aid within the groups and cultivating true, good, human relationships is maybe the biggest key to the future.
 
-Q&A: How can you make Purpose Companies interesting to investors?
+**Q&A: How can you make Purpose Companies interesting to investors?**
 
 Clara says that impact investment is a growing field. She says that when she was studying business, she found it shocking that business classes taught that business is to maximise shareholder value. By shifting this narrative, we can shift what is attractive to investors.
 
