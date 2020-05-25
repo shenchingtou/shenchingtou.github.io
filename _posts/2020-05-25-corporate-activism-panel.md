@@ -13,7 +13,9 @@ header:
 ---
 *On May 21, professionals from [Olympia12062020](https://www.12062020.de/en/), [Patagonia in Berlin](https://www.patagonia.com/sustainable-apparel-coalition.html), [soulbottles](https://www.soulbottles.de/en/) and [Moyee Coffee](https://www.moyeecoffee.com/) came together to discuss [**Corporate Activism - The Power of Purpose in Times of Uncertainty**](https://www.eventbrite.com/e/corporate-activism-the-power-of-purpose-in-times-of-uncertainty-tickets-104527911798#). This summary covers the main themes from my discussions with the panelists that addressed corporate activism on the ground, collaboration, and recent innovations since Covid-19 hit.*
 
-![full](/assets/images/corporateactivism_panelists.jpg)
+
+{% include video id="Rs2owNgPZI4" provider="youtube" %}
+You can also find the videos on [Zoom](https://zoom.us/rec/share/18JTNbv9z3lLQrfT5EDuUIwaM9XYaaa8hCdL__ELzkgOSWVEWSwK4P-Mmyx6wJhQ?startTime=1590076817000) and [Youtube](https://www.youtube.com/watch?v=Rs2owNgPZI4&feature=youtu.be)
 
 For many, 2019 has been a rough year -- from Hong Kong's protests to the fire of Notre Dame (which overshadowed the massacre the same day ), New Zealand's shooting, wildfires in Brazil, the continued Brexit debacle, Muller report and Trump impeachment. But we also have the Global Climate Strike, the Entrepreneurs For Future and the B Corp Movement lead by purpose-driven businesses. 
 
@@ -24,6 +26,8 @@ The positive impact environmental and social activism has grown to a tipping poi
 * Karry Schwettmann, Impact Marketing, [Moyee Coffee](https://www.moyeecoffee.com/)
 * Hervé Dupied, Environmental Initiatives EMEA, [Patagonia](https://www.patagonia.com/sustainable-apparel-coalition.html)
 
+![full](/assets/images/corporate_activism_call.jpg)
+
 
 **The event covers three main topics:**
 
@@ -31,9 +35,6 @@ The positive impact environmental and social activism has grown to a tipping poi
 2. Collaboration - Where’s a place to start for SMEs / NGOs / Innovators to engage larger global brands?
 3. Recent Innovations and Possibilities for Future Sustainability
 
-
-{% include video id="Rs2owNgPZI4" provider="youtube" %}
-You can also find the videos on [Zoom](https://zoom.us/rec/share/18JTNbv9z3lLQrfT5EDuUIwaM9XYaaa8hCdL__ELzkgOSWVEWSwK4P-Mmyx6wJhQ?startTime=1590076817000) and [Youtube](https://www.youtube.com/watch?v=Rs2owNgPZI4&feature=youtu.be)
 
 ## Corporate Activism: Unpacking a concept on the ground
 
