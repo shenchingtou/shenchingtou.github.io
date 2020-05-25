@@ -6,17 +6,43 @@ permalink: /about/
 ---
 Hi there,
 
-I'm Athena. I am a content marketer. I copy and paste code to render a collage of my notes online.
+I'm Athena. I am a content marketer. This is a space for me to store lists, drop notes, and experiment with basic coding. 
 
-I express myself best when talking about products. You can psychoanalyse my choice of tools:
-
+I express myself best when talking about products. 
 
 Favourite writing tools:
-- [Bear](https://bear.app/)
-- [HackMD](https://hackmd.io)
-- [Quiver](https://happenapps.com/#quiver)
-- [Buttondown](https://buttondown.email/athena)
-- [Substack](https://elsewhere.substack.com)
+1. [HackMD](https://hackmd.io)
+2. [Bear](https://bear.app/)
+3. [Quiver](https://happenapps.com/#quiver)
+4. [Buttondown](https://buttondown.email/athena)
+5. [Substack](https://elsewhere.substack.com)
+
+My favourite way to write is using markdown. 
+
+## Content Marketing
+I use Wordpress, Google Analytics, [Buffer](https://buffer.com), [Hootsuite](https://hootsuite.com), [Ahrefs](https://ahrefs.com)
+
+I highly recommend to anyone who will listen these alternatives to Wordpress:
+- [Ghost.org](https://ghost.org)
+- [Craft CMS](https://craftcms.com)
+- [Netlify CMS](https://www.netlifycms.org/)
+- [Shopify](https://shopify.com) - instead of WooCommerce
+
+This blog is built with the static-site generator [Jekyll (Ruby-based)](jekyllrb.com/), hosted by [Github Pages](https://pages.github.com/). 
+I am also familiar with [Hugo](https://gohugo.io/getting-started/quick-start/), as well as [Netlify](netlify.app) and [Forrestry.io](https://forestry.io/) for deployment. See my latest projects on [my Github repo][jekyll-gh]. 
+
+## Available for 
+I like working with teams that have great people, well-built products, that fulfill a concrete purpose. You can check my [LinkedIn][linkedin]. I am available for:
+
+- Content strategy: workshop, training, or projects
+- Content marketing: website and blog setup, SEO
+- Events: speaking and moderation 
+
+
+If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
+
+
+## Other tools 
 
 UI/UX: [Figma](figma.com/) - because it's free. Otherwise AdobeXD.
 
@@ -29,19 +55,6 @@ Productivity tools:
 - [Calendly](calendly.com/athena-lam/)
 - [Notion](https://notion.so)
 
-Favourite marketing tools: 
-- [Ahrefs](https://ahrefs.com)
-- [Hootsuite](https://hootsuite.com) (If there's budget.)
-- [Buffer](https://buffer.com) (If there's no budget.)
-
-
-Favourite code editor: [Sublimetext](https://www.sublimetext.com/)
-
-
-I like learning about backend and software architecture, especially in how they improve UX from behind the scenes. However, I am chiefly focused on thinking about how I can share information in a way that is convenient for me as a creator and viewers of the information displayed. Organisations I like products from include **[Foundation](https://get.foundation/sites/docs/)**, **[Ghost.org](https://ghost.org)**, **[Craft CMS](https://craftcms.com)**.
-
-
-You can check out my [LinkedIn][linkedin] for more information on my past work and see my latest projects on [my Github repo][jekyll-gh]. If you have questions, you can [e-mail me](mailto:athen@piccoloportfolios.com).
 
 [linkedin]: https://www.linkedin.com/in/athenaylam/
 [twitter]:   https://twitter.com/shenchingtou
