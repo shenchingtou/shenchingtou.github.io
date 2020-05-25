@@ -40,15 +40,15 @@ The positive impact environmental and social activism has grown to a tipping poi
 
 To open up, I asked the panelists to give concrete shape to what corporate activism meant to them and their organisations. Below are some of their key ideas:
 
-**Soulbottles: Using the company as a platform get the message out**
+**soulbottles: using the company as a platform get the message out**
 
 Clara said that lobbyism is present in shaping our society and politics worldwide, and corporate activism as a co-responsibility of a company to use this power that we have in the economy to shift it towards a more just and sustainable one. At Soulbottles, the whole team did not work for the climate strike day, closed down the office (even working from home), logistics, and the online store. Instead, they used their store to leave a message for customers: “Today is global climate strike, please go on the streets, please spread the word and let’s all fight for climate justice”. Another example is raising awareness for [Entrepreneurs for Future](https://www.entrepreneurs4future.de/), which is a movement that has grown in Germany to about 4.500 companies, representing around 200.000 employees since it began in 2019. For Clara, companies that are usually seen as polluters can also be the ones at the frontlines of petitioning for change and for political improvements. 
 
 **Patagonia in Europe: Supporting movements**
 
-**Hervé:** The corporates are lead by citizens at the end, not employees and they can shape is as they want. And activism should not be seen as only people fighting against the police in the streets. There are many forms of activism. And you see more and more NGOs, institutions, even pioneers just by themselves showing that activism is only a term to say as citizens I want to have my word and take the power by connecting with others. 
+Hervé pointed out that corporates are lead by citizens at the end, not employees and they can shape is as they want. And activism should not be seen as only people fighting against the police in the streets. There are many forms of activism. And you see more and more NGOs, institutions, even pioneers just by themselves showing that activism is only a term to say as citizens I want to have my word and take the power by connecting with others. 
 
-**Moyee Coffee: Engaging Politicians for Long-tail changes**
+**Moyee Coffee: picking away at systemic changes**
 
 Karry gave an example of writing an open letter to the German minister of development, Gerd Müller, who is a longtime advocate of scrapping the coffee tax on FairTrade coffee. She pointed out that educating politicians about the underlying problems we face in the coffee value chain, which may be behind the scenes can have an impact, if a long-term one. Karry mentioned that  getting media on board was not bringing the attention that they'd hoped for, but a breakthrough happened when the team met Gerd Müller in person in Ethiopia, after which he changed from speaking about "FairTrade coffee" to "Fair Coffee" and it is at the center of the debate around the coffee tax. 
 
