@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 _drafts
 _posts/2020-01-01-template.md
+_posts/.obsidian/config
+_posts/.obsidian/cache
