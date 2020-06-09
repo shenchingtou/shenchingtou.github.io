@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "POC Founders & Businesses in Berlin"
+title:  "Asian Founders & Businesses in Berlin"
 date:   2020-06-08 11:03:36 +0100
 permalink: /berlinasianfounders/
 classes: wide
@@ -12,14 +12,14 @@ header:
 
 ---
 ## Asian Founders in Berlin
+This page is a living document. It focuses on Asian founders in Berlin, but I encourage you to look into additional Black, POC, accessibility, and LGBTQ communities as well!
+
 Starting with the Asian-owned businesses that you can support:
 - [Berlin Asian-Owned Restaurants](www.berlinasianfood.com)
 * [Sprachinstitut Berlin: Deutschkurse & Englischkurse in Berlin-Mitte](https://sprachinstitut-berlin.de)
 * [Hilo Donuts](https://hilodonuts.de/)
 * [Lion Superfoods](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi)
 * [Setting.io](https://setting.io/) – Co-working Space
-
-Also check out Black founders and businesses as well!
 
 ### In Tech
 [Easy Cook Asia](https://www.facebook.com/easycookasia/)
