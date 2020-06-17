@@ -100,7 +100,7 @@ collections:
    tech:
      output: true
      permalink: /:collection/:path/
-   writing:
+   maps:
      output: true
      permalink: /:collection/:path/
   
