@@ -9,11 +9,11 @@ layout: single
 classes: wide
 
 gallery:
-  - url: /assets/images/coffeewalks/coffeewalks.png
-    image_path: /assets/images/coffeewalks/coffeewalks.png
+  - url: /assets/images/maps/coffeewalks.png
+    image_path: /assets/images/maps/coffeewalks.png
     alt: "Screenshot of coffee walks in a blog"
-  - url: /assets/images/coffeewalks/lowermainland.png
-    image_path: /assets/images/coffeewalks/lowermainland.png
+  - url: /assets/images/maps/lowermainland.png
+    image_path: /assets/images/maps/lowermainland.png
     alt: "Independent Cafes and Roasters in Vancouver's Lower Mainland Region"
   - url: https://thecupandtheroad.files.wordpress.com/2017/07/curators-coffee-liverpool-street-london-3457.jpg
     image_path: https://thecupandtheroad.files.wordpress.com/2017/07/curators-coffee-liverpool-street-london-3457.jpg
