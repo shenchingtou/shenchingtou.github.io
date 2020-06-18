@@ -3,5 +3,7 @@ main:
     url: /berlinasianfoodmap/
   - title: "Asian Eats Directory"
     url: https://directory.foodcoop.asia
+  - title: "Maps"
+    url: /maps/    
   - title: "About"
     url: /about/
