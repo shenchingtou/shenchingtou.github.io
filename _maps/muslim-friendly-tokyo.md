@@ -12,19 +12,16 @@ gallery:
   - url: /assets/images/maps/muslimfriendlytokyo.png
     image_path: /assets/images/maps/muslimfriendlytokyo.png
     alt: "Map of Muslim eats and places of worship in Tokyo"
-  - url: /assets/images/BerlinAsianFood/dumplings.jpg
-    image_path: /assets/images/BerlinAsianFood/dumplings.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/BerlinAsianFood/eggtart.jpg
-    image_path: /assets/images/BerlinAsianFood/eggtart.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/maps/Naritayaramen.jpg
+    image_path: /assets/images/maps/Naritayaramen.jpg
+    alt: "Naritaya Halal Ramen in Tokyo"
 ---
 
 *This is an archived version of a post titled "Muslim Friendly Tokyo: Mosques, Restaurants, and more!" from March, 2016.*
 
 {% include gallery %}
 
-<iframe src="https://www.google.com/maps/d/embed?mid=13kAIidCrYBQHGvuJuwBtfEF3mzU" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=13kAIidCrYBQHGvuJuwBtfEF3mzU" width="100%" height="480"></iframe>
 
 I had created this map for Halal restaurants and other places of interst to Muslims in Tokyo (such as places of worship).
 
