@@ -26,7 +26,7 @@ This is a test for a diary entry
 
 ## Madrid
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1zOLwbf42xDA1UAbmGi0FJfYTHRv_O_i4" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1zOLwbf42xDA1UAbmGi0FJfYTHRv_O_i4" width="100%" height="480"></iframe>
 
 - Federal Cafe
 - HanSo Cafe
@@ -38,11 +38,11 @@ This is a test for a diary entry
 
 ## London: East London, Clerkenwell, Soho, Fritzrovia
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1gerH84PLiOROMRZ1-0u-DttYlgA" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1gerH84PLiOROMRZ1-0u-DttYlgA" width="100%" height="480"></iframe>
 
 ## Vancouver
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1RXxaTLc2LCychS7nwa3MmdOAB8U" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1RXxaTLc2LCychS7nwa3MmdOAB8U" width="100%" height="480"></iframe>
 
 ### Larger Lower Mainland Map
-<iframe src="https://www.google.com/maps/d/embed?mid=191BlAEi4MDP-e3maA2peoRTs4vQ" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=191BlAEi4MDP-e3maA2peoRTs4vQ" width="100%" height="480"></iframe>
