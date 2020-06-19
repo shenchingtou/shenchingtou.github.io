@@ -22,22 +22,29 @@ gallery:
 
 {% include gallery %}
 
+The map I created includes restaurants that I could find back in 2016 as well as places of worship throughout Tokyo for people who lived there. 
+
 <iframe src="https://www.google.com/maps/d/embed?mid=13kAIidCrYBQHGvuJuwBtfEF3mzU" width="100%" height="480"></iframe>
 
-I had created this map for Halal restaurants and other places of interst to Muslims in Tokyo (such as places of worship).
+Since I created this map, many more resources have been made available to the Muslim community in Japan. 
 
-You’ll find restaurants, mosques, and prayer rooms marked. I also created a [vegetarian restaurants in Tokyo](https://thecupandtheroad.com/2016/02/10/vegetarian-restaurants-tokyo/) guide to expand the places people can eat at.
+### Apps
+#### [Halal Gourmet Japan](https://www.halalgourmet.jp/) [English] [iPhone](https://itunes.apple.com/hk/app/halal-gourmet-japan/id1004830156?mt=8&ign-mpt=uo%3D4) | [Android](https://play.google.com/store/apps/details?id=jp.halalgourmet.mobile&hl=en_US)
+1000+ Halal restaurants in Japan for travellers from Malaysia, Singapore, Indonesia, and the Middle East. While many Japanese may be meat-free because they are seafood based, only a handful of places serve Halal meat. 
 
-Japan now has Muslim-friendly apps and guides, so it's more likely that those will be of use, but this map is useful if you want to save it to your Google Map and not toggle back and forth. 
+#### Halal Navi [English] [iPhone](https://itunes.apple.com/my/app/halal-navi/id887385257?mt=8) | [Android]((https://play.google.com/store/apps/details?id=com.halalnavi&hl=en_US))
+Halal Navi is created by the same group that does NaviTime, one of Japan's most locally popular transit apps. The app also has “Halal tips”.
 
-**General Chains:**
+#### Happy Cow [English] [iPhone](https://itunes.apple.com/us/app/happycow-find-vegan-food/id435871950?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.sisow.hcvg.healthydiningguide)
+Mostly Japanese cafe style or Western-inspired food, but safe.
 
+### General Food Chains:
 * [Siddique](http://www.siddique.co.jp/#!find-shops/c1tlk) – All their branches serve Halal. Some are outside Tokyo.
 * [Hanasakaji-san (Shabu Shabu) 花咲かじいさん](http://www.hanasakaji-san.jp/) Japanese Shabu Shabu Certified Halal by Malaysian Halal Corporation
 
-* CLOSED permanently since 2106: Akdeniz アキデニス (Ikebukuro)
 
-**Halal Groceries:**
+### Halal Groceries:
 
 * Online Stores: [Halal Meat Japan](http://mhalalc.ocnk.biz/)
 * Online Store: [Halal Food / Said Shop](http://halal-food.jp/)
+
