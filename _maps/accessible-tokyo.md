@@ -1,6 +1,6 @@
 ---
 title: "Accessible Tokyo"
-excerpt: "This is test"
+excerpt: "A map and guide to wheelchair accessibility in Tokyo"
 header:
   image: /assets/images/maps/tokyo-subway-wheelchair-accessible-map.png
   teaser: /assets/images/maps/tokyo-subway-wheelchair-accessible-map.png
@@ -20,13 +20,13 @@ gallery:
     alt: "A French couple travelling in Tokyo's subway"
 ---
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
 *This is an archived post from April, 2016. It is no longer actively maintained.*
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1pL7fdjzONh-v_XqIjl5IB5IBBbA" width="100%" height="480"></iframe>
 
 ## General Things
+ ![Reading information on where lifts are located in Tokyo subway stations](/assets/images/maps/tokyo-subway-wheelchair.jpg)
+*A station attendant waits with a passenger to help him get on the train in Tokyo.*
 
 Tokyo’s an incredible, and potentially overwhelming, city that should be experienced first hand. As officially the most populous city in the world, it is incredibly complex. It has over 225 stations in its 23 Wards and over a million people in transit every day. Still, the city is more accessible than it seems. Stations often have washrooms and lifts, and so do department stores and buildings. The information is a bit scattered, but out there!
 
@@ -160,7 +160,7 @@ However, the good news is you can find many good restaurants in department store
 
 ### Some Sightseeing Areas
 
-Many of the tourist attractions in Tokyo have designated accessibility features. Many of the attractions are also shopping areas, such as **Shinjuku,** **Shibuya, Roppongi, Odaiba** and **Oshiage Skytree.** **These stations have accessible exits, which you can see in the [Accessible Tokyo Map](https://www.google.com/maps/d/u/0/embed?mid=z9I_J-xLEcqc.kTMTzMFCU9EA). The main challenge is navigating through the complex stations and all the people. Be sure to look at station maps and plan your route.
+Many of the tourist attractions in Tokyo have designated accessibility features. Many of the attractions are also shopping areas, such as **Shinjuku,** **Shibuya, Roppongi, Odaiba** and **Oshiage Skytree.** These stations have accessible exits, which you can see in the [Accessible Tokyo Map](https://www.google.com/maps/d/u/0/embed?mid=z9I_J-xLEcqc.kTMTzMFCU9EA). The main challenge is navigating through the complex stations and all the people. Be sure to look at station maps and plan your route.
 
 #### Below are some links of sights to visit:
 
