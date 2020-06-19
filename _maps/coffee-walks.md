@@ -7,6 +7,7 @@ header:
 
 layout: single
 classes: wide
+author_profile: true
 
 gallery:
   - url: /assets/images/maps/coffeewalks.png
