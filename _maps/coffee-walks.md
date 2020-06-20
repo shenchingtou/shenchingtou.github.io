@@ -2,8 +2,8 @@
 title: "Coffee Walks"
 excerpt: "Past walking for various cities"
 header:
-  image: https://thecupandtheroad.files.wordpress.com/2017/07/curators-coffee-liverpool-street-london-3457.jpg
-  teaser: https://thecupandtheroad.files.wordpress.com/2017/07/curators-coffee-liverpool-street-london-3457.jpg
+  image: /assets/images/maps/workshop-coffee.jpg
+  teaser: /assets/images/maps/workshop-coffee.jpg
 
 layout: single
 classes: wide
