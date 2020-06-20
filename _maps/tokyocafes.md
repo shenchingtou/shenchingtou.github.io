@@ -10,9 +10,9 @@ classes: wide
 author_profile: true
 
 gallery:
-  - url: /assets/images/maps/coloso-coffee-tokyo.jpg
-    image_path: /assets/images/maps/coloso-coffee-tokyo.jpg
-    alt: "Coloso Coffee's owner in Harajuku, Tokyo"
+  - url: /assets/images/maps/glitch-coffee.jpg
+    image_path: /assets/images/maps/glitch-coffee.jpg
+    alt: "Bronze hario filter coffee pourer at Glitch Coffee"
   - url: /assets/images/maps/PNB-coffee-setagaya-1.jpg
     image_path: /assets/images/maps/PNB-coffee-setagaya-1.jpg
     alt: "Coffee pastries"
