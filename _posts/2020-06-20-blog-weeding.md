@@ -42,6 +42,11 @@ The only two I got right were the [coffee walks](https://shenchingtou.github.io/
 **Aside** Style stripping Wordpress > Quiver (text) > Quiver (markdown) > HackMD or Obsidian Markdown
 {: .notice--info}  
 
+But then I discovered the vegetarian Tokyo map, accessible Tokyo map, and Muslim-friendly map. Uncovered from the heap (200+) of posts over the years, they no longer seem like esoteric investigations. They were flashbacks to the conviction from which they were created, a rare flashpoint where I could see clearly what mattered from five years ago, a witness who has arrived five years later, meeting the past who still recognises a shared present.
+
+These maps do not deserve to be dumped into one Tokyo archive. The blog can be scripped, but these are the pillars that need to be moved. These three maps sucked up the bulk of a day. Stuff that doesn't translate well -- tables.
+
+But in that process, I discovered how many maps I've created, and even more surprisingly, how many times they've been used (or not). How naive -- as a content marketer, I focused on the page views that grew over the years. I'd completely forgotten the maps I had built the pages around. If only all naivite could feel so rewarding.
 
 
 
