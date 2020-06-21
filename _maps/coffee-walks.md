@@ -20,10 +20,7 @@ gallery:
     image_path: https://thecupandtheroad.files.wordpress.com/2017/07/curators-coffee-liverpool-street-london-3457.jpg
     alt: "placeholder image 3"
 ---
-
-This is a test for a diary entry
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery %}
 
 ## Madrid
 
