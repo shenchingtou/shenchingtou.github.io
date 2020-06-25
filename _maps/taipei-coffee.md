@@ -18,6 +18,9 @@ gallery:
   - url: /assets/images/maps/cafe-macho-taipei.jpg
     image_path: /assets/images/maps/cafe-macho-taipei.jpg
     alt: "A barista steaming milk at Cafe Macho in Taipei"
+  - url: /assets/images/maps/simple-kaffa-hotel-v.jpg
+    image_path: /assets/images/maps/simple-kaffa-hotel-v.jpg
+    alt: "Simple Kaffa is in the basement courtyard of Hotel V"
 ---
 
 {% include gallery %}
