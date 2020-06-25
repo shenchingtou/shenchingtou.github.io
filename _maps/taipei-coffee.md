@@ -21,6 +21,18 @@ gallery:
   - url: /assets/images/maps/simple-kaffa-hotel-v.jpg
     image_path: /assets/images/maps/simple-kaffa-hotel-v.jpg
     alt: "Simple Kaffa is in the basement courtyard of Hotel V"
+  - url: /assets/images/maps/yamada-coffee-taipei.jpg
+    image_path: /assets/images/maps/yamada-coffee-taipei.jpg
+    alt: "Yamada Coffee's minimalist wall counter"
+  - url: /assets/images/maps/fujin-coffee.jpg
+    image_path: /assets/images/maps/fujin-coffee.jpg
+    alt: "Fujin coffee patio seating"
+  - url: /assets/images/maps/Woolloomooloo-taipei.jpg
+    image_path: /assets/images/Woolloomooloo-taipei.jpg
+    alt: "Woolloomooloo Taipei with a bookshelf and guests"
+  - url: /assets/images/maps/all-day-coffee.jpg
+    image_path: /assets/images/maps/all-day-coffee.jpg
+    alt: "All Day Coffee's skylight entrance"
 ---
 
 {% include gallery %}
