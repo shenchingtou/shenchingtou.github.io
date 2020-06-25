@@ -30,10 +30,7 @@ gallery:
   - url: /assets/images/maps/woolloomooloo-taipei.jpg
     image_path: /assets/images/maps/woolloomooloo-taipei.jpg
     alt: "Woolloomooloo Taipei with a bookshelf and guests"
-  - url: /assets/images/maps/coffee-essential.jpg
-    image_path: /assets/images/maps/coffee-essential.jpg
-    alt: "All Day Coffee's skylight entrance"
-- url: /assets/images/maps/all-day-coffee.jpg
+  - url: /assets/images/maps/all-day-coffee.jpg
     image_path: /assets/images/maps/all-day-coffee.jpg
     alt: "All Day Coffee's skylight entrance"
 ---
