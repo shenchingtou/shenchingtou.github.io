@@ -27,8 +27,8 @@ gallery:
   - url: /assets/images/maps/fujin-coffee.jpg
     image_path: /assets/images/maps/fujin-coffee.jpg
     alt: "Fujin coffee patio seating"
-  - url: /assets/images/maps/Woolloomooloo-taipei.jpg
-    image_path: /assets/images/Woolloomooloo-taipei.jpg
+  - url: /assets/images/maps/woolloomooloo-taipei.jpg
+    image_path: /assets/images/maps/woolloomooloo-taipei.jpg
     alt: "Woolloomooloo Taipei with a bookshelf and guests"
   - url: /assets/images/maps/all-day-coffee.jpg
     image_path: /assets/images/maps/all-day-coffee.jpg
