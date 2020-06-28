@@ -20,7 +20,7 @@ Favourite writing tools:
 7. Dropbox Paper
 
 ## Content Marketing
-I use Wordpress, Google Analytics, [Buffer](https://buffer.com), [Hootsuite](https://hootsuite.com), [Ahrefs](https://ahrefs.com)
+I use Wordpress, Google Analytics, [Buffer](https://buffer.com), [Hootsuite](https://hootsuite.com), [Ahrefs](https://ahrefs.com).
 
 I highly recommend to anyone who will listen these alternatives to Wordpress:
 - [Ghost.org](https://ghost.org)
@@ -41,7 +41,6 @@ I like working with teams that have great people, well-built products, that fulf
 
 If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
 
-
 ## Projects
 In this latest page update, this is what I can remember working on:
 - [**Asian Eats Directory**](https://directory.foodcoop.asia/): Developed with illustrator [Jason Li](https://hongkonggong.com/) to collect directories supporting Asian communities aroudn the world during Covid-19 and the rash of overt racism against East Asians
@@ -49,20 +48,16 @@ In this latest page update, this is what I can remember working on:
 - [**Zebra Crossing**](https://github.com/narwhalacademy/zebra-crossing) - Managing the Japanese translation and some web stuff
 - [**Pride Polyphony**](https://pride-polyphony.netlify.app/) - a proof-of-concept for "audio hugs" to the LGBTQ community around the world. Developed during the UHLALA Pride Hackathon 2020 with 2 other team members. Feel free to extend this idea!
 
-I have also written for industry publications such as [*Alliance Magazine*](https://www.alliancemagazine.org/blog/reflecting-on-strides-in-the-impact-investment-industry/), [GreenBook](https://www.greenbook.org/mr/market-research-methodology/the-last-frontier-for-lean-methodology-iterative-questions/) and op-eds in publications such as [NüVoices](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/) and [Hong Kong Free Press](https://hongkongfp.com/2018/11/06/grassroots-lgbt-activists-behind-celebrities-headlines/).
+You can find some of my writing [here](https://shenchingtou.github.io/portfolio). 
 
 I try to leave presentation slides publicly available. You can find them on [Slideshare](https://www.slideshare.net/AthenaLam/).
 
-UI/UX: [Figma](figma.com/) - because it's free. Otherwise AdobeXD.
+## Opinions
+Once in a while, I translate a bit of tech for people who want to understand it better.
 
-Visualistion tools:
-- [Infogram](https://infogram.com/)
-- [Canva](https://canva.co)
-
-Productivity tools:
-- [Airtable](https://airtable.com)
-- [Calendly](calendly.com/athena-lam/)
-- [Notion](https://notion.so)
+- Cybersecurity: [Pride 2020: Wie geht ein digitaler CSD?](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/) in [SIEGESSÄULE.de](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/)
+- Tech: [German COVID-19 Hackathon delivers more than 800 projects](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/) in [EURACTIV.de](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/)
+- Careers: [Success Across Boundaries Interview](https://soundcloud.com/successacrossboundaries/athena-lam)
 
 [linkedin]: https://www.linkedin.com/in/athenaylam/
 [twitter]:   https://twitter.com/shenchingtou
