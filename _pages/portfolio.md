@@ -4,27 +4,14 @@ title:  "Portfolio"
 date:   2020-06-28 11:03:36 +0100
 permalink: /portfolio
 ---
-Hi there,
-
-I'm Athena. I am a content strategist. This is a space for me to store lists, drop notes, and experiment with basic coding. 
-
-I express myself best when talking about products. 
-
-Favourite writing tools:
-1. [Obsidian](https://obsidian.md/)
-2. [HackMD](https://hackmd.io)
-3. [Bear](https://bear.app/)
-4. [Quiver](https://happenapps.com/#quiver)
-5. [Buttondown](https://buttondown.email/athena)
-6. [Substack](https://elsewhere.substack.com)
-7. Dropbox Paper
+Some of my work for easy access.
 
 ## Writing
 Many of my pieces are written for clients in their company publications. 
 
 My writing in publications include: 
-- [The Beam](https://the-beam.com) (Upcoming)
-- [*Alliance Magazine*](https://www.alliancemagazine.org/blog/reflecting-on-strides-in-the-impact-investment-industry/),
+- [The Beam](https://the-beam.com) (upcoming)
+- [*Alliance Magazine*](https://www.alliancemagazine.org/blog/reflecting-on-strides-in-the-impact-investment-industry/)
 - [GreenBook](https://www.greenbook.org/mr/market-research-methodology/the-last-frontier-for-lean-methodology-iterative-questions/) 
 
 Op-Eds:
@@ -35,9 +22,17 @@ For Organisations:
 - [Planet Ally #MilesofLove Conference](https://thecupandtheroad.com/2018/11/04/hk-lgbt-travel-forum-planet-ally/) hosted on my personal site
 - [KineoAI](https://medium.com/kineo-ai) for the #WirVsVirus Hackathon
 
-
 ## Tools
-I have used:
+Personally, I feel like the products I use are more exciting to talk about. 
+
+Favourite writing tools:
+1. [Obsidian](https://obsidian.md/)
+2. [HackMD](https://hackmd.io)
+3. [Bear](https://bear.app/)
+4. [Quiver](https://happenapps.com/#quiver)
+5. [Buttondown](https://buttondown.email/athena)
+6. [Substack](https://elsewhere.substack.com)
+7. [Dropbox Paper](https://paper.dropbox.com/)
 
 Websites & Hosting:
 - [Wordpress](https://wordpress.org)
