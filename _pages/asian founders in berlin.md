@@ -2,7 +2,7 @@
 layout: single
 title:  "Asian Founders & Businesses in Berlin"
 date:   2020-06-08 11:03:36 +0100
-permalink: /berlinasianfounders/
+permalink: /berlinasianfounders
 classes: wide
 excerpt: "A living document of Asian founders in Berlin"
 header:
@@ -42,6 +42,8 @@ Hardskills
 [BiStream](http://www.bistream.de/)
 - Makoto Takeda, Founder
 
+[Passion.io](https://passion.io)
+
 Investor
 - Jasmine Zhang, former CEO of LongHash Germany
 
@@ -49,7 +51,7 @@ Investor
 
 * [Vietnam Startup Network in Europe](https://www.facebook.com/vsneu/?eid=ARDRF25XcnuaCenZ2Y8LfUla8uOS8dRyJfYrRmCxk2Xz_jHbAu2HxIsqh5e9ya8vkTxTSAoiTlv0b1JR&timeline_context_item_type=intro_card_work&timeline_context_item_source=1804261296&fref=tag)
 * [German Accelerator Southeast Asia](https://www.facebook.com/GAccelerator.SoutheastAsia/?eid=ARBBiRPoAAtvY6Q8va0jSe4652mwNnrorR3HSfLgXxCiOB65VQD-3wDII8AUNTSdTOK7Ky1U8p9Wzo5R&timeline_context_item_type=intro_card_work&timeline_context_item_source=100001961495093&fref=tag)
-* [Startup Asia Berlin](https://startup-asiaberlin.com/)
+* [AsiaBerlin](https://startup-asiaberlin.com/)
 * [CityMakers Accelerator Program](https://c-makers.de/entry/citymakers-lab/)
 * [EPRIE Program (arts and cultural focus)](https://eprie.net/program/program-2019/)
 
