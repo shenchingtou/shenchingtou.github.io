@@ -3,7 +3,7 @@ title: Deleting my former "travel" blog
 excerpt: "A documentation of steps taken and mixed in reflections"
 
 layout: posts
-date: '2020-06-04 12:12:36 +0530'
+date: '2020-06-20 12:12:36 +0530'
 categories: [Tech]
 tags: [japan, travel, blogging]
 
