@@ -24,8 +24,9 @@ Op-Eds:
 - [Hong Kong Free Press](https://hongkongfp.com/2018/11/06/grassroots-lgbt-activists-behind-celebrities-headlines/)
 
 For Organisations:
-- [Planet Ally #MilesofLove Conference](https://thecupandtheroad.com/2018/11/04/hk-lgbt-travel-forum-planet-ally/) hosted on my personal site
-- [KineoAI](https://medium.com/kineo-ai) for the #WirVsVirus Hackathon
+- Oursky Blogs (2016-2018) code blog, company blog, Medium, guest posts.
+- [Wave Commerce](https://wavecommerce.hk/blog/)(2017 - Present)
+- [KineoAI](https://medium.com/kineo-ai) for the #WirVsVirus Hackathon in 2020
 
 If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
 
