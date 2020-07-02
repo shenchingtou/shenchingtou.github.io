@@ -6,11 +6,51 @@ permalink: /about/
 ---
 Hi there,
 
-I'm Athena. I am a content strategist. This is a space for me to store lists, drop notes, and experiment with basic coding. 
+I'm Athena. I am a content strategist. I also manage multiple websites, social media accounts, and knowledge databases. I started out in education in 2009 and was frustrated by the education system I was working against, so I started organizing events. That event ran for 10 years, in Cantonese and English, at peak reaching 10,000 attendees through virtual events at school, and passed through several generations of organisers. In the innovation space, I started out in impact investing, then moved to business development for social businesses, and along the way got interested in tech communities -- people who liked solving problems by building things.
 
-I express myself best when talking about products. 
+This is a space for me to store lists, drop notes, and experiment with basic coding. 
 
-Favourite writing tools:
+## What I do
+
+ In my various roles, I've done project management, product management, social media marketing, and content creation. For the past 5 years, I've focused functionally on content strategy, but remain most interested in building things to serve people and communities.
+ 
+ In addition, I help plan, design, build, and maintain websites, and social media accounts. This includes social projects, non-profits, and for profit companies with people I like.
+ 
+I formulate and deliver digital and marketing strategies, usually for B2B, and with a preference for online-to-offline integration for client touch points.
+
+**Some technical experience:**
+- Simple, accessible web design
+- Focusing on performance with a preference for static websites
+- Developing websites using [Jekyll](jekyllrb.com/) and [Hugo](https://gohugo.io/getting-started/quick-start/) static site generators 
+- Developing single page sites with HTML and CSS
+- Using Liquid templating language
+- Using [Netlify CMS](https://www.netlifycms.org/), [Forestry](https://forestry.io/), [Ghost](https://ghost.org), [CraftCMS](https://craftcms.com), Wordpress to empower teams to maintain their own content
+- Using Git 
+
+**Some marketing experience:**
+- Keyword research with tools such as Ahrefs
+- Setting up Google Analytics in sites and using it for reporting
+- Technical on-site SEO
+
+
+I also (more often than I like) help teams with WordPress. I also provide advisory on site-building solutions that fit the specific needs of non-technical teams.
+
+This site is built using the Ruby-based Jekyll static site generator, hosted on Github Pages. It is currently using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) theme, but the beauty of static site generators is that you can adopt a new theme pretty quickly.
+
+I like working with teams that have great people, well-built products, that fulfill a concrete purpose. I am available for:
+
+- Content strategy: workshop, training, or projects
+- Content marketing: website and blog setup, SEO
+- Events: speaking and moderation 
+
+[LinkedIn][linkedin]
+[Twitter][twitter]
+
+If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
+
+## Additional 
+
+**Favourite writing tools:**
 1. [Obsidian](https://obsidian.md/)
 2. [HackMD](https://hackmd.io)
 3. [Bear](https://bear.app/)
@@ -19,30 +59,7 @@ Favourite writing tools:
 6. [Substack](https://elsewhere.substack.com)
 7. Dropbox Paper
 
-## Content Marketing
-I use Wordpress, Google Analytics, [Buffer](https://buffer.com), [Hootsuite](https://hootsuite.com), [Ahrefs](https://ahrefs.com).
-
-I highly recommend to anyone who will listen these alternatives to Wordpress:
-- [Ghost.org](https://ghost.org)
-- [Craft CMS](https://craftcms.com)
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Shopify](https://shopify.com) - instead of WooCommerce
-
-This blog is built with the static-site generator [Jekyll (Ruby-based)](jekyllrb.com/), hosted by [Github Pages](https://pages.github.com/). 
-I am also familiar with [Hugo](https://gohugo.io/getting-started/quick-start/), as well as [Netlify](netlify.app) and [Forrestry.io](https://forestry.io/) for deployment. See my latest projects on [my Github repo][jekyll-gh]. 
-
-## Available for 
-I like working with teams that have great people, well-built products, that fulfill a concrete purpose. You can check my [LinkedIn][linkedin]. I am available for:
-
-- Content strategy: workshop, training, or projects
-- Content marketing: website and blog setup, SEO
-- Events: speaking and moderation 
-
-
-If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
-
-## Projects
-In this latest page update, this is what I can remember working on:
+**Some projects I've done:**
 - [**Asian Eats Directory**](https://directory.foodcoop.asia/): Developed with illustrator [Jason Li](https://hongkonggong.com/) to collect directories supporting Asian communities aroudn the world during Covid-19 and the rash of overt racism against East Asians
 - [**Berlin Asian Food Map**](https://tinyurl.com/berlinasianfood)
 - [**Zebra Crossing**](https://github.com/narwhalacademy/zebra-crossing) - Managing the Japanese translation and some web stuff
@@ -52,9 +69,8 @@ You can find some of my writing [here](https://shenchingtou.github.io/portfolio)
 
 I try to leave presentation slides publicly available. You can find them on [Slideshare](https://www.slideshare.net/AthenaLam/).
 
-## Opinions
+**Opinions:**
 Once in a while, I translate a bit of tech for people who want to understand it better.
-
 - Cybersecurity: [Pride 2020: Wie geht ein digitaler CSD?](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/) in [SIEGESSÄULE.de](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/)
 - Tech: [German COVID-19 Hackathon delivers more than 800 projects](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/) in [EURACTIV.de](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/)
 - Careers: [Success Across Boundaries Interview](https://soundcloud.com/successacrossboundaries/athena-lam)
