@@ -4,12 +4,17 @@ title:  "Portfolio"
 date:   2020-06-28 11:03:36 +0100
 permalink: /portfolio
 ---
-Some of my work for easy access.
+Some websites I have built and manage include:
+- [New World Optical](http://newworldoptical.com)
+- [Asian Eats Directory](https://directory.foodcoop.asia)
+- [Planet Ally](https://planetally.org)
+- [Pride Polyphony](pride-polyphony.netlify.app/) - built in 36 hours for the Pride Hackathon
 
-## Writing
-Many of my pieces are written for clients in their company publications. 
+Former projects that are no longer active include:
+- The Cup and the Road
+- Business 3.0
 
-My writing in publications include: 
+Many of my pieces are written for clients in their company publications. My writing in publications include: 
 - [The Beam](https://the-beam.com) (upcoming)
 - [*Alliance Magazine*](https://www.alliancemagazine.org/blog/reflecting-on-strides-in-the-impact-investment-industry/)
 - [GreenBook](https://www.greenbook.org/mr/market-research-methodology/the-last-frontier-for-lean-methodology-iterative-questions/) 
