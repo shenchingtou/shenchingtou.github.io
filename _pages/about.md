@@ -45,7 +45,7 @@ I like working with teams that have great people, well-built products, that fulf
 You can also check my [portfolio](/portfolio) and reach me at:
 - [LinkedIn][linkedin]
 - [Twitter][twitter]
-- [e-mail](mailto:athen@piccoloportfolios.com).
+- [E-mail](mailto:athen@piccoloportfolios.com).
 
 ## Additional 
 
