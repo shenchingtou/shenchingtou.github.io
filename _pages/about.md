@@ -32,7 +32,6 @@ I formulate and deliver digital and marketing strategies, usually for B2B, and w
 - Setting up Google Analytics in sites and using it for reporting
 - Technical on-site SEO
 
-
 I also (more often than I like) help teams with WordPress. I also provide advisory on site-building solutions that fit the specific needs of non-technical teams.
 
 This site is built using the Ruby-based Jekyll static site generator, hosted on Github Pages. It is currently using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) theme, but the beauty of static site generators is that you can adopt a new theme pretty quickly.
@@ -43,10 +42,10 @@ I like working with teams that have great people, well-built products, that fulf
 - Content marketing: website and blog setup, SEO
 - Events: speaking and moderation 
 
-[LinkedIn][linkedin]
-[Twitter][twitter]
-
-If you have something else in mind, feel free to [e-mail me](mailto:athen@piccoloportfolios.com).
+You can also check my [portfolio](/portfolio) and reach me at:
+- [LinkedIn][linkedin]
+- [Twitter][twitter]
+- [e-mail](mailto:athen@piccoloportfolios.com).
 
 ## Additional 
 
