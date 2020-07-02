@@ -11,7 +11,7 @@ tags: [women in tech, asia]
 
 *This is an post from 2018. Please ping me on Twitter or submit a pull request on GitHub if you have suggestions. Thanks!*
 
-![](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/11/Wave-Commerce-Shopify-Meetup-Fall-2018-8604-Final-Web.jpg?fit=900%252C600&quality=95&ssl=1)
+![](/assets/images/blog/201810-8603.jpg)
 
 East Asia is no exception to the norm of male dominated STEM roles. However, as the most populous region in the world, with the largest ecommerce market and leading tech giants, there are more women in tech in Asia than meets the eye. We’re sharing a working list that we keep for women looking to find mentors, or ideas of companies to work for, or are just plain curious.
 
@@ -19,8 +19,8 @@ We started with a list of women as software engineers or in technical positions 
 
 **Our Loose Definition of Women in Tech**
 
-* **Technical background: **roles requiring technical knowledge, such as engineering, growth hacking, product management
-* **Founder / C-level leadership for digital products/platforms**** ****(non-technical**** included)**: websites, apps, SaaS products, ecommerce stores, digital studios, and software development agencies
+* **Technical background:** roles requiring technical knowledge, such as engineering, growth hacking, product management
+* **Founder / C-level leadership for digital products/platforms (non-technical included):** websites, apps, SaaS products, ecommerce stores, digital studios, and software development agencies
 * **Mostly based in Asia**, but also those who work for Asian-based companies
 
 Below, we’ve made a list based on each market below. But we’ll kick off by showing how diverse women in tech can be. For women working in AI and machine learning include Aya Miyaguchi, Executive Director at [Ethereum Foundation,](https://www.ethereum.org/foundation)[ Kazuna Tsuboi](http://www.tedxtokyo.com/news/tedxtokyo-2016-speaker-kazuna-tsuboi/) AI Engineer at Microsoft, Renee Wang, Co-founder at [Castbox.fm ](http://www.castbox.fm)and ContentBox and [Dr. Meri Rosich](https://www.linkedin.com/in/merirosich/), VP/Head of Data Science in Asia Pacific at Visa. Women are also leading the way for platforms and marketplaces, such as [Melissa Yang](https://www.crunchbase.com/person/melissa-yang#section-overview), COO at [Tujia](https://www.tujia.com/), Emi Takemura MIller, Co-Founder of [Peatix, ](https://peatix.com/)Jean Liu, Founder of [Didi Chuxing](http://www.xiaojukeji.com/en/index.html) and Akiko Naka, Founder & CEO, [Wantedly.](https://www.wantedly.com/)
