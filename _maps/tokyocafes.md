@@ -25,6 +25,9 @@ gallery:
 ## East Tokyo Cafes: 15 on a Short List
 <iframe src="https://www.google.com/maps/d/embed?mid=1cm5IlEVBc9Dcr17kLVHv1NnxYwU" width="100%" height="480"></iframe>
 
+## Kiyosumi-Shirakawa Coffee Walk
+<iframe src="https://www.google.com/maps/d/embed?mid=1w_LyT1E85uxGeinFjcy8brYhlzQ&hl=en" width="100%" height="480"></iframe>
+
 ## Tokyo Coffee Walk: Ikejiriohashi (Setagaya)
 <iframe src="https://www.google.com/maps/d/embed?mid=15-L3xxhMkszBHyNy95-mmhPqww8" width="100%" height="480"></iframe>
 
