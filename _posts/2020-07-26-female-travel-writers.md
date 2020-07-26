@@ -43,7 +43,7 @@ Winners of the new [Nan Shepherd Prize](https://twitter.com/NanPrize)
 After an existenntially traumatic luxury trip to Tibet, I desperately wanted to spend more mental time in the Himalayas, but with the right people. That's how I discovered Dervla Murphy. She is one of the few prolific travel writers, most known for cycling across continents alone. I haven't read her other works yet, but I revisit this book often. 
 
 ### Out of Cities and Maybe Nature
-*[**The Solace of Open Spaces](https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces?ac=1&from_search=true&qid=jiTwpZyXbV&rank=1) by Gretel Ehrlich** 
+**[*The Solace of Open Spaces*](https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces?ac=1&from_search=true&qid=jiTwpZyXbV&rank=1) by Gretel Ehrlich** 
 
 **[*The Living Mountain*](https://www.goodreads.com/book/show/25773742-the-living-mountain?ac=1&from_search=true&qid=bUz8q9glPp&rank=1) by Nan Shepherd**
 
@@ -58,11 +58,9 @@ After an existenntially traumatic luxury trip to Tibet, I desperately wanted to 
 
 [*Turning*](https://www.goodreads.com/book/show/33126842-turning) by Jessica J Lee
 
-**[*Upstream: Selected Essays*]() by Mary Oliver*
-
 **Annie Dillard** usually falls into writing or environment (Pilgrim at Tinker Creek). But she writes with good humour. 
 
-- **Bani Amor** on decolonising travel. Despite my ambivalence the American-centric dialogue and her rage, I am glad she does it. I feel the same rage and I'm glad she expresses it in a way I rarely allow myself to. She's in the US - it makes sense she engages with that audience.
+**Bani Amor** on decolonising travel. Despite my ambivalence the American-centric dialogue and her rage, I am glad she does it. I feel the same rage and I'm glad she expresses it in a way I rarely allow myself to. She's in the US - it makes sense she engages with that audience.
 
 I have also read great books by male writers like Robert McFarlane's The Old Ways (a story only he can tell because of social circles only he can access). I have also frequently read pieces by people of colour eager to [re]claim their cultural heritages from the white North American and European mainstream at the expense of the actual places where those cultures were imported from. In other words, many POCs in white societies exoticise places like Asia, the Middle East, Africa and perpetuate Western gazes on these places. Asian American writers fall mostly into this category -- few of them are worth picking up for any real insight into Asia, just the perpetuation of the white-washed gaze. 
 
