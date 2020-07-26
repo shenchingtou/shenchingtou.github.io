@@ -1,5 +1,5 @@
 ---
-title: POC Female Travel Writers
+title: Female Travel Writers and POC Voices
 excerpt: "Because the world isn't the same for us"
 
 layout: posts
