@@ -22,7 +22,7 @@ Travelling women are somewhat solitary -- at least from their kin back home. The
 
 Kat's writing not only enabled me to go on my own journey, she kept me company throughout. She knew how it felt. Even though we had different language capabilities, skin colour, gear, experiences, reactions, I knew she knew. Her thoughts are the only dialogue I ever needed. 
 
-I've since looked for many other women to have these conversations with.
+I've since looked for many other women to have these conversations with. Ideally, I'm looking for more POC female writers. Most of the ones who write travel are white. I get my POC supplementation from journalists and nature writing.
 
 ### Essays
 **["Race, Privilege, and the Canadian Wilderness: As a Black man, I've often felt unwelcome in the great outdoors"](https://thewalrus.ca/race-privilege-and-the-canadian-wilderness/) by Phillip Dwight Morgan**
