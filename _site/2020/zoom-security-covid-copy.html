@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="I take notes and make lists. Welcome to my digital experimentation corner.">
+
+  <title>Athena Lam</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+
+</head>
+
+
+<body class="d-flex flex-column h-100">
+
+  <main class="flex-shrink-0 container mt-5">
+  <nav class="navbar navbar-expand-lg navbar-light">
+
+  <a class="navbar-brand" href="/"><h5><b>Athena Lam</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/maps/">Maps</a>
+
+      <a class="nav-item nav-link " href="/projects/">Projects</a>
+
+      <a class="nav-item nav-link " href="/blog/">Blog</a>
+
+      <a class="nav-item nav-link " href="/about/">About</a>
+
+      <a class="nav-item nav-link " href="https://github.com/shenchingtou"><i class="fab fa-1x fa-github"></i></a>
+
+      <a class="nav-item nav-link " href="https://twitter.com/@shenchingtou"><i class="fab fa-1x fa-twitter"></i></a>
+
+      
+
+    </div>
+  </div>
+
+</nav>
+  <div class="col-lg-10 mx-auto mt-5 post">
+  <h1><b>Things to Know When Using Zoom for Video Calls</b></h1>
+
+<p class="post-metadata text-muted">
+  02 April 2020 -  
+  <b>8 mins read time</b>
+
+  <br>Tags: 
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#cybersecurity">
+      <span class="tag badge badge-pill text-primary border border-primary">Cybersecurity</span>
+    </a>
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#apps">
+      <span class="tag badge badge-pill text-primary border border-primary">apps</span>
+    </a>
+    </p>
+
+<p><em>A rough summary of the internet backlash on Zoom, it’s questionable privacy practices, and security. What you can do to reduce monitoring.</em></p>
+
+<p><em>Updates:</em></p>
+<ul>
+  <li><em>April 6, 2020: Added more alternative messaging and video call app options</em></li>
+  <li><em>On April 3, 2020: Citizen Lab, an interdisciplinary laboratory based at the Munk School of Global Affairs &amp; Public Policy, University of Toronto, released an <a href="https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/">in-depth assessment of Zoom’s security features</a>, which includes non-standard encryption protocols, some traffic hosting in China, and 2 subsidiary companies with 700+ employees in China.</em></li>
+  <li><em>On March 29, 2020: Zoom released a <a href="https://zoom.us/privacy">public statement</a> in response to the critiques from the developer community and media.</em></li>
+</ul>
+
+<p>Covid-19 has created a windfall for industries that serve people stuck at home: deliveries, online courses, virtual workouts, and video conferencing solutions. If you hadn’t heard of Zoom before, you likely have now for work or some online event you’re attending.</p>
+
+<h2 id="what-is-zoom">What is Zoom?</h2>
+<p>Zoom as a teleconferencing solution has consistently produced the best results for users: a good audio, clear video, connecting via a link or phone number and stability.</p>
+
+<p>Stability one of those features for products that users don’t think about until something doesn’t work. But for anything requiring high volumes of data (video) in realtime, a good UX design is highly dependent on the backend architecture of a product. In short, Zoom does a good job because it has created a way to account for the biggest variable for a call: network speeds and stability across the world. In other words, Zoom makes your calls almost frictionless compared to competitors.</p>
+
+<p>Harmonizing network speeds is one of the examples of behind-the-scenes engineering that can work well for a product. But following that train of thought, what other things can be built into the background that you as a user may not notice? Zoom’s public statement in theory addresses all of the concerns that have been levelled at the company recently. However, the concerns raised are worth keeping in mind.</p>
+
+<h2 id="critiques-of-zoom-by-the-developer-community">Critiques of Zoom by the developer community</h2>
+
+<p>The recent fuss about Zoom is partially a reaction its rapid adoption for companies that are now work-from-home only and remote events.</p>
+
+<p>Zoom has had a history of critiques. In 2019, security consultant <a href="https://medium.com/bugbountywriteup/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5">Johnathan Leitschuch</a> found that Zoom set up a local web server on a user’s Mac device that allowed Zoom to bypass security features in Safari 12 (without this web server ever being mentioned in the company’s previous official documentation); worse, the remote web server was also not adequately secured, meaning that Zoom given an opportunity for malicious websites to take over a Mac’s camera without alerting a user. The finding was corroborated by <a href="https://twitter.com/mathowie/status/1148391109824921600?ref_src=twsrc%5Etfw">Matt Haughey</a>.</p>
+
+<p>The article “
+<a href="https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/">Using Zoom? Here are the privacy issues you need to be aware of</a>” was published on March 20, 2020 and outlines privacy issues based off of reading Zoom’s Privacy Policy. On April 3, 2020 after Zoom made it’s public statement, Citizen Lab released a more <a href="https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/">comprehensive assessment of Zoom’s security</a>, including the lab’s methodology for testing, findings, and security implications. The main ideas are:</p>
+
+<ul>
+  <li><strong>Zoom has 2 subsidiary companies in China with over 700 staff developing its product:</strong> which enables the company to develop rapidly and increase profit margins, but likely at a cost to Chinese regulatory influances</li>
+  <li><strong>Zoom’s security claims do not follow industry standard:</strong> for example, end-to-end encryption is a standard term referring to a message that originates from one source, is transmitted, and arrives at the receiving source, as fully encripted on both devices as well as in transit. In Zoom’s case, this is <em>only in transit</em>.</li>
+  <li><strong>Security vulernability</strong> such as the one mentioned above.In addition, the security protocols claimed to have been used seem to have security vulnerabilities. Please read the <a href="https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/">Citizen Lab articles for further details</a>.</li>
+  <li><strong>Zoom allows a host to track attendees’ attention</strong> by notifying if someone has closed the Zoom screen for over 30 seconds (even if that might be to take notes).</li>
+  <li><strong>If a call is recorded, a text file is saved for chats and sent to the host</strong> so if you want to DM a colleague or friend privately, keep it off of Zoom.</li>
+  <li><strong>Zoom’s privacy policy explicitly says you allow it to collect data on you</strong> including your name, address, e-mail, phone number, job title and employer. Even if you don’t make an account with Zoom, data about the type of device you are using and your IP address may be stored.</li>
+  <li><strong>If you use Facebook</strong>, Zoom may collect information from your Facebook profile and information uploaded and provided during the service”.</li>
+</ul>
+
+<p>Zoom’s statement on March 29 addresses all of these concerns. So why should users still use it with caution?</p>
+
+<h3 id="additional-behaviours-that-are-questionable">Additional behaviours that are questionable</h3>
+<p>What has developers skitish about Zoom is the company’s track record. Without looking at the company’s code, all the publi has to go on is what the company says and does. Analysing product features and a company’s privacy policy is often used as a proxy for assessing whether a company has a user’s privacy and best interests in mind. Zoom didn’t pass the sniff test, so what it says now remains suspect.</p>
+
+<p>While Zoom says the company does not sell personal data directly for money to third parties, but its privacy policy keeps the door open for the company to share personal data with third parties for “business purposes.” To be fair, this is clause is likely on many digital products, especially ones with social logins (a reason not to use them).</p>
+
+<p>In addition, Zoom’s aggressive installation approach is alarming for people concerned with security. The Electronic Privacy Information Center filed an FTC complaint against Zoom, alleging that Zoom “intentionally designed its web conferencing service to bypass browser security settings and remotely enable a user’s web camera without the knowledge or consent of the user.” Zoom has since removed this, but its track record of bypassing explicit user permission casts a long shadow.</p>
+
+<h2 id="are-there-alternatives">Are there alternatives?</h2>
+<p>The unfortunate reality is that there is currently no convenient or free solution that performs at the same level as Zoom for scale and video quality. Some alternatives could be:</p>
+<ul>
+  <li><a href="https://wickr.com/"><strong>Wickr</strong></a>: Paid solution, but it’s end-to-end encryption.</li>
+  <li><a href="https://wire.com/en/"><strong>Wire</strong></a>: Free and Paid. One of the <a href="https://www.securemessagingapps.com/">most secure messaging and collaboration platforms</a>.</li>
+  <li><a href="https://wickr.com/"><strong>Signal</strong></a>: Paid solution, but it’s end-to-end encryption.</li>
+  <li><a href="https://whereby.com/"><strong>Whereby</strong></a>: A product suggested (not necessarily recommended) by a trusted senior developer contact</li>
+  <li><strong>Apple Facetime</strong>: which has end-to-end encryption for group video calls</li>
+  <li><a href="https://web.whatsapp.com/"><strong>WhatsApp</strong></a>: End-to-End encryption for video and can support small groups.</li>
+  <li><a href="https://duo.google.com/about/"><strong>Google Duo</strong></a>: Has been recommended by a friend who researches cybersecurity. Has end-to-end-encryption.</li>
+  <li><a href="https://meet.google.com/"><strong>Google Meet</strong></a>: not end-to-end encrypted to my knowledge, but can support larger groups.</li>
+</ul>
+
+<h2 id="steps-to-protect-your-data-and-privacy">Steps to protect your data and privacy</h2>
+<p>While there are no great alternatives yet, you as a user can still take steps to limit what is collected. This includes:</p>
+
+<ul>
+  <li><strong>Do not use Facebook to sign in</strong>: in fact, don’t use it for anything; even if companies do not use it now, they could in the future use it and you are also feeding Facebook with more information on you.</li>
+  <li><strong>Have 2 devices or screens during Zoom calls</strong>: Keep your phone or tablet handy while on your call so you can check the information you need. Or, invest in a second monitor at home, which I highly recommend over hunching on a laptop.</li>
+  <li><strong>If you used Zoom before 2020, update your Zoom</strong>: the latest version removed the remote web server. New users won’t have this issue.</li>
+  <li><strong>Trade a little convenience for more privacy</strong>: as a general approach for all apps and services, try not to use social logins, share minimum information necessary, and do not allow access to integrations (such as contacts etc.).</li>
+  <li>Read up a bit more on cybersecurity and privacy. (Check my post on <a href="https://shenchingtou.github.io/covid-19/cybersecurity/covid19-telegram-groups-germany.html">Telegram groups</a>).</li>
+  <li><a href="https://www.securemessagingapps.com/">Secure Messaging Apps Comparison Table</a></li>
+  <li><a href="https://theintercept.com/2020/03/31/zoom-meeting-encryption/">Zoom Meetings Aren’t End-to-End Encrypted, Despite Misleading Marketing</a></li>
+  <li><a href="https://www.consumerreports.org/video-conferencing-services/zoom-teleconferencing-privacy-concerns/">Zoom Calls Aren’t as Private as You May Think. Here’s What You Should Know.</a></li>
+  <li><a href="https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/">A Quick Look at the Confidentiality of Zoom Meetings</a></li>
+  <li><a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Bug Bounty on Medium</a></li>
+  <li><strong>Always e-mail / message Zoom invitations for events</strong>: to reduce incidences of trolling that have also been reported lately. If you’re an event organiser, you can find out past experiences by messaging <a href="https://twitter.com/marielli">Mari on Twitter</a>.</li>
+</ul>
+
+<p>The reality is that most of us will still be using Zoom for our calls. From a functional perspective, it delivers beautifully. But when you have time, search for alternatives once in a while or new options they release that might give you more privacy.</p>
+
+
+
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>Athena Lam</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:athena@piccoloportfolios.com"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/shenchingtou"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in//in/athenaylam"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitter.com/shenchingtou"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1da1f2'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a>
+
+</div><small id="attribution">
+    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
+  </small>
+  
+</footer>
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+</body>
+
+</html>

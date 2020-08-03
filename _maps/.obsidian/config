@@ -1,0 +1,89 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "4a08b9d5003d5c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "85540571f09160be",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "d10f499f2f7a5e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08b148bf373a5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350e7ba83c3e454e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "488c73ea6334677e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "36274c35babddf25",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d868cebec10b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724e5dc71d50b445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "tokyocafes.md",
+    "tokyo-anime-locations.md",
+    "taipei-coffee.md",
+    "jimbocho-tokyo.md",
+    "tokyocafes 1.md"
+  ]
+}

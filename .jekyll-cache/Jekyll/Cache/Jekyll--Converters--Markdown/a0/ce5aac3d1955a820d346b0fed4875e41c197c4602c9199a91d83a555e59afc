@@ -1,0 +1,102 @@
+I"%<h1 id="about-me"><strong>About Me</strong></h1>
+
+<p>Hi I am <strong>Athena Lam</strong> :wave:,<br /></p>
+
+<p>I am a content strategist. I also manage multiple websites, social media accounts, and knowledge databases. I started out in education in 2009 and was frustrated by the education system I was working against, so I started organizing events. That event ran for 10 years, in Cantonese and English, at peak reaching 10,000 attendees through virtual events at school, and passed through several generations of organisers. In the innovation space, I started out in impact investing, then moved to business development for social businesses, and along the way got interested in tech communities – people who liked solving problems by building things.</p>
+
+<p>This is a space for me to store lists, drop notes, and experiment with basic coding.</p>
+
+<div class="row">
+<div class="col-lg">
+  <h2 class="mb-3">Content</h2>
+    
+      <div class="skill">
+        <p>Longform Content</p>
+        <div class="skill-bar skill-bar-danger skill-90 wow animated slideInLeft" data-wow-delay="0.05">
+          <span>90%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>SEO</p>
+        <div class="skill-bar skill-bar- skill-80 wow animated slideInLeft" data-wow-delay="0.1">
+          <span>80%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>Social media</p>
+        <div class="skill-bar skill-bar-dark skill-70 wow animated slideInLeft" data-wow-delay="0.15">
+          <span>70%</span>
+        </div>
+      </div>
+    
+</div>
+<div class="col-lg">
+  <h2 class="mb-3">Digital</h2>
+    
+      <div class="skill">
+        <p>Markdown</p>
+        <div class="skill-bar skill-bar-info skill-95 wow animated slideInLeft" data-wow-delay="0.05">
+          <span>95%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>Frontend (HTML/CSS)</p>
+        <div class="skill-bar skill-bar-success skill-65 wow animated slideInLeft" data-wow-delay="0.1">
+          <span>65%</span>
+        </div>
+      </div>
+    
+</div>
+</div>
+
+<div class="row">
+<div class="col mt-4">
+  <div class="timeline-body">
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Berlin</h2>
+          <h6 class="date">2019 — Present</h6>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+      </div>
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Hong Kong</h2>
+          <h6 class="date">2017 — 2019</h6>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+      </div>
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Tokyo</h2>
+          <h6 class="date">2015 — 2017</h6>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+      </div>
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Shenzhen, Southeast Asia</h2>
+          <h6 class="date">2014 — 2015</h6>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+      </div>
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Hong Kong</h2>
+          <h6 class="date">2009 — 2012</h6>
+          <p>Moved to Hong Kong. Got my first job and frustrated quickly with the education system, so I co-founded TEDxYouth@HongKong (later TEDxYouth@VictoriaHarbour)</p>
+        </div>
+      </div>
+    
+  </div>
+</div>
+</div>
+:ET

@@ -1,0 +1,11 @@
+- name: Longform Content
+  percentage: 90
+  color: danger
+
+- name: SEO
+  percentage: 80
+  color:
+
+- name: Social media
+  percentage: 70
+  color: dark

@@ -1,0 +1,11 @@
+- name: Markdown
+  percentage: 95
+  color: info
+
+- name: UI Design
+  percentage: 70
+  color: success
+
+- name: Frontend (HTML/CSS)
+  percentage: 65
+  color: secondary
