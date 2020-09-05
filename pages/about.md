@@ -74,10 +74,12 @@ You can find some of my writing [here](https://shenchingtou.github.io/portfolio)
 I try to leave presentation slides publicly available. You can find them on [Slideshare](https://www.slideshare.net/AthenaLam/).
 
 **Opinions:**
-Once in a while, I translate a bit of tech for people who want to understand it better.
+Once in a while, I write:
 - Cybersecurity: [Pride 2020: Wie geht ein digitaler CSD?](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/) in [SIEGESSÄULE.de](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/)
 - Tech: [German COVID-19 Hackathon delivers more than 800 projects](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/) in [EURACTIV.de](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/)
+- Environment: [An Interview with Harald Friedl on Abundance and Additionality to Address the Climate Crisis](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) in [The BEAM](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/)
 - Careers: [Success Across Boundaries Interview](https://soundcloud.com/successacrossboundaries/athena-lam)
+- Women in Tech: [Opinion: Why women are leaving Hong Kong tech companies](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I) in [NüVoices](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I)
 
 [linkedin]: https://www.linkedin.com/in/athenaylam/
 [twitter]:   https://twitter.com/shenchingtou
