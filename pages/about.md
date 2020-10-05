@@ -55,7 +55,7 @@ I like working with teams that have great people, well-built products, that fulf
 - Content marketing: website and blog setup, SEO
 - Events: speaking and moderation 
 
-You can also check my [portfolio](/portfolio) and reach me at:
+You can also reach me at:
 - [LinkedIn][linkedin]
 - [Twitter][twitter]
 - [E-mail](mailto:athen@piccoloportfolios.com).
@@ -75,11 +75,13 @@ I try to leave presentation slides publicly available. You can find them on [Sli
 
 **Opinions:**
 Once in a while, I write:
-- Cybersecurity: [Pride 2020: Wie geht ein digitaler CSD?](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/) in [SIEGESSÄULE.de](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/)
-- Tech: [German COVID-19 Hackathon delivers more than 800 projects](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/) in [EURACTIV.de](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/)
 - Environment: [An Interview with Harald Friedl on Abundance and Additionality to Address the Climate Crisis](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) in [The BEAM](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/)
 - Careers: [Success Across Boundaries Interview](https://soundcloud.com/successacrossboundaries/athena-lam)
 - Women in Tech: [Opinion: Why women are leaving Hong Kong tech companies](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I) in [NüVoices](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I)
+
+Occasionally, I talk:
+- Cybersecurity: [Pride 2020: Wie geht ein digitaler CSD?](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/) in [SIEGESSÄULE.de](https://www.siegessaeule.de/magazin/pride-2020-wie-geht-ein-digitaler-csd/)
+- Tech: [German COVID-19 Hackathon delivers more than 800 projects](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/) in [EURACTIV.de](https://www.euractiv.com/section/digital/news/german-covid19-hackathon-deliver-800-projects/)
 
 [linkedin]: https://www.linkedin.com/in/athenaylam/
 [twitter]:   https://twitter.com/shenchingtou
