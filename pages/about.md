@@ -68,6 +68,7 @@ You can also reach me at:
 - [**Berlin Asian Food Map**](https://tinyurl.com/berlinasianfood)
 - [**Zebra Crossing**](https://github.com/narwhalacademy/zebra-crossing) - Managing the Japanese translation and some web stuff
 - [**Pride Polyphony**](https://pride-polyphony.netlify.app/) - a proof-of-concept for "audio hugs" to the LGBTQ community around the world. Developed during the UHLALA Pride Hackathon 2020 with 2 other team members. Feel free to extend this idea!
+- [**LGBTQ Glassdoor**](https://facebook.com/lgbtqglassdoor/) - an MVP anonymous submission web platform for LGBTQ-relevant workplace information. Open-source and you can find the [Github Repo here](https://github.com/oursky/lgbtq-glassdoor). Won The Economist #WorkWithPride 2018 Asia Pacific competition and presented at The Economist's [Pride and Prejudice LGBTQ Conference](https://prideandprejudice.economist.com/) the same year.
 
 You can find some of my writing [here](https://shenchingtou.github.io/portfolio). 
 
