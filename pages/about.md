@@ -7,9 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi! I am **{{ site.author.name }}** :wave:,<br>
 
-I am a content strategist. I also manage multiple websites, social media accounts, and knowledge databases. I started out in education in 2009 and was frustrated by the education system I was working against, so I started organizing events. That event ran for 10 years, in Cantonese and English, at peak reaching 10,000 attendees through virtual events at school, and passed through several generations of organisers. In the innovation space, I started out in impact investing, then moved to business development for social businesses, and along the way got interested in tech communities -- people who liked solving problems by building things.
+I am a content strategist. I also manage multiple websites, social media accounts, and knowledge databases. I started out in education in 2009 and was frustrated by the education system I was working against, so I started organizing events. That event ran for 10 years in Cantonese and English and has passed through several generations of organisers; at peak, the event reached 10,000 attendees through hybrid online-and-offline conference site and school locations. In the innovation space, I started out in impact investing, then moved to business development for social businesses. Along the way, I became involved in tech communities, specifically the people who liked solving problems by building things.
 
 This is a space for me to store lists, drop notes, and experiment with basic coding. 
 
