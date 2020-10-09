@@ -67,8 +67,8 @@ You can also reach me at:
 - [**Asian Eats Directory**](https://directory.foodcoop.asia/): Developed with illustrator [Jason Li](https://hongkonggong.com/) to collect directories supporting Asian communities aroudn the world during Covid-19 and the rash of overt racism against East Asians
 - [**Berlin Asian Food Map**](https://tinyurl.com/berlinasianfood)
 - [**Zebra Crossing**](https://github.com/narwhalacademy/zebra-crossing) - Managing the Japanese translation and some web stuff
-- [**Pride Polyphony**](https://pride-polyphony.netlify.app/) - a proof-of-concept for "audio hugs" to the LGBTQ community around the world. Developed during the UHLALA Pride Hackathon 2020 with 2 other team members. Feel free to extend this idea!
-- [**LGBTQ Glassdoor**](https://facebook.com/lgbtqglassdoor/) - an MVP anonymous submission web platform for LGBTQ-relevant workplace information. Open-source and you can find the [Github Repo here](https://github.com/oursky/lgbtq-glassdoor). Won The Economist #WorkWithPride 2018 Asia Pacific competition and presented at The Economist's [Pride and Prejudice LGBTQ Conference](https://prideandprejudice.economist.com/) the same year.
+- [**Pride Polyphony**](https://pride-polyphony.netlify.app/): a proof-of-concept for "audio hugs" to the LGBTQ community around the world. Developed during the UHLALA Pride Hackathon 2020 with 2 other team members. Feel free to extend this idea!
+- [**LGBTQ Glassdoor**](https://facebook.com/lgbtqglassdoor/): an MVP anonymous submission web platform for LGBTQ-relevant workplace information. Open-source and you can find the [Github Repo here](https://github.com/oursky/lgbtq-glassdoor). Won The Economist #WorkWithPride 2018 Asia Pacific competition and presented at The Economist's [Pride and Prejudice LGBTQ Conference](https://prideandprejudice.economist.com/) the same year.
 
 You can find some of my writing [here](https://shenchingtou.github.io/portfolio). 
 
@@ -76,7 +76,7 @@ I try to leave presentation slides publicly available. You can find them on [Sli
 
 **Opinions:**
 Once in a while, I write:
-- [An Interview with Harald Friedl on Abundance and Additionality to Address the Climate Crisis](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) in [The BEAM](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) (2020)
+- [On Abundance and Additionality to Address the Climate Crisis](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) in [The BEAM](https://the-beam.com/circular-economy/an-interview-with-harald-friedl-on-abundance-and-additionality-to-address-the-climate-crisis/) (2020)
 - Women in Tech: [Opinion: Why women are leaving Hong Kong tech companies](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I) in [NüVoices](https://nuvoices.com/2019/01/16/opinion-why-women-are-leaving-hong-kong-tech-companies/?fbclid=IwAR2aH9uroB3MrFZW7Am-4vXfxfmksAvmzs_zLZCNiLJBsKExf8Agz0IPd_I) (2019)
 -  [The grassroots LGBT+ activists behind the celebrities and headlines](https://hongkongfp.com/2018/11/06/grassroots-lgbt-activists-behind-celebrities-headlines/) in [Hong Kong Free Press](https://hongkongfp.com/2018/11/06/grassroots-lgbt-activists-behind-celebrities-headlines/) (2018)
 
