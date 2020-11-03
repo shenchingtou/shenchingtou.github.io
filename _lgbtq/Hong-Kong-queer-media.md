@@ -1,7 +1,7 @@
 ---
 name: Hong Kong LGBTQ Media
 description: Podcasts, vlogs, Youtube channels, and other media in Cantonese and English on HK queer life.
-image: /assets/images/lgbtq/LGBTQ_Tokyo_2020_10_Cover.jpg
+image: /assets/images/lgbtq/hk-lgbtq-podcasts.jpg
 layout: post
 tools: [Hong Kong, podcasts, vlogs]
 ---
