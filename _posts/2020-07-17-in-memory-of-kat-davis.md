@@ -1,12 +1,11 @@
 ---
 title: In Memory of Kat Davis
-excerpt: "Honouring a late dual-pilgrim / henro / thru-hiker / cyclist…"
-
+tags: [diary]
+style: 
 layout: post
+color: 
 date: '2020-07-17 12:12:36 +0530'
-categories: [Culture]
-tags: [travel, POC]
-
+description: Honouring a late dual-pilgrim / henro / thru-hiker / cyclist…
 ---
 
 Recently, I checked up on one of the only bloggers I ever check up on Kat Davis, writer of the [Following the Arrows](https://followingthearrows.com/2020/07/16/a-tribute-to-kat-hummingbird-davis/), only to find out she passed away on February 28 this year. It was a shock.
