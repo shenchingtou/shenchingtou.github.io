@@ -121,12 +121,12 @@ The host discusses everything from Taiwan’s gay marriage to the 5 lesbians you
 
 It’s basically a gay couple’s travel and lifestyle vlog.
 
-**[Gaga & Lala Tai](https://www.youtube.com/channel/UCxoIIfQXmlWoA9WgRIgmzdQ) (Gaga & Lala Channels)
- **The two channels are under the GagaooLala umbrella — one for men and one for women. The Lala channel includes content such as “Out People”, interviews, events, etc. Below is an example of the Queer Taiwan (酷兒台灣) series done by Gagaoolala. This interview follows Leon and George and their razing their kids. Unfortunately, there are no English subtitles.
+**[Gaga & Lala Tai](https://www.youtube.com/channel/UCxoIIfQXmlWoA9WgRIgmzdQ) (Gaga & Lala Channels)** 
+The two channels are under the GagaooLala umbrella — one for men and one for women. The Lala channel includes content such as “Out People”, interviews, events, etc. Below is an example of the Queer Taiwan (酷兒台灣) series done by Gagaoolala. This interview follows Leon and George and their razing their kids. Unfortunately, there are no English subtitles.
  {% include elements/video.html id="UZ8C-aHwZcc" %}
 
 **[Over the Rainbow](https://m.facebook.com/OvertheRainbowTW/?locale2=en_GB)**
- As far as I understand, it’s a film / media movement for Chinese cities (hosted by Taiwan, but seems to have directors in China participating). I think it hosts the Six Rainbow Cities Project (六城彩虹) that I mentioned in the film section. Like Gagaoolala, they have interviews with out people on their Youtube channel. They’re calling on directors in Hong Kong, Singapore, Taipei, etc. Their Youtube channel [is here](https://www.youtube.com/channel/UCCPHfwTqvW04mKvcnJEjbCQ).
+As far as I understand, it’s a film / media movement for Chinese cities (hosted by Taiwan, but seems to have directors in China participating). I think it hosts the Six Rainbow Cities Project (六城彩虹) that I mentioned in the film section. Like Gagaoolala, they have interviews with out people on their Youtube channel. They’re calling on directors in Hong Kong, Singapore, Taipei, etc. Their Youtube channel [is here](https://www.youtube.com/channel/UCCPHfwTqvW04mKvcnJEjbCQ).
 
 ### Podcasts
 
@@ -161,4 +161,4 @@ There’s a lot of content if you punch in queer-related search terms in Taiwan.
 **[BitheWay](https://bitheway.pixnet.net/blog) (Chinese)**
  As the name suggests, it’s a basic Chinese resource for bisexuals. I think they have regular events and get togethers.
 
-As a random piece of content, this is an interview of the Singaporean photographer Leslie Kee, who did [Out In Japan](https://outinjapan.com), was invited by his home country to do [Out in Singapore](https://www.outinsingapore.sg), Out in Taiwan as his third project. This is his video, in English explaining the project and his work: [【Out People│同志攝影師Leslie Kee：拍下閃亮姿態，化為出櫃勇氣】](https://www.facebook.com/GAGATAICOM/videos/246797742674591/?eid=ARC18BXWb4fQe4sEhjpWGcmrVje4Kt_5BvzayWtRnNlXKt4yJSjaf46wqPER-srvzh3EIsqtgUL3HGOh)
+As a random piece of content, this is an interview of the Singaporean photographer Leslie Kee, who did [Out In Japan](https://outinjapan.com), was invited by his home country to do [Out in Singapore](https://www.outinsingapore.sg), Out in Taiwan as his third project. This is an English video explaining the project: [Out People│同志攝影師Leslie Kee：拍下閃亮姿態，化為出櫃勇氣](https://www.facebook.com/GAGATAICOM/videos/246797742674591/?eid=ARC18BXWb4fQe4sEhjpWGcmrVje4Kt_5BvzayWtRnNlXKt4yJSjaf46wqPER-srvzh3EIsqtgUL3HGOh)
