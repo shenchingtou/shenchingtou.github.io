@@ -5,20 +5,23 @@ image: /assets/images/lgbtq/taiwan-queer-cinema.jpg
 layout: post
 tools: [Taiwan, vlogs, movies, podcasts]
 ---
+![Cafe Macho in Taipei supports indie & LGBTQ artists, books, and movies.](/assets/images/lgbtq/taiwan-queer-cinema.jpg)
 
-*This post was originally posted on my old blog in October 2018. Where possible, I'll try to add more updated stuff I come across or feel free to DM me on Twitter if you have a link to share.*
+*This post was originally posted on my old blog in October 2018. I'm sure it's dated and has plenty of formatting errors. I'll try to update my commentary and add any updated stuff I come across. Feel free to DM me on Twitter if you have a link to share or directly create a PR on GitHub.*
 
 This Taiwan LGBTQ content post mushroomed out of an ill-fated attempt to update “cultural media content” for Hong Kong. I had thought I’d just toss in all the content for the entire Greater China Region (Hong Kong, Taiwan, and China), as if 1/6th of the world’s population didn’t have enough to LGBTQ stories to tell on screen. Needless to say, I fell down the Taiwan rabbit hole. This post aims to to introduce LGBTQ Taiwanese movies, TV shows, podcasts, and vlogs for people who want to see, or listen to discussions by, Taiwanese queers on their lives and contemporary culture.
 
 ### Taiwan’s queer cinema backdrop
 
- [![taipei gay lesbian cinema](quiver-image-url/9D01EEDD6DD7C071D4F9FC63EDF3D815.jpg)](https://thecupandtheroad.files.wordpress.com/2018/10/taipei-gay-and-lesbian-cinema-screenings.jpg)Cafe Macho in Taipei supports indie & LGBTQ artists, books, and movies. 
+![Cafe Macho in Taipei supports indie & LGBTQ artists, books, and movies.](/assets/images/lgbtq/taipei-gay-and-lesbian-movies.jpg)
 
 Generally, I think Taiwan has the most LGBTQ cultural and media output given its relatively small population combined with its relatively open government (on this specific topic). Taiwan has had a long history of activism and also became the first Asian country to legalise same-sex marriage in 2017\. Taiwan has been producing queer content even before the 1990s, from overtly lesbian books like [Notes of a Crocodile](https://www.goodreads.com/book/show/31395589-notes-of-a-crocodile) by Qiu Miaojin to movies like 喜宴 in 1992\. The country also has out icons such as director Zero Chou ([周美玲](https://zh.wikipedia.org/zh-hk/%E5%91%A8%E7%BE%8E%E7%8E%B2)) and her partner Hoho Liu ([劉芸后](https://zh.wikipedia.org/wiki/%E5%8A%89%E8%8A%B8%E5%90%8E)). You can also find interviews with other out people here with English subtitles: author Chen Xue ([陳雪](https://lalatai.com/outpeople/%E9%99%B3%E9%9B%AA%E2%94%82%E5%9B%A0%E7%82%BA%E6%84%9B%EF%BC%8C%E6%89%80%E4%BB%A5%E6%88%91%E5%80%91%E5%87%BA%E6%AB%83)), Chen Kehua ([陳克華](https://lalatai.com/outpeople/%E9%99%B3%E5%85%8B%E8%8F%AF%E2%94%82%E9%81%93%E5%88%A5%E8%BF%AB%E5%AE%B3%EF%BC%8C%E8%87%AA%E5%9C%A8%E5%8E%BB%E6%84%9B)), Jin ([戴安娜](https://lalatai.com/outpeople/%E6%88%B4%E5%AE%89%E5%A8%9C%E2%94%82%E8%87%AA%E5%9C%A8%E5%81%9A%E8%87%AA%E5%B7%B1%E3%80%80%E6%9C%80%E5%BF%AB%E6%A8%82)), Youjen ([又仁](https://lalatai.com/outpeople/%E5%8F%88%E4%BB%81%E2%94%82%E7%94%A8%E8%A1%A8%E6%BC%94%E7%BE%8E%E9%BA%97%E4%B8%96%E7%95%8C%EF%BC%8C%E7%94%A8%E6%A8%82%E8%A7%80%E5%8B%87%E6%95%A2%E5%87%BA%E6%AB%83)), and Luo Yujia ([羅毓嘉](https://lalatai.com/outpeople/%E7%BE%85%E6%AF%93%E5%98%89%E2%94%82%E8%BF%8E%E6%8E%A5%E4%BA%BA%E7%94%9F%E9%A9%9A%E5%96%9C%EF%BC%8C%E5%B9%AB%E5%8A%A9%E6%89%80%E9%9C%80%E4%B9%8B%E4%BA%BA)).
 
 Speaking from a personal Chinese Canadian perspective, I found queerness in many Chinese movies I watched growing up (more on that in a Hong Kong post). By the early 2000s, when internet speeds were fast enough to share movies, there was also easier access to queer movies in Asia. For some reason, I *feel* like there is a higher ratio of content for queer women (whether lesbian or bisexual) as compared to North American cinema, but it could also be selection bias. I also personally find that the stories tend to touch on topics that intersect with queerness, whether it’s being an immigrant, or poverty, or or family issues. I think for Chinese and (East) Asian Americans, there will be resonance in seeing how characters communicate, behave, and are introduced through an Asian director and cast.
 
-If you are in Taiwan, then check out the [**Taiwan International Queer Film Festival**](http://www.tiqff.com/about)** series, which takes place in the Fall and has events throughout cities in Taiwan. **My understanding is that the major ones are in Taipei, Taichung, and Kaohsiung.** **In addition, I saw Changhua, Nantou, Jiayi, Taoyuan, Tainan, Hualien, Hsinchu from September – November 2018.
+If you are in Taiwan, then check out the [**Taiwan International Queer Film Festival**](http://www.tiqff.com/about) series, which takes place in the Fall and has events throughout cities in Taiwan. My understanding is that the major ones are in Taipei, Taichung, and Kaohsiung. In addition, I saw Changhua, Nantou, Jiayi, Taoyuan, Tainan, Hualien, Hsinchu from September – November 2018.
+
+{% include elements/video.html id="BFNhby-PKbc" %}
 
 **Caveat:**
  I haven’t watched as many Chinese (queer) films in recent years, which means there are many classics missing from my list, but you can check out the [Chinese Wiki List](https://zh.wikipedia.org/wiki/LGBT%E7%9B%B8%E5%85%B3%E7%94%B5%E5%BD%B1%E5%88%97%E8%A1%A8), which is quite comprehensive.
@@ -44,29 +47,41 @@ Queer women: *Spider Lilies, Drifting Flowers, Small Talk,*
 
 *Blue Gate Crossing* 藍色大門 (2002)
 
+{% include elements/video.html id="I4_WaaR0ygo" %}
+
 *Eternal Summer* 盛夏光年 (2006)
+{% include elements/video.html id="O3outtOL2zE" %}
 
 *Spider Lilies* 刺青 (2007)
+{% include elements/video.html id="G93pVFSCoIo" %}
 
 *Drifting Flowers* 漂浪青春 (2008)
+{% include elements/video.html id="c1Fu9Wlu_Zs" %}
 
 *Thanatos, Drunk* 醉·生夢死 (2015)
+{% include elements/video.html id="bcb1QIbChFk" %}
 
 *Alifu, the Prince/ss* 阿莉芙 (2017)
+{% include elements/video.html id="6hYRkpkU5hE" %}
 
 *Small Talk* 日常對話 (2017)
+{% include elements/video.html id="vWYQLPBVXiw" %}
 
 *The Story of the Stone* 紅樓夢 (2018)
+{% include elements/video.html id="PowWeNaFNNI" %}
 
 *Dark Blue and Moonlight* 深藍與月光 (2017)
+{% include elements/video.html id="t6MGAUWxU6A" %}
 
 **Special mention for Zero Chou’s Six Rainbow Cities 六城彩虹 series.**
 
 Some of you will notice that many of the movies I’ve listed above *Spider Lilies (2007), Drifting Flowers (2008), The Substitute (2017), and We Are Gamily (2017) *are directed by Zero Chou, who’s the only out lesbian director that I’m aware of in the Greater China region. The target cities crosses borders between 6 Chinese cities to tell queer stories in each of them: Beijing (The Substitute), Chengdu (We are Gamily), and the upcoming cities of Penang, Singapore, Hong Kong, and Taipei.
 
 *The Substitute* 替身(2017) — Chinese-subtitles
+{% include elements/video.html id="4nZvW091sIg" %}
 
 *We Are Gamily* 偽婚男女 (2017)
+{% include elements/video.html id="MK0pfFS1Jtg" %}
 
 [English subtitles at this link](https://www.gagaoolala.com/en/videos/478/we-are-gamily-2017-s01e01). It is also available on [Amazon](https://www.amazon.com/We-Are-Gamily-Zero-Chou/dp/B07FLQC9VM)!
  This romantic comedy has a gay, lesbian, and interracial relationship. Interestingly, though it is a Taiwanese production (director, cast, basically everyone I think), the movie is set in Chengdu, China. For the women, the Youtube spoiler scenes of Wu Ruo & Yang Duo on YouTube are here: [偽婚男女 武柔 (李京恬) X 楊朵 (程茉) 之愛情故事啊 ( [Wu Ruo X Yang Duo])](https://www.youtube.com/watch?v=MXxvD1PahPI).
@@ -79,17 +94,19 @@ Most of Taiwan’s LGBTQ Youtube channels only have Chinese subtitles as it’s 
 
 ** 【 LES LOVE 】台灣首部女同志拉子偶像微電影 (Full Video — Chinese & English subtitles)**
  This is the original web release for the short video (13 mins) that was released by Ben&Dry.
+ {% include elements/video.html id="CGudNduft1c" %}
 
 **[Ben&Dry](https://www.youtube.com/channel/UClFgy7_AqDgJKZNDZvwhm2A) (Lesbian / Queer women)**
  One of the hosts featured in [Les Love (2018) short film](https://www.youtube.com/watch?v=CGudNduft1c) and principle behind the lifestyle brand [TandG](https://www.tomboys.com.tw/).
 
 **[女人國 LEZS TV](https://www.youtube.com/channel/UCWr7C7XrO0sjqBtmV29hcpQ) (Lesbian / Queer women)**This podcast interviews queer women in Taiwan and their stories. The videos are an offshoot of the events called Lesz Meeting, an event / girls party that has been running in Taiwan since 2005.
 
-[**逼逼日記 BBDiary**](https://www.youtube.com/channel/UCEpoWnyNBUBNugHdNOwHI0Q)** (Lesbian / Queer women)**
+[**逼逼日記 BBDiary**](https://www.youtube.com/channel/UCEpoWnyNBUBNugHdNOwHI0Q)** (Lesbian / Queer women)** no longer exists, but I wanted to leave this here for posterity. The account still has 46,000 followers.
 
 **A vlog for a Taiwanese queer couple,** Huan and Amber, in Taiwan who got married in 2017.
 
 **[同志道合Lesbianingtogayther](https://www.youtube.com/channel/UC5P9KAGWGwcVlgrbuz1bpGw) (Gay, Lesbian and Bisexual vlogs)**
+{% include elements/video.html id="os_j2YSx0NA" %}
 
 The host discusses everything from Taiwan’s gay marriage to the 5 lesbians you’ll meet in school. It’s quite informative and very entertaining.
 
@@ -100,26 +117,24 @@ The host discusses everything from Taiwan’s gay marriage to the 5 lesbians you
 * trans: <https://youtu.be/bSbwDFNPeXo>
 
 **[夫夫之道Fufuknows](https://www.youtube.com/channel/UCLl4XWZ9GmoRRhSb27smqPw) (Gay couple)**
+{% include elements/video.html id="Xs436j2VWbo" %}
 
 It’s basically a gay couple’s travel and lifestyle vlog.
 
 **[Gaga & Lala Tai](https://www.youtube.com/channel/UCxoIIfQXmlWoA9WgRIgmzdQ) (Gaga & Lala Channels)
  **The two channels are under the GagaooLala umbrella — one for men and one for women. The Lala channel includes content such as “Out People”, interviews, events, etc. Below is an example of the Queer Taiwan (酷兒台灣) series done by Gagaoolala. This interview follows Leon and George and their razing their kids. Unfortunately, there are no English subtitles.
+ {% include elements/video.html id="UZ8C-aHwZcc" %}
 
 **[Over the Rainbow](https://m.facebook.com/OvertheRainbowTW/?locale2=en_GB)**
  As far as I understand, it’s a film / media movement for Chinese cities (hosted by Taiwan, but seems to have directors in China participating). I think it hosts the Six Rainbow Cities Project (六城彩虹) that I mentioned in the film section. Like Gagaoolala, they have interviews with out people on their Youtube channel. They’re calling on directors in Hong Kong, Singapore, Taipei, etc. Their Youtube channel [is here](https://www.youtube.com/channel/UCCPHfwTqvW04mKvcnJEjbCQ).
 
 ### Podcasts
 
-[![情愛的同學 播客](quiver-image-url/74D6082AB11231A7F14DE18812ED23F0.png)](https://thecupandtheroad.files.wordpress.com/2018/10/d6dd31_f78345372e23417dbb8f221467dfe823mv2.png)
-
 **[English] [My Dear Queer ](https://www.mydearqueer.com/)**
  This podcast is hosted in Kaohsiung by two expats, Bertus and Emmanuel discussing Taiwan’s gay culture and often in comparison to other places in the world or their own experiences elsewhere.
 
-**[![笨瓜秀 pourquoi](quiver-image-url/B057CC8D72ED1B565E4EB1CB19BD7526.jpg)](https://thecupandtheroad.files.wordpress.com/2018/10/600x600bb.jpg)****[Mandarin] [笨瓜秀 pourquoi](https://www.podparadise.com/Podcast/1436603385)**
+**[Mandarin] [笨瓜秀 pourquoi](https://www.podparadise.com/Podcast/1436603385)**
  Admittedly, I don’t understand everything, but I like listening to it. The host interviews people on a variety of topics, including latest news such as using the gay bar in Taipei for *Dream of the Red Chamber* 紅樓夢, which is the contemporary remake of a classic Ching Dynasty novel. He also seems to like playing Japanese songs between sections of his podcast.
-
-[![the ketagalan project podcast](quiver-image-url/D49A5F5AB32F7455AB890CCEEA81898A.jpg)](https://thecupandtheroad.files.wordpress.com/2018/10/1200x630bb.jpg)
 
 **[Mandarin /English] [Being Gay in Taiwan](https://soundcloud.com/thenewslensradio/012-being-gay-in-taiwan-tnlketagalan-media-co-production?utm_source=soundcloud&utm_campaign=wtshare&utm_medium=Twitter&utm_content=https%253A//soundcloud.com/thenewslensradio/012-being-gay-in-taiwan-tnlketagalan-media-co-production)**
  This is a single podcast Episode by The News Lens Radio and Ketagalan Media Co-Production
