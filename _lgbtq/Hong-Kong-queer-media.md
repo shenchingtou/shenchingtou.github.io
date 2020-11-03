@@ -1,6 +1,6 @@
 ---
 name: Hong Kong LGBTQ Media
-description: Miscallaneous List
+description: Podcasts, vlogs, Youtube channels, and other media in Cantonese and English on HK queer life.
 image: /assets/images/lgbtq/hk-lgbtq-podcasts.jpg
 layout: post
 tools: [Hong Kong, podcasts, vlogs]
