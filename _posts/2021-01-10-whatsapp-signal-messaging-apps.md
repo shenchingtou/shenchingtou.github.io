@@ -19,6 +19,8 @@ The other problem is that too many people use WhatsApp and the cost of switching
 
 ![Apple 'App Privacy' labels in App Store for WhatsApp and iMessage](https://specials-images.forbesimg.com/imageserve/5ff07f1e39ef1e72ed404595/960x0.png?fit=scale)
 
+
+
 WhatsApp is updating its Terms and Conditions as of [February 8, 2021](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=en) to explicitly pass on your data to Facebook. You will not be able to use the app if you do not explicitly agree.
 
 *What's the big deal?*
@@ -29,7 +31,7 @@ I will do another post about this when I have the time. But there's lots of lite
 1. The code for WhatsApp is not opensource, which means the public cannot look at the code to check for backdoors. You have to trust the company to really be doing end-to-end encryption and other privacy features and not secretly listening in to your conversations.
 2. The new Terms & Conditions do not pass your messages. They pass your user data. This is now documented in Apple's App Store showing the types of data apps collect from your device (this [article has a list of data WhatsApp collects](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/?sh=e06515836234) and [diagram of what Facebook Messenger collects](https://twitter.com/signalapp/status/1346258308496150528/photo/1)) These include things like contacts and geolocation, device marker, amongst other things. Together, these pieces of information map out the outline of you as an individual, and nonetheless exposes you and your contacts to Facebook. Even if Facebook doesn't know what you are saying, it knows who you are talking to, when, and how frequently. 
 
-![Comparison chart of Signal, iMessage, Whatsapp, Facebook Messenger data collection](https://pbs.twimg.com/media/Eq7ey1OUcAAXVyB?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/Eq7ey1OUcAAXVyB?format=jpg&name=medium)
 
 ### OK, so what are alternative messaging apps?
 
@@ -51,7 +53,7 @@ The short list of considerations for getting another app are:
 - How many other people are using it? **Telegram** is top for adoption, which also means it's probably the most convenient for you to switch -- most of your WhatsApp friends will probably be there as well.
 - How private do you want to be? For example, if you do not want your account to require a phone number or account to join a video call. 
 
-On a similar note, there are more private video conferencing solutions than using Google Meet or Zoom. The two best solutions are [Whereby](https://whereby.com/) and | [Jitsi](https://jitsi.org/). If it's a smaller group, you can use [Signal](https://signal.org/download/)  for up to 5 people. [Threema](https://threema.ch/en/), [Wire](https://wire.com/en/download/), and  [Wickr](https://wickr.com/product-tiers/) are secure workplace messaging and video solutions.
+On a similar note, there are more private video conferencing solutions than using Google Meet or Zoom. The two best solutions are [Whereby](https://whereby.com/) and [Jitsi](https://jitsi.org/). If it's a smaller group, you can use [Signal](https://signal.org/download/) for up to 5 people. [Threema](https://threema.ch/en/), [Wire](https://wire.com/en/download/), and  [Wickr](https://wickr.com/product-tiers/) are secure workplace messaging and video solutions.
 
 If you want to learn more about the factors that should be considered for secure messaging apps, check out this [mega chart of factors](https://www.securemessagingapps.com/) (should be updated soon in 2021).
 
