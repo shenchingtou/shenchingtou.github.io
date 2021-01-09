@@ -1,12 +1,12 @@
 ---
-title: Women in Tech inn Berlin
+title: Women in Tech in Berlin
 tags: [LGBTQ, Germany, Berlin]
-categories: [Tech, Resources]
-date: '2020-10-23 12:12:36 +0530'
-description: Resources
+categories: [Tech]
+style: 
 layout: post
-style: fill
-color: light
+color:
+date: '2020-10-23 12:12:36 +0530'
+description: Another list of women in tech for Berlin, with a focus on women in STEM -- developers and technical community leaders.
 ---
 
 This is a working list of resources. You can also check out this great directory of female-founded startups by industry in Berlin:
