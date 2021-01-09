@@ -31,7 +31,7 @@ I will do another post about this when I have the time. But there's lots of lite
 1. The code for WhatsApp is not opensource, which means the public cannot look at the code to check for backdoors. You have to trust the company to really be doing end-to-end encryption and other privacy features and not secretly listening in to your conversations.
 2. The new Terms & Conditions do not pass your messages. They pass your user data. This is now documented in Apple's App Store showing the types of data apps collect from your device (this [article has a list of data WhatsApp collects](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/?sh=e06515836234) and [diagram of what Facebook Messenger collects](https://twitter.com/signalapp/status/1346258308496150528/photo/1)) These include things like contacts and geolocation, device marker, amongst other things. Together, these pieces of information map out the outline of you as an individual, and nonetheless exposes you and your contacts to Facebook. Even if Facebook doesn't know what you are saying, it knows who you are talking to, when, and how frequently. 
 
-![](https://pbs.twimg.com/media/Eq7ey1OUcAAXVyB?format=jpg&name=medium)
+![Signal, iMessage, Whatsapp, Facebook Messenger personal data collection chart](https://specials-images.forbesimg.com/imageserve/5ff07f779f9392c3af404599/960x0.png?fit=scale)
 
 ### OK, so what are alternative messaging apps?
 
