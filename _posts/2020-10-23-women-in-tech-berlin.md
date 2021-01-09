@@ -63,16 +63,13 @@ This is a random list based off of the people I follow. They're not all founded 
  
 [Jessica Greene @sleepypioneer](https://twitter.com/sleepypioneer) Backend Developer @Ecosia; IoT, ML, GO, Python, JS, data visualisation @WWGBerlin @PyLadiesBer
 
-[Laura Wadden @laurawadden](https://twitter.com/laurawadden) systems femme | cto & co-founder - LaceWing Tech
+[Laura Wadden @laurawadden](https://twitter.com/laurawadden) systems femme, cto & co-founder - LaceWing Tech
 
 [Anika Lindtner @langziehohr](https://twitter.com/langziehohr)
 Gründerin http://littlevillage.berlin – coworking space mit pikler kinderbetreuung // herzensprojekt: @wishlephant // früher: CEO @travis_fnd
 
 [Ellen König @ellen_koenig](https://twitter.com/ellen_koenig) Senior data engineer @mytransport Meetup organizer @PyBerlinPython Tech blogger & speaker. Part-time sociology student. Curiosity-driven person. (she/her)
  
-[Nico Hagenburger @Hagenburger](https://twitter.com/Hagenburger)
-Berlin, public transportation, typography. Currently Design Systems Lead at WIFI@DB (Deutsche Bahn AG). 
-
 [Xenomascha @MaschaCamino](https://twitter.com/MaschaCamino) Game Design @MaschiMensch at @saftladenberlin; Co-organizer of @femispherebln, @devolutionbln, @BerlinGamez and @IndieSchoolTrip
 
 [Meowrina Díez @Ninfa_dp](https://twitter.com/Ninfa_dp) CEO @3ofcupsgames  @wondershophq @mesaatio ❀ Lead Designer @studio_jnsq ❀ @terebimagazine
@@ -84,6 +81,6 @@ Berlin, public transportation, typography. Currently Design Systems Lead at WIFI
 [Alex Savage](https://twitter.com/AlxSavage) Frontend Engineer @Webflow
  ・33% Hippie + 33% Nerd (figuring out the rest)・JavaScript & Music & Arts・She/Her @QueerJS
  
-[Julia Kloiber @j_kloiber](https://twitter.com/j_kloiber) Managing Director, Superrr Lab | Partner, Ashoka | Co-Founder @prototypefund | Mozilla Fellow | Feminism | Emerging Tech | Speculating about the future.
+[Julia Kloiber @j_kloiber](https://twitter.com/j_kloiber) Managing Director, Superrr Lab, Partner, Ashoka, Co-Founder @prototypefund, Mozilla Fellow
 
  
