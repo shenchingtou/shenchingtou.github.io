@@ -2,9 +2,9 @@
 title: LGBTQ Tech List for Berlin
 tags: [LGBTQ, Germany, Berlin]
 categories: [Tech, Resources]
-style: 
+style: border
 layout: post
-color:
+color: primary
 date: '2020-10-22 12:12:36 +0530'
 description: Resources for LGBTQ individuals on where to find queer-friendly, non TERF, communities, individuals, and companies in Berlin.
 ---

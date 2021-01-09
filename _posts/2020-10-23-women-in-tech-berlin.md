@@ -2,9 +2,9 @@
 title: Women in Tech in Berlin
 tags: [LGBTQ, Germany, Berlin]
 categories: [Tech]
-style: 
+style: border
 layout: post
-color:
+color: primary
 date: '2020-10-23 12:12:36 +0530'
 description: Another list of women in tech for Berlin, with a focus on women in STEM -- developers and technical community leaders.
 ---
