@@ -1,6 +1,6 @@
 ---
 title: Women in Tech in Berlin
-tags: [LGBTQ, Germany, Berlin]
+tags: [women in tech, Germany, Berlin]
 categories: [Tech]
 style: border
 layout: post
