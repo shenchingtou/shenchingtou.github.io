@@ -70,4 +70,50 @@ You'd be surprised how many people are (for example, if you're an iPhone user, y
 
 On your device, you can grant your messaging app of choice access to your contacts, you will be able to see who else is using the app and start messaging them. On Signal, you can turn off access to contacts once you're done messaging the people you want to reach. If you turn off an app's access to your contacts, it means they will not automatically include the names of people using the app, but you can still manually add them to a chat by copying and pasting their phone number. For people not using the app, create a group and share the link to the group to invite them.
 
+### Security requires design as much as tech
+
+**Why Telegram is not secure by design**
+
+There is a term called "security by design" or "secure by design". This principle is what differentiates Signal from Telegram. Telegram, to me, fails the "security by design" test because it defaults to non-encrypted chats. If you want end-to-end encryption on Telegram, you must click into a chat with someone, you need to take the following steps:
+1. Start a chat with them
+2. Click on their name at the top of your chat screen
+3. Click "More"
+4. Click "Start Secret Chat"
+5. Wait for the other person to go online to activate the secret chat room
+
+Telegram will only allow you to start typing once the other person is online. You know you are using a secret chat when you see a *green lock* beside the name of the preson you're talking to.
+
+It takes 5 steps for you to have a secure, end-to-end encrypted chat in Telegram.
+
+End-to-end encrypted chats in Telegram are *not accessible from your desktop*. This is a massive inconvenience to many people, which means many people will just opt not to use end-to-end encryption. That's a security fail. Signal does not have this problem -- both your mobile and your desktop messages are encrypted.
+
+Secure by design means that in addition to having security features such as encryption, an app should be designed in such a way as to make security and privacy a default. Security by design as a principle includes can include:
+
+- an app's default settings (automatically end-to-end encrypted)
+- features (such as message timers)
+- asking for explicit permission (*not* automatically adding a person's contacts, but instead asking for authorization)
+- allowing users to switch off permissions (such as access to your image gallery)
+- notifications (such as warnings when a user lets a third-party app access certain files, or if someone takes a screenshot of the chat)
+
+No app has every single feature. But you can choose the features that matter to you, or the bottom line features that you must have for the services you use. In the end, it is a question of the risk threshold you are willing to accept. For example, you may continue to use WhatsApp, but choose to limit who you talk to on it. 
+
+**Why are desktop messaging apps sometimes end-to-end encrypted and sometimes not?**
+
+*Disclaimer: Please keep in mind some of the concepts here may be simplified to help understand a basic concepts.*
+
+Why is Telegram not encrypted for desktop, but Whatsapp and Signal are? A clue lies in how you can use the apps. If your phone is dead, your WhatsApp web will not work either but your Telegram desktop/web will. Whatsapp is designed in such a way where a message someone sends goes only to your phone, and from your phone, the message is pushed into your web browser (think of it like a forwarding service). But if your phone is gone, it is like the first letterbox is gone, so there is no further place to forward to. 
+
+Telegram works on desktop even when your phone is dead because the message are sent up to a cloud server, which your computer can access in parallel to your phone. This is why, when you turn on a secret chat on Telegram, your desktop version cannot access the messages -- Telegram did not design its desktop service to be a forwarding service.
+
+Why does Signal work when your phone is dead? Signal uses encryption to connect each of your devices individually. If you authorize your desktop, then it is treated as another encrypted recieiving end. 
+
+**Signal is only as safe as your keyboard.**
+
+In reality, no service connected online is 100% safe. As long as there is a way for information to be transmitted, there is a way for an attack to occur. 
+
+In the case of Signal -- true of *all messaging apps, and every app using a keyboard* -- a weak link is the **keyboard**. If you are using a third-party keyboard, chances are you had to accept the Terms & Conditions in order to use it, which may contain rights to monitor your typing. This means that the keyboard provider can log everything you type, and in theory extract all your messages. This issue has been raised by the China's top tech & DIY YouTuber, opensource advocate and activist [Naomi Wu 机械妖姬](https://twitter.com/RealSexyCyborg/status/1197695344575799296). Naomi Wu also [goes at length to explain why IME (aka keyboards) apps make Signal unsafe for users in China](https://community.signalusers.org/t/signal-should-warn-users-who-are-likely-using-insecure-ime-apps/10272). The issue is worse usually for [Android phones, where users tend to do more customizations](https://github.com/signalapp/Signal-Android/issues/6985), but could be equally true of iPhones as well -- and as a side note, you can rethink whether you want to use the Google Keyboard too.
+
+
+
+
 *This document may be updated occasionally.*
