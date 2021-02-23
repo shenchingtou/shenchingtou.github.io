@@ -11,7 +11,7 @@ description: This post is a list of list of female writers in Japan, which inclu
 
 _This post is a list of list of female writers in Japan, which includes authors, novelists, and translators. All the writers listed have been recognized with at least one of Japan’s literary awards, such as the Akutagawa Literary Prize, Naoki Prize, and the Female Writer’s Award. In recent years, more of them have been translated into English, with some that have other European language translations such as French, Italian and German. They are listed by date of birth as the periods in which they live may give some context about their tone or what makes them distinctive for their era. Note that the names written in Japanese have the family first (for example, Momoko Ishii is actually Ishii Momoko with the Japanese characters)._
 
-![natsume soseki yukio mishima japanese classic books](https://shenchingtou.github.io/master/assets/images/blog/jp-classic-novels_9796.jpg)
+![natsume soseki yukio mishima japanese classic books](https://raw.githubusercontent.com/shenchingtou/shenchingtou.github.io/master/assets/images/blog/jp-classic-novels_9796.jpg)
 
 _A collection of literary classics, including Japanese and translated writers_
 
