@@ -5,8 +5,8 @@ layout: post
 date: '2018-01-01 12:12:36 +0530'
 categories: []
 tags: [travel]
-style: fill
-color: warning
+style: 
+color: 
     
 ---
 
