@@ -10,7 +10,7 @@ style: fill
 color: warning    
 ---
 
-*Copied down notes from an old blog. Many observations may no longer be true as vocal community leaders have emerged since. There's more work to be done. Take this as a reference piece of a pre-protest and Covid-19 era.*
+*This post is entirely preserved from my old blog to preserve the careful teachings of my venerable Kintsugi teacher in Tokyo. She held weekly community workshops where people could bring in their items and work on their projects.*
 
 One of my client offices has four cats who roam around wherever they please. Inevitably, things break. One weekend morning, I walked in to discover a colleague’s new cup smashed on the ground. After cleaning up the shards, I left the pieces on her desk. I didn’t have the heart to throw them away.
 
