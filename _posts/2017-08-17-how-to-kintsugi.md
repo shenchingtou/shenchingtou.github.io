@@ -149,18 +149,17 @@ _Polishing the gold layer with a tooth! — Photo by Athena Lam_
 
 The final step is to use a tooth to polish the gold. I don’t quite understand what the property of the tooth is, but it helped change the colour of the surface. The absolute final step should be a protective polishing layer. However, I didn’t have the time to do this as I was leaving Tokyo. The entire process in my case took about half a year because I went to a community centre and couldn’t attend for about two months.
 
-![金継ぎ　japanese gold repair](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1406.jpg?w=1920)
-
+![金継ぎ　japanese gold repair](/assets/images/kintsugi/kintsugi-japan-19.jpg)
 _My mostly finished Kintsugi pottery repair pieces lined with gold — Photo by Athena Lam_
 
 I didn’t think I would end up spending so long at this community centre. I had no idea how long the process would take, as there’s so little information on it in English. However, I grew to enjoy these workshops and getting to know the other locals who came by. The _sensei_ was also adorable. She would take a look at my work and constantly said _dame, dame, dame_ (that won’t do, that won’t do, oh dear) and then float-fluster around to help me fix it.
 
-![Unagi Nonedoko Shinagawa](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090240.jpg?w=1920)
+![Unagi Nonedoko Shinagawa](/assets/images/kintsugi/kintsugi-japan-20.jpg)
 
 _[Unaginonedoko](https://www.facebook.com/Unaginonedoko-for-foreigners-1004623439634478/) is in a typically narrow Tokyo house — Photo by Athena Lam_
 
 **For people who are looking to do a workshop while in Tokyo, please _do not_ contact this community centre, as they do not do short-term classes. Here is a [3-day English-speaking workshop on AirBnB](https://www.airbnb.com/experiences/237) or you can search for other classes. Thanks!  
 **
 
-![kintsugi japanese pottery repair gold](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-japan-1415.jpg?w=1920)]
+![kintsugi japanese pottery repair gold](/assets/images/kintsugi/kintsugi-japan-21.jpg)
 _Sensei and the regulars who watched me fumble through my last kintsugi session — Photo by Athena Lam_
