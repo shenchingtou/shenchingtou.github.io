@@ -158,8 +158,7 @@ I didn’t think I would end up spending so long at this community centre. I had
 
 _[Unaginonedoko](https://www.facebook.com/Unaginonedoko-for-foreigners-1004623439634478/) is in a typically narrow Tokyo house — Photo by Athena Lam_
 
-**For people who are looking to do a workshop while in Tokyo, please _do not_ contact this community centre, as they do not do short-term classes. Here is a [3-day English-speaking workshop on AirBnB](https://www.airbnb.com/experiences/237) or you can search for other classes. Thanks!  
-**
+**For people who are looking to do a workshop while in Tokyo, please _do not_ contact this community centre, as they do not do short-term classes. Here is a [3-day English-speaking workshop on AirBnB](https://www.airbnb.com/experiences/237) or you can search for other classes. Thanks! **
 
 ![kintsugi japanese pottery repair gold](/assets/images/kintsugi/kintsugi-japan-21.jpg)
 _Sensei and the regulars who watched me fumble through my last kintsugi session — Photo by Athena Lam_
