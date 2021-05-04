@@ -25,9 +25,6 @@ Here’s a brief guide for travellers and newcomers alike. Below, the sections a
 7.  **What’s it like living here?**
 8.  **What’s some good Hong Kong LGBTQ content to check out?**
 
-[![diversity and inclusion hong kong](https://thecupandtheroad.files.wordpress.com/2017/11/pride-parade-hong-kong-2017-victoria-park-nicole-1.jpeg?w=1024&h=577)](https://thecupandtheroad.files.wordpress.com/2017/11/pride-parade-hong-kong-2017-victoria-park-nicole-1.jpeg)
-
-_Hong Kong’s Pride Parade — Photo Credit: Nicole (Used with permission)_
 
 ## 1) How LGBTQ-friendly is Hong Kong?
 
@@ -70,27 +67,112 @@ As general information:
 
 Below are some to start with:
 
-Les Corner created the [LGBTPedia](http://lgbtpedia.hk/) (Chinese) and a print booklet that documents LGBTQ history and resources in Hong Kong.
+Tung Wah Hospital Group has a [Pride Line (a hotline) and regular small activity events](https://m.facebook.com/profile.php?id=1763245010380175&ref=content_filter)
 
-**Umbrella Organization:** [Pink Alliance (粉紅同盟),](http://pinkalliance.hk/) which organizes Pink Season, Hong Kong’s month-long Pride celebrations in November.
+[**Pink Alliance (粉紅同盟) / PinkDot**](http://pinkalliance.hk/)
 
-**Professional:** [Community Business’s LGBTQI Initiatives](http://www.communitybusiness.org/LGBT/key_initiatives.htm) is a non-profit organisation that runs an LGBTQ diversity and inclusion index that has become probably the largest in Asia. You can check out its list of supporting organizations and members to get a sense of which companies in Hong Kong are more LGBTQ-friendly. With the help of a team, I started the [LGBTQ Glassdoor](https://lgbtqglassdoor.com) project, which lets anyone anonymously recommend LGBTQ-friendly workplaces in Hong Kong. Hong Kong also has many diversity and inclusion and LGBTQ-related professional events lead by international firms such as [Out Leadership conferences](https://outleadership.com/event/financial-services-risk-and-lgbt-inclusion/), [The Economist Pride and Prejudice](http://prideandprejudice.economist.com/hong-kong/) conference to name just two examples.
+PinkDot is the umbrella organization that organizes Pink Season, Hong Kong’s month-long Pride celebrations. This site has information on the group, their affiliates, and general information for the LGBTQ community. For example, it includes [LGBT terms](http://pinkalliance.hk/lgbt-terms/), history, LGBTQ-related media. They even have a summer internship program called the ‘Pink Experience’. Their [Facebook group](https://www.facebook.com/pinkdothk/?hc_ref=ARTVdvvTjbVxVShhUlqobPUEB5I-WVFC2-AXtZiyEWs4o65WvvV9JLfQVm48HosWuEg&fref=nf) has active updates.
 
-**Youth:** [Queer Straight Alliance (GSA)](https://queerstraightalliance.wordpress.com/) is a student group at HKU and there are other LGBTQ student groups now visible in Hong Kong.
+[**Big Love Alliance**](http://www.biglovealliance.org/)
 
-**Women:** [The InFinity](https://www.facebook.com/theinfinity.hk) has some social events and [Lesturday](https://www.instagram.com/lesturday/) has regular shows. Also check out events at [HerFund](https://www.herfund.org.hk), which has events for queer women, trans women, and other marginalized groups.
+Founded in 2013 by out celebrities Anthony Wong, Denise Ho (HOCC), with support from Legislative Council members Cyd Ho and Raymond Chan. It hosts community events such as concerts, workshops, and panel discussions. It also creates media content for the public.[Rainbow HK香港彩虹](http://rainbowhk.org/)
 
-**Trans:** [Trans HK Discord Server](https://discord.gg/saR99hY) is a great starting point. You will need to be invited by the moderator, which shouldn’t be a problem. You can cite that you found out from this blog (or my name). Other groups include [The Gamut Project](https://www.thegamutproject.org/), and the more Cantonese-leaning [Gender Empowerment 性別空間](https://genderpower.space/)**.**
+Established in 1998, this non-profit has a resource centre in Jordan, a help-line, blood testing service, a library, and hosts regular events. They have an English site.
+
+**[Out in HK](http://www.outin.hk/)**
+
+This is an LGBTQ sports group. From my understanding, the turnout is higher for guys. For women, you have a better bet joining a rugby or lacrosse team.
+
+[**Planet Ally**](https://www.planetally.org/)
+
+Planet Ally is a nonprofit dedicated to empowering allyship and aims to provide resources and tools to advance human rights and build resilient communities. In practice, they do a lot of advocacy and event organizing for LGBTQ and inclusion events that intersect with issues such as faith, families, dignity and development. They have organised conferences around [**LGBTQ travel advocacy (Miles of Love)**](http://thecupandtheroad.com/2018/11/04/hk-lgbt-travel-forum-planet-ally/), and **[LGBTQ families (Rainbow Families)](https://www.planetally.org/rainbow-families/).**
+
+[**Aids Concern (關懷愛滋)**](http://aidsconcern.org.hk/home/#homepage)
+
+This non-profit does workshops, support groups, campaigns, and offers HIV testing.
+
+[**Tong Zhi Literature Group**](https://twitter.com/TLG_HK)
+
+As the name suggests, it’s a reading group and also promotes works by LGBTQ writers.
+
+[酷兒團契 Queer Affirming Fellowship](https://www.facebook.com/qaf.hk/)
+
+I think this is conducted in Cantonese, but basically my understanding is that it’s a queer-friendly Bible study and other church-related events.
+
+[**Queer Theology Academy (性神學社)**](https://www.facebook.com/qta.hk/)
+
+Founded in 2009, Queer Theology Academy (QTA) helps advocate for and foster theology that is supportive of LGBTQ individuals. They work with other community groups to provide pastoral counseling. Hong Kong has a strong Christian community, which generally is not supportive of LGBTQ initiatives. Although you always have the exceptions, such as the pastor that supported an intersex person who is confident enough to do an interview on television (see Section 7).
+
+### **Professional**
+
+To me, it feels like the professional networks in Hong Kong in recent years are the most active in organizing events. Majority of the push comes from international companies that already have such groups or HR initiatives to support same-sex couples or gender-nonconforming team members.
+
+The most recent court cases in the time of writing have been about marriage recognition for same sex couples and what rights spouses have ([a lesbian spouse won the right to a spousal visa in a landmark case](http://www.scmp.com/news/hong-kong/economy/article/2112962/legal-entitlements-hong-kongs-same-sex-couples-unlikely)). If you work for an international organization and are thinking of moving to Hong Kong, your company likely has an internal network (such as HSBC, Goldman Sachs, CBRE, KPMG, Li&Fung, JLL etc.). If it is, there is likely a company internal network and HR support for you.
+
+[**Community Business’s LGBTQI Initiatives**](http://www.communitybusiness.org/LGBT/key_initiatives.htm)
+
+Community Business is a non-profit organisation that aims to create more diversity and inclusion (in general) in the workplace, Community Business began research on LGBTQ inclusion in its member private companies. This has since evolved to additional initiatives such as the LGBT Resource Guide for Hong Kong and China, Workplace Inclusion Index, and various conferences for diversity and inclusion.
+
+Some networks / events include:
+
+-   [Fruits in Suits (Fins)](http://fruitsinsuits.com.hk/) (Monthly Events)
+-   [HK Gay Professionals Meetup](https://www.meetup.com/Hong-Kong-Gay-Professionals-Meetup/?_cookie-check=2qvQbIVH7zM_Yb7J)
+-   [Hong Kong Gay and Lesbian Attorneys Network (HKGALA)](https://www.hkgala.com/)
+-   [LGBT+ Interbank (Twitter)](https://twitter.com/hkinterbank?lang=en) and [Facebook Group](https://www.facebook.com/groups/206610126377044/permalink/414892988882089/)
+-   [LSE LGBT Global Alumni](https://www.alumni.lse.ac.uk/s/1623/interior-hybrid.aspx?sid=1623&gid=1&pgid=2047) is at the time of writing hosted in Hong Kong
+
+### LGBTQ Youth
+
+[**Project Touch (性向無限計畫)**](http://www.newtouch.net/)
+
+Run by the Boys and Girls Club Association of Hong Kong (BGCA), the project has various supports including a hotline, an HIV testing service, and social events for youth. The website also has information for parents and educators. [Facebook group here](https://www.facebook.com/bgcagayservice/?ref=nf&hc_ref=ARSCcIW3v4Ssgc6XHWwVpct40MZeHkDqsf0m0BxxlaTqZUryma5-hM6VayCG2mL2Qc4).
+
+[**Queer Straight Alliance (GSA)**](https://queerstraightalliance.wordpress.com/)
+
+The group includes various universities in Hong Kong (and potentially high school self-organised chapters) open to LGBTQI individuals and allies. It also Organises an Inclusion Recruitment Conference and collaborates with other groups such as Pink Alliance and Community Business.
+
+### Queer Women
+
+[The InFinity](https://www.facebook.com/theinfinity.hk)
+
+It’s affiliated with Project Touch and for queer women. I don’t think it’s limited to youth only, so check out social events like board game nights on their Facebook group.
+
+[**Les Corner**](http://www.lescorner.org/)
+
+An advocate group for queer women. They do events, workshops, and join other LGBTQ events like the Pride marches in Hong Kong and Taiwan. Check their [Facebook group](https://www.facebook.com/lescorner2015/) for updates.
+
+[**NTXS or Les Love Study (女同學社)**](http://leslovestudy.com/new/ntxs/)
+
+A non-profit started in 2005 with a strong board of directors, this is basically a one-stop portal to a lot of lesbian-related content, such as groups, events, icons, media. There are parts of the website in English. The portal will bounce you to various older site versions, but just work your way through it! Otherwise, head to the [Facebook Group](https://www.facebook.com/leslovestudy), which shares general media like videos.
+
+**[Women Coalition](http://www.wchk.org) (Monthly, 1st Saturday)**
+
+It’s run by the Women Coalition, an NGO for the LGBT community. Note: meetings are conducted in Cantonese but all women are welcome to attend. People usually go for dinner together after too. Check the website for updates.
+
+There is a secret group for lesbians on Facebook. If you are interested, message me and tell me your rough dates in Hong Kong and your Facebook profile.
+
+### Trans
+
+[**Trans HK Discord Server**](https://discord.gg/saR99hY)
+
+Quoting the creator and moderator’s message: “_Basically a place to discuss and support each other transitioning in an East Asian culture, we are mostly Chinese from Hong Kong but have members from US/UK/PH/SG as well; trans peeps, questioning folks and allies welcome~~_”
+
+[**The Gamut Project**](https://www.thegamutproject.org/)
+
+Organization started by Hong Kong vocalist, illustrator and [activist](https://www.hongkongfp.com/2018/11/11/depends-allies-non-binary-transgender-activist-vincy-chan-pushing-hong-kongs-lgbt-narrative-forward/) [Vincy Chan 陳韞](http://chanwanvincy.com), with a focus on genderqueer and non-binary transgender individuals. The group hosts art jam gatherings, clothing drives and is a safe place to meet other queer folks.
+
+[**Gender Empowerment 性別空間**](https://genderpower.space/)
+
+Gender Empowerment 性別空間 is an NGO that supports the transgender community in Hong Kong. The events, mostly hosted in Cantonese, have monthly get-togethers, FtM and Mtf support groups, makeup and voice training classes as well as career coaching classes. [Facebook group here](https://www.facebook.com/gender.empowerment.hk/).
+
+[**Transgender Resource Centre TGR**](http://www.tgr.org.hk/) (Legacy – Closed)  
+The TGR has been an anchor for the trans community for a decade, founded and maintained by [Joanne Leung 梁詠恩](https://www.facebook.com/joanneleung36/), Hong Kong’s first openly trans politician. Unfortunately, the centre has closed as Joanne moved in 2019, but I am keeping this here as legacy to honour the efforts made over these years. The centre began as monthly meeting sessions where participants registered in advance to ensure it was a safe space. Meetings were typically conducted in Cantonese, but a fair number of participants can speak English and Joanne speaks English. The centre grew into a physical space and offered an English and Chinese website with resources for trans individuals and allies. It also had a counselling service and an [English Facebook Group](https://www.facebook.com/groups/tgrhk1/).
+
+[**Transgender Rights Association 跨性別權益會**](https://www.facebook.com/跨性別權益會-1528586417203813/)
 
 **Rainbow Families**: Check out the [Rainbow Families of Hong Kong Facebook Group](https://www.facebook.com/groups/RainbowFamiliesofHK/).
 
-**For the full list check my** [**LGBTQ Hong Kong: Community Groups post.**](https://wp.me/p6buuO-7fp)
-
-## **5) What are good events to attend?**
-
-[![HKPride 2017 Victoria Park](https://thecupandtheroad.files.wordpress.com/2017/11/hong-kong-pride-2017-web-5006.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/11/hong-kong-pride-2017-web-5006.jpg)
-
-_People gathering at Victoria Park to march for HK Pride — Photo by Athena Lam_
+## 5) What are good events to attend?
 
 **In recent years, Hong Kong has had more LGBTQ-related issues featured at mainstream events or establishments. This means you should check out the things you like, whether they are career development panels, dance performances, or literary festivals.** For example, the Hong Kong Literary Festival, which was featured in Tai Kwan, had invited [Ivan E. Coyote in 2018](https://www.festival.org.hk/program/ivan-coyote-tomboy-survival-guide/). The new West Kowloon M+ cultural space featured a [genderfluid screening](https://www.westkowloon.hk/en/whats-on/past-events/m-screenings-genderfluid/chapter/concept-1534), the show “[Ambiguously Yours](https://www.westkowloon.hk/en/ambiguously-yours/ambiguously-yours-gender-in-hong-kong-popular-culture)” in 2017 and the West Kowloon Cultural District hosted the show [MDLSX](https://www.scmp.com/lifestyle/arts-culture/article/2170175/shows-west-kowloon-cultural-district-push-boundaries-what-can).
 
@@ -119,7 +201,7 @@ For English listings, check out [Time Out HK (LGBTQI Section)](http://www.timeou
 
 [Tung Wah Group Hospital Hosts a Pride Line (hotline) and events](https://m.facebook.com/profile.php?id=1763245010380175&ref=content_filter)
 
-## **6) What’s the nightlife like?**
+## 6) What’s the nightlife like?
 
 **For men who have sex with men**
 
@@ -139,11 +221,9 @@ I don’t now how big of a cultural thing this is, but there are enough in the c
 
 For women, [Les Peches](https://www.facebook.com/groups/lespeches/) is a solid first choice. Started in 2005 by Abby and Betty, this is the longest-running and most consistent set of events for lesbians / queers / trans individuals. There’s usually the Flotilla that happens in the summer as well.  
 
-Lesbian bars tend to be more like lounges, rather than dance clubs. The best way to learn about the new locations is to join one of the Facebook groups and ask a local. [Sweatitude](https://www.facebook.com/SWEATITUDE/?fref=gc&dti=163112037117025&hc_location=ufi) was recommended. ![🙂](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f642.svg) 
+Lesbian bars tend to be more like lounges, rather than dance clubs. The best way to learn about the new locations is to join one of the Facebook groups and ask a local. [Sweatitude](https://www.facebook.com/SWEATITUDE/?fref=gc&dti=163112037117025&hc_location=ufi) was recommended.
 
-## **7) What’s it like living there?**
-
-This is an interesting topic that deserves a full post on its own.
+## 7) What’s it like living there?
 
 As I mentioned above with the community and scene, there is a range of experiences living as an LGBTQI individual in Hong Kong. It depends on whether you speak English or Cantonese, your skin colour, socio-economic status, and (especially if you’re local) your relationship with your family.
 
@@ -153,7 +233,7 @@ Below, I’ve included some interesting media to share. They’re not meant to r
 
 I recommend checking out the piece titled “[Hong Kong’s lesbian spaces and the stories behind them](https://nuvoices.com/2018/09/13/hong-kongs-lesbian-spaces-and-the-stories-behind-them/)” to get a better context of how the Hong Kong queer women’s scene has evolved over the recent decades.
 
-[Tycoon’s daughter Gigi Chao becomes Hong Kong LGBT role model](https://thecupandtheroad.wordpress.com/2016/05/19/lgbtq-hong-kong-a-brief-guide/blank) (CNN: English)
+If you understand Cantonese, then you can tune in to Denise Ho's [菇武門 podcast](https://podcasts.apple.com/jp/podcast/%E8%8F%87%E6%AD%A6%E9%96%80podcast-%E4%BD%95%E9%9F%BB%E8%A9%A9-%E9%BB%83%E8%A9%A0%E8%A9%A9/id1459368151) / [Youtube channel](https://www.youtube.com/c/GoomusicLtd/videos). It covers a lot of general cultural topics, but since she's openly queer, it pops up often enough and she also interviews guests who are openly queer. 
 
 [Denise Ho 何韻詩HOCC| WSJ: For Hong Kong’s Celebrities, Supporting Occupy Protests Isn’t Easy](https://www.youtube.com/watch?v=hcEOorE9DH0) (Wall Street Journal: English)
 
@@ -165,9 +245,9 @@ I recommend checking out the piece titled “[Hong Kong’s lesbian spaces and t
 
 [May Chow, voted best female chef in Asia](http://www.scmp.com/lifestyle/food-drink/article/2054152/hong-kongs-may-chow-voted-asias-best-female-chef-talks-about), owner of [Little Bao](http://www.little-bao.com/), is “openly gay” (in her own words, on TV interviews)
 
-## **8) What’s some good Hong Kong LGBTQ content to check out?**
+## 8) What’s some good Hong Kong LGBTQ content to check out?
 
-Hong Kong has quite a bit of gay, lesbian, and even trans content. You can check out my list of [Hong Kong LGBTQ Podcasts, Videos, and Youtube Channels](http://thecupandtheroad.com/2018/10/16/lgbtq-podcasts-youtube-channels-hk/) for online media.  
+Hong Kong has quite a bit of gay, lesbian, and even trans content. You can google them or look at my Chinese queer media post for my archived list dump.  
 
 In general, the city has produced a fair amount of films, has out celebrities, media professionals, and (for some odd reason) chefs. In addition, there are active online communities, especially in Facebook and Whatsapp groups. I’ve included a sampling online publications and groups, but nothing should be taken as representative of a monolithic Hong Kong queer culture, which gaps between local Cantonese and English speakers, ethnic groups such as Filipinos, and other affiliations.  
 
@@ -194,8 +274,6 @@ They have a pretty decent list of home-grown [LGBTQ movies](http://pinkalliance.
 
 [Mr. Gay Hong Kong](https://twitter.com/MrGayHK)  
 As the name suggests, this is a competition / beauty pageant that gets quite a bit of attention!
-
-As part of the [LGBTQ Glassdoor](https://lgbtqglassdoor.com) initiative, we gathered content from local Hong Kong LGBTQ individuals and allies to share. You can check out the videos on [Facebook](https://facebook.com/lgbtqglassdoor).
 
 [LGBTQ Secrets](https://www.facebook.com/LgbtqSecrets?ref=ts&fref=ts)  
 This Facebook group is one of the ‘Secrets’ groups that releases anonymous commentary or anecdotes relating to the group topic (i.e. a university, school, etc.). In this case, it is a channel for individuals to voice out their experiences as LGBTQ individuals. Most of the posts are in Cantonese, but there are English ones too!
