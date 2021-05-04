@@ -1,7 +1,7 @@
 ---
 name: LGBTQ Hong Kong - a Brief Guide
 description: Places to start for queer folks in Hong Kong; compiled around 2018.
-image: /assets/images/lgbtq/hong-kong-pride-2017-athena-lam.jpg
+image: /assets/images/lgbtq/lgbtq-groups-associations-hk.jpg
 layout: post
 tools: [Hong Kong, lgbtq]
 ---
@@ -29,39 +29,39 @@ Here’s a brief guide for travellers and newcomers alike. Below, the sections a
 
 _Hong Kong’s Pride Parade — Photo Credit: Nicole (Used with permission)_
 
-## **1) How LGBTQ-friendly is Hong Kong?**
+## 1) How LGBTQ-friendly is Hong Kong?
 
-On the scale of things, pretty friendly, especially for a traveller. You can go ahead with PDA (public display of affection) and even if someone stares, it’s usually out of confusion rather than hostility. Also, Hong Kong’s also generally a safe city, period. I’ll elaborate in another post about things I like and dislike about LGBTQ issues in the city.
+On the scale of things, pretty friendly, especially for a traveller. You can go ahead with PDA (public display of affection) and at most you get stares; public violence isn't on US or European levels.
 
 If you’re planning to live here or applying for a spouse to join you on a dependency visa, things may be a bit more complicated. The legal side of LGBTQ-related issues are not as progressive compared to the gold star countries. If you are working in a multinational company, then the rapidly changing attitudes of international firms will likely trickle into your benefits packages.
 
-## **2) What’s the community and scene like?**
+## 2) What’s the community and scene like?
 
-Depending on who you talk to, the answer can vary widely. I think a summary would be that Hong Kong has a number of LGBTQ-related events that are more activism and community-building based, but much less of the night life that people from North America and Europe may be used to.
+Depending on who you talk to, the answer can vary widely. I think a summary would be that Hong Kong has a number of LGBTQ-related events that are more activism and community-building based, but much less of the night life that people from North America and Europe may be used to. Queer groups are usually passed around through Whatsapp, Telegram, Facebook, and even Discord.
 
-Firstly, there is a cultural difference between the ‘local’ Cantonese speaking scene and the English-speaking, ‘expat’ scene. The latter is far more publicly active, especially for nightlife. The former tends to be more low-key, with information that is spread through word-of-mouth networks (which includes Facebook groups, so make sure you subscribe to groups and pages!). Many events happen during the day, such as sports practices, workshops, and lunch get-togethers.
+There's a cultural difference between the ‘local’ Cantonese speaking scene and the English-speaking, ‘expat’ scene. The latter is far more publicly active, especially for nightlife because night life is mostly around the financial district and prices out most of the city. The former tends to be more low-key, with information that is spread through word-of-mouth networks. Many events happen during the day, such as sports practices, workshops, and lunch get-togethers.
 
-Depending on where people come from, they will either feel that Hong Kong ‘doesn’t have much’ or has a lot. Both answers can be correct. Especially in the corporate world, diversity and inclusion is now a hot topic. There is usually an event (i.e. talk, workshop, drinks) every week or so hosted by some LGBTQ group. These will often be in English. In addition, Hong Kong has some large LGBTQ events that would be great to time your visit with, such as the HK Gay and Lesbian Film Festival or Pink Season. You can check the ‘events to check out’ section below. 
+Depending on where people come from, they will either feel that Hong Kong ‘doesn’t have much’ or has a lot. Especially in the corporate world, diversity and inclusion is now a hot topic. There is usually an event (i.e. talk, workshop, drinks) every week or so hosted by some LGBTQ group. These will often be in English. In addition, Hong Kong has some large LGBTQ events that would be great to time your visit with, such as the HK Gay and Lesbian Film Festival or Pink Season. 
 
-However, for a city with over 7 million people, the visible nightlife isn’t as big as one would expect (a combination of expensive real estate, less of a social drinking culture, and long work hours). Having said that, of course, there are plenty of gay bars and a handful of lesbian events. In addition, places close and open under a different name fairly often, so the information online sometimes lags a bit. You can check out the ‘Nightlife’ section below.
+However, for a city with over 7 million people, the visible nightlife isn’t as big as one would expect (a combination of expensive real estate, less of a social drinking culture, and long work hours). Having said that, of course, there are plenty of gay bars and a handful of lesbian events. In addition, places close and open under a different name fairly often, so the information online sometimes lags a bit.
 
 In addition, the attitudes towards things like relationships, family, or whether to be out, tend to differ between the local and expat communities. If you are interested in engaging the local scene, then it is best to find a bi-cultural friend to introduce you; you may also want to take it slow by spending more time listening, as many people become nervous around English speakers (for various reasons, but let’s just say they become self-conscious).
 
-Lastly, initiatives and events are often scattered and you need to know what you’re looking for. Often local sites that have English versions are not search engine optimised, and don’t show up on Google searches. Facebook names can be unintuitive, and groups are often closed or secret. There’s more than meets the eye!
+Lastly, initiatives and events are often scattered and you need to know what you’re looking for. Often local sites that have English versions are not search engine optimised, and don’t show up on Google searches. Facebook names can be unintuitive, and groups are often closed or secret. Instagram community groups have emerged since 2019/2020.
 
-You can also try this [LGBTQ Walking Tour that started in 2016.](http://hongkong.coconuts.co/2016/07/07/go-pride-hong-kongs-first-ever-lgbt-walking-tour)
+## 3) How do I find people?
 
-## **3) How do I find people?**
-
-The best way to meet other LGBTQ people is through groups. It may be a Facebook community or support group, such as the [Transgender Resource Centre](https://tgr.org.hk/index.php/en/), work group, or sports group. Another way is to volunteer. Information is usually spread through smaller discussion circles, such as **WhatsApp groups** as there are more events than meets the eye in Hong Kong (especially since around 2015). Check the ‘Community Groups’ section below for the list and also search for Facebook groups, and [Meetup groups](http://www.meetup.com/cities/hk/hong_kong/lgbt/).
+The best way to meet other LGBTQ people is through groups. It may be a Facebook community or support group, such as the [Transgender Resource Centre](https://tgr.org.hk/index.php/en/), work group, or sports group. Another way is to volunteer. Information is usually spread through smaller discussion circles, such as **WhatsApp groups** as queer content does pop up in many places, whether it's a literary festival or in art galleries. 
 
 **Butterfly** is the app for queer women in Hong Kong that was privately funded by a couple until April 2019. It was available on [Android](https://play.google.com/store/apps/details?id=com.rsl.butterfly) and the [iPhone](https://itunes.apple.com/us/app/butterfly/id621210464?mt=8), but has since been closed. The dating app **Her** works in Hong Kong.
 
 For guys try the usual [Grindr](http://www.grindr.com/) and [Hornet](http://love.hornetapp.com/) (founder’s in HK!) apps.
 
-## **4) LGBTQ Community Groups:**
+## 4) LGBTQ Community Groups:
 
-When I first started this list, I only had about 10 entries. Now I have too many, so I created a full post titled **[LGBTQ Hong Kong: Community Groups](https://wp.me/p6buuO-7fp).** As general information:
+![](/assets/images/lgbtq/lgbtq-groups-associations-hk.jpg)
+
+As general information:
 
 -   Hong Kong has English and Cantonese communities
 -   English-friendly groups are usually corporate alliances or chapters, Meetup groups, or whomever your English-speaking queer friend introduces you to.
