@@ -1,6 +1,6 @@
 ---
-title: LGBTQ Living in Japan: A Guide for Work, Queer Families and Trans Individuals
-description: An archive of a guide written in 2017
+title: LGBTQ Living in Japan
+description: An archive of a guide written in 2017 for work, queer families and trans folks
 
 layout: post
 date: '2018-06-11 12:12:36 +0530'
