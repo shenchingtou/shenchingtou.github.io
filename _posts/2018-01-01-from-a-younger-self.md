@@ -1,6 +1,5 @@
 ---
-title: An About post from a dead blog
-
+title: An about post from a dead blog
 layout: post
 date: '2018-01-01 12:12:36 +0530'
 categories: []

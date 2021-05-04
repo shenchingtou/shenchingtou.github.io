@@ -1,5 +1,6 @@
 ---
 title: Dewa Sanzan - Haguro-san
+description: Hiking diary post for the area called the Dewa Sanzan in Northern Japan.
 layout: post
 date: '2016-05-15 12:12:36 +0530'
 categories: []
