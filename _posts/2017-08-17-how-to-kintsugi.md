@@ -1,5 +1,5 @@
 ---
-title: Stesp in Kintsugi - A community gold joinery workshop in Tokyo
+title: Steps in Kintsugi - A community gold joinery workshop in Tokyo
 description: Archived post documenting the important steps in Kintsugi as taught by a community teacher at Unaginonedoko in Tokyo
 
 layout: post
@@ -16,12 +16,12 @@ One of my client offices has four cats who roam around wherever they please. Ine
 
 In my mind, it could be fixed. The missing fragments could be filled with lacquer, lined with gold dust, and polished to become an even more unique cup. It could be a _kintsugi_ piece.
 
-[![金継ぎ　うなぎの寝床　東京]](/assets/images/kintsugi/kintsugi-japan-1.jpg)
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-1.jpg)
 _A completed kintsugi piece by Sensei — Photo by Athena Lam_
 
 _Kintsugi_ is the traditional craft of mending broken fragments and one-upping the original by lining it with gold. The historical practice originated in Kyoto and has Buddhist roots — nothing is just broken, just born anew. I first discovered when a friend (who lived in Hong Kong) asked me whether I knew places that did it in Tokyo (when I still lived there). I didn’t, but because she asked, I ended up asking a local friend of a friend who was also interested in traditional crafts. She, in turn, found another architect friend who designed the restoration of an old Tokyo house into a small community workshop. It is in that community workshop that I ended up spending half a year, mending things with locals under the tutelage of a warm, elderly _sensei_.
 
-[![Unagi Nonedoko Shinagawa]](/assets/images/kintsugi/kintsugi-japan-2.jpg)
+![Unagi Nonedoko Shinagawa](/assets/images/kintsugi/kintsugi-japan-2.jpg)
 _Unaginonedoko is a community space in Shinagawa, Tokyo — Photo by Athena Lam_
 
 The community centre called [Unaginonedoko](https://www.facebook.com/unaginonedokoforexperienceofJapaneseculture/) runs weekly workshops for this traditional craft, which only has a handful of masters left in Kyoto. If you are living in Tokyo, speak basic Japanese, and interested in working on some pieces long-term (think months), then you can check out this [Facebook page](https://www.facebook.com/unaginonedokoforexperienceofJapaneseculture/).
@@ -32,15 +32,14 @@ Below are some of the things I learned over the course of several months.
 
 ## 0. Give yourself plenty of time
 
-[![金継ぎ　うなぎの寝床　東京]](/assets/images/kintsugi/kintsugi-japan-3.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-3.jpg)
 _Entire missing fragments can be replaced in kintsugi if you have time — Photo by Athena Lam_
 
 My local friend and I didn’t know what to expect when we first arrived in the narrow house that just fits a long table. The instructor was a bit late and the glass sliding door was locked. Had we gone to the wrong place?
 
 Eventually, she arrived on her bike with a basket full of all the materials we would need: lacquer, gold dust, all the tools, and even some pieces students had left with her. _Sensei_ is a venerable lady with frizzy hair the colour of speckled snow. As the other disciples sat down to work, we waited for her to sort herself out and attend to each person’s question in turn. This would be a common theme in _kintsugi_: Waiting. There is nothing to rush in _kintsugi_. Every stage completed takes a day to set.
 
-[![金継ぎ　うなぎの寝床　東京]](/assets/images/kintsugi/kintsugi-japan-4.jpg)
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-4.jpg)
 _Mixing small amounts of our own materials every time — Photo by Athena Lam_
 
 ### Materials Used
@@ -60,14 +59,14 @@ _Mixing small amounts of our own materials every time — Photo by Athena Lam_
 
 ## 1. Kintsugi begins with the broken
 
-[![金継ぎ　うなぎの寝床　東京]](/assets/images/kintsugi/kintsugi-japan-5.jpg)
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-5.jpg)
 _My borrowed broken tea pot — Photo by Athena Lam_
 
 To make a _kintsugi_ piece, you have to first break something. The community workshop I joined was just that — a guided session where everyone worked on whatever pieces they wanted. For most of the attendees, this workshop was a routine. By the time they finished one piece, they have found another piece to fix.
 
-## **2\. Make the defect bigger**
+## 2. Make the defect bigger
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg)
+![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg?w=1920)(https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg)
 
 _Drilling the edges to create a line and the middle for the glue to go in — Photo by Athena Lam_
 
