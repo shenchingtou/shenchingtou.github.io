@@ -66,57 +66,51 @@ To make a _kintsugi_ piece, you have to first break something. The community wo
 
 ## 2. Make the defect bigger
 
-![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg?w=1920)(https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090175.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-6.jpg)
 _Drilling the edges to create a line and the middle for the glue to go in — Photo by Athena Lam_
 
 Clean breaks aren’t great for _kintsugi_. If you just glue it back together, the line is too thin to line with gold. Therefore, we need to deepen the chips, widen the cracks, and create uneven surfaces so that the lacquer can seep in and properly glue the pieces back together.
 
-[![金継ぎ　うなぎの寝床　品川](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090128.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090128.jpg)
-
+![金継ぎ　うなぎの寝床　品川](/assets/images/kintsugi/kintsugi-japan-7.jpg)
 _Widining the chip to create enough space for the lacquer — Photo by Athena Lam_
 
 My white porcelain cup had a very shallow chip that no-one notices, so I marked the spot to drill into with a felt marker. Widening the chip was much more difficult than creating an uneven surface to mend. On smooth surfaces, it’s easy for your hand to fly off in the wrong direction so that the hole gets bigger and bigger as you try to smooth the outline. My white cup would prove to be a much bigger challenge than the tea pot throughout the entire process.
 
-## **3. Filling with lacquer**
+## 3. Filling with lacquer
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090190.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090190.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-8.jpg)
 _Natural glue — Photo by Athena Lam_
 
 Different mixtures of lacquer are used for the purposes of filling and mending. At my workshop, the redish type includes tree wax that forms a natural glue. Laquer and ground charcoal can be used to for filling, like my cup. In extreme cases, the lacquer can be used to entirely recreate missing parts. However, the layers need to be dried in turn before another thin layer is applied. Filling gaps can take months.
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi525_210438.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi525_210438.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-9.jpg)
 _Patching with ash and lacquer — Photo by Athena Lam_
 
 The amounts mixed are small so as not to waste materials. Hence, we usually use a petrie dish and work with single drops of water to mix until we get the right consistency. Too watery, and nothing will stick. Too thick, and we can’t apply a properly maleable surface.
 
-## **4\. Making pieces whole again**
+## 4. Making pieces whole again
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090222.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090222.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-10.jpg)
 _Cleaning off the excess glue — Photo by Athena Lam_
 
 What is applied needs to be polished and sanded down eventaully. Glue needs to be removed while it is still liquid so that later sanding isn’t as difficult.
 
-## **5\. Overnight waiting every step of the way**
+## 5. Overnight waiting every step of the way
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090243.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090243.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-11.jpg)
 _Pieces marked with the next workshop date — Photo by Athena Lam_
 
 Applying a layer of glue or the first layer of lacquer to fill a chip is usually the end of the first session. Two hours is plenty of time to go slowly, applying only what is needed and wiping off the rest. The tools used for _kintsugi_ are also quite small as a result, since it is an exacting craft. With the pieces bound and taped, the next thing to do is clean, as lacquer left drying on a brush can render it useless a day later!
 
-## **6\. Clean up after yourself**
+## 6. Clean up after yourself
 
-[![金継ぎ　リグロイン](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-cleaning.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-cleaning.jpg)
+![金継ぎ　リグロイン](/assets/images/kintsugi/kintsugi-japan-12.jpg)
 
 _Oil and benzine are the two main cleaning agents — Photo by Athena Lam_
 
 Cleaning can take some time as well. Benzine, known as _regroin_ (リグロイン) is applied to a brush with sap, and the lacquer gently pressed out. This is repeated until there is no colour left when pressing the bristles. The other tool, oil, is added to a plastic surface and used for. Benzine and oil are not interchangable. They are used for specific mixes, so make sure you ask your instructor!
 
-## **7\. Removing excess**
+## 7. Removing excess
 
 [![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_144555-e1502111870575.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_144555-e1502111870575.jpg)
 
@@ -126,7 +120,7 @@ By the second session, you are either adding another layer of lacuqer (if you ha
 
 Again, my tea pot was easier than my cup. I ended up redoing my cup twice because as I was scraping, a bit too much of the lacquer came off, leaving a teeny hole between the edge of my hole and the regular surface of the cup. As a result, I had to take it all out and re-fill the gap. The great news is that _kintsugi_ is quite forgiving. Try, try, try until you get it right. And, the tortoise definitely wins in this race.
 
-## **8\. Adding gold**
+## 8. Adding gold
 
 [![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_151419.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_151419.jpg)
 
@@ -140,7 +134,7 @@ _Adding gold dust — Photo by Athena Lam_
 
 With the line traced, immediately add the gold dust. A small amount in patches until you cover the entire black line is essential. You cannot go back to redo the process. Also, exposed black patches will stick to the brush you use to wipe off the excess gold dust, which is not ideal. Return the unused gold dust into the container. Also, missing patches of gold will have an irreverseable implication on your final polishing process, so better add too much and gently sweep off after. Then, it’s a wait to the next step.
 
-## **9\. Repeat**
+## 9. Repeat
 
 [![金継ぎ　東京 japanese gold joinery](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1394.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1394.jpg)
 
@@ -148,7 +142,7 @@ _Sanding down the gold surface — Photo by Athena Lam_
 
 The gold layer is applied twice for consistency. This means the next workshop is also just a quick application of the glue, then carefully adding the gold, then waiting again. That’s a good opportunity to learn from your peers and see what advice your instructor is giving them for their cases.
 
-## **10\. Final coating and polishing**
+## 10. Final coating and polishing
 
 [![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1401.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1401.jpg)
 
@@ -162,19 +156,18 @@ _Polishing the gold layer with a tooth! — Photo by Athena Lam_
 
 The final step is to use a tooth to polish the gold. I don’t quite understand what the property of the tooth is, but it helped change the colour of the surface. The absolute final step should be a protective polishing layer. However, I didn’t have the time to do this as I was leaving Tokyo. The entire process in my case took about half a year because I went to a community centre and couldn’t attend for about two months.
 
-[![金継ぎ　japanese gold repair](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1406.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1406.jpg)
+![金継ぎ　japanese gold repair](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1406.jpg?w=1920)
 
 _My mostly finished Kintsugi pottery repair pieces lined with gold — Photo by Athena Lam_
 
 I didn’t think I would end up spending so long at this community centre. I had no idea how long the process would take, as there’s so little information on it in English. However, I grew to enjoy these workshops and getting to know the other locals who came by. The _sensei_ was also adorable. She would take a look at my work and constantly said _dame, dame, dame_ (that won’t do, that won’t do, oh dear) and then float-fluster around to help me fix it.
 
-[![Unagi Nonedoko Shinagawa](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090240.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090240.jpg)
+![Unagi Nonedoko Shinagawa](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-1090240.jpg?w=1920)
 
 _[Unaginonedoko](https://www.facebook.com/Unaginonedoko-for-foreigners-1004623439634478/) is in a typically narrow Tokyo house — Photo by Athena Lam_
 
-### **For people who are looking to do a workshop while in Tokyo, please _do not_ contact this community centre, as they do not do short-term classes. Here is a [3-day English-speaking workshop on AirBnB](https://www.airbnb.com/experiences/237) or you can search for other classes. Thanks!  
+**For people who are looking to do a workshop while in Tokyo, please _do not_ contact this community centre, as they do not do short-term classes. Here is a [3-day English-speaking workshop on AirBnB](https://www.airbnb.com/experiences/237) or you can search for other classes. Thanks!  
 **
 
-[![kintsugi japanese pottery repair gold](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-japan-1415.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-japan-1415.jpg)
-
+![kintsugi japanese pottery repair gold](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-japan-1415.jpg?w=1920)]
 _Sensei and the regulars who watched me fumble through my last kintsugi session — Photo by Athena Lam_
