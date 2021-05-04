@@ -79,10 +79,6 @@ Also follow “[Project Rainbow](https://medium.com/@chostett/project-rainbow-we
 
 ## Are there LGBTQ to attend in Tokyo?
 
-[![gay lesbian tokyo event shinjuku](https://thecupandtheroad.files.wordpress.com/2017/08/tokyo-rainbow-matsuri-shinjuku-nichome.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/tokyo-rainbow-matsuri-shinjuku-nichome.jpg)
-
-_Shinjuku’s Rainbow Matsuri in August had lots of kids! — Photo by Athena Lam_
-
 In addition to the clubs and Meetup.com events, there are some annual events to check out.
 
 -   [Queer Tokyo Fair](https://www.facebook.com/Queer-Tokyo-Fair-104967357621860/) ([IG account here](https://www.instagram.com/qt_fair/)) started in November, 2019
@@ -93,10 +89,6 @@ In addition to the clubs and Meetup.com events, there are some annual events to 
 -   [Gender Free Party](http://xparty.xyz/sche/2017/next.html) happens a few times a year (tip from a trans friend who lived there)
 
 ## Queer Spaces in Tokyo (mostly Shinjuku’s gay and lesbian bars)
-
-[![shinjuku tokyo nightlife](https://thecupandtheroad.files.wordpress.com/2017/08/cyberpunk-omoide-yokocho-shinjuku-8411.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/cyberpunk-omoide-yokocho-shinjuku-8411.jpg)
-
-_Wandering Shinjuku’s small alleys — Photo by Athena Lam_
 
 **General Queer Spaces**
 
