@@ -73,6 +73,13 @@ Queer women: *Spider Lilies, Drifting Flowers, Small Talk,*
 *Dark Blue and Moonlight* 深藍與月光 (2017)
 {% include elements/video.html id="t6MGAUWxU6A" %}
 
+*Gentleman Spa* 癡情馬殺雞 (2019)
+{% include elements/video.html id="J3kiikIKi1M" %}
+
+*Your name Engraved Herin* (2020)
+{% include elements/video.html id="mzfVBg54BGw" %}
+
+
 **Special mention for Zero Chou’s Six Rainbow Cities 六城彩虹 series.**
 
 Some of you will notice that many of the movies I’ve listed above *Spider Lilies (2007), Drifting Flowers (2008), The Substitute (2017), and We Are Gamily (2017) *are directed by Zero Chou, who’s the only out lesbian director that I’m aware of in the Greater China region. The target cities crosses borders between 6 Chinese cities to tell queer stories in each of them: Beijing (The Substitute), Chengdu (We are Gamily), and the upcoming cities of Penang, Singapore, Hong Kong, and Taipei.
@@ -138,6 +145,9 @@ As far as I understand, it’s a film / media movement for Chinese cities (hoste
 
 **[Mandarin /English] [Being Gay in Taiwan](https://soundcloud.com/thenewslensradio/012-being-gay-in-taiwan-tnlketagalan-media-co-production?utm_source=soundcloud&utm_campaign=wtshare&utm_medium=Twitter&utm_content=https%253A//soundcloud.com/thenewslensradio/012-being-gay-in-taiwan-tnlketagalan-media-co-production)**
  This is a single podcast Episode by The News Lens Radio and Ketagalan Media Co-Production
+ 
+ **[English] [Ghost Island Media](https://ghostisland.media/)**
+Ghost Island Media produces a number of English-language podcasts about Taiwan and queer content is litered throughout. It's co-founded by [Emily Y. Wu](https://bit.ly/gim-emtw) 吳怡慈, [Cathy Hsu](https://bit.ly/gim-msg) 許蓓真. As a start, you can try [Taiwan Take](https://ghostisland.media/#ttt)'s interviews with Jennifer Lu on LGB+ Equality and Audrey Tang. The episode from [Metalhead Politics on Systematic Oppression](https://ghostisland.media/#mp) is also a great critical discussion on the state of social conditions in Taiwan.
 
 ### Media, News, Info
 
