@@ -104,16 +104,14 @@ Applying a layer of glue or the first layer of lacquer to fill a chip is usually
 
 ## 6. Clean up after yourself
 
-![金継ぎ　リグロイン](/assets/images/kintsugi/kintsugi-japan-12.jpg)
-
+![金継ぎ　リグロイン](/assets/images/kintsugi/kintsugi-japan-12cleaning.jpg)
 _Oil and benzine are the two main cleaning agents — Photo by Athena Lam_
 
 Cleaning can take some time as well. Benzine, known as _regroin_ (リグロイン) is applied to a brush with sap, and the lacquer gently pressed out. This is repeated until there is no colour left when pressing the bristles. The other tool, oil, is added to a plastic surface and used for. Benzine and oil are not interchangable. They are used for specific mixes, so make sure you ask your instructor!
 
 ## 7. Removing excess
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_144555-e1502111870575.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_144555-e1502111870575.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-13.jpg)
 _The excess lacquer needs to be scraped off — Photo by Athena Lam_
 
 By the second session, you are either adding another layer of lacuqer (if you have a very deep patch) or removing the dried material. Taking a knife, you carefully scrape away until there’s a smooth surface. The material is very flakey, which makes it possible to smooth out into a consistent surface with the original piece.
@@ -122,36 +120,31 @@ Again, my tea pot was easier than my cup. I ended up redoing my cup twice becaus
 
 ## 8. Adding gold
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_151419.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi625_151419.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-14.jpg)
 _Adding another coat for the gold dust — Photo by Athena Lam_
 
 After sanding down the surface into a proper line or patch, another coat of black liquid is used to help the gold flakes stick to the surface. Taking super thin horsehair brushes, you draw a solid black line over the filling. Try a few times to get a confident stroke because a wobbly line is obvious and the mark is too narrow to do any wiping.
 
-[![kintsugi workshop tokyo](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-gold-dust-e1502111880917.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2017/08/kintsugi-gold-dust-e1502111880917.jpg)
-
+![kintsugi workshop tokyo](/assets/images/kintsugi/kintsugi-japan-15.jpg)
 _Adding gold dust — Photo by Athena Lam_
 
 With the line traced, immediately add the gold dust. A small amount in patches until you cover the entire black line is essential. You cannot go back to redo the process. Also, exposed black patches will stick to the brush you use to wipe off the excess gold dust, which is not ideal. Return the unused gold dust into the container. Also, missing patches of gold will have an irreverseable implication on your final polishing process, so better add too much and gently sweep off after. Then, it’s a wait to the next step.
 
 ## 9. Repeat
 
-[![金継ぎ　東京 japanese gold joinery](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1394.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1394.jpg)
-
+![金継ぎ　東京 japanese gold joinery](/assets/images/kintsugi/kintsugi-japan-16.jpg)
 _Sanding down the gold surface — Photo by Athena Lam_
 
 The gold layer is applied twice for consistency. This means the next workshop is also just a quick application of the glue, then carefully adding the gold, then waiting again. That’s a good opportunity to learn from your peers and see what advice your instructor is giving them for their cases.
 
 ## 10. Final coating and polishing
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1401.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1401.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-17.jpg)
 _Sanding with three different types of paper — Photo by Athena Lam_
 
 The final step is to sand and polish the gold surface. The sanding process includes three different types of sand paper. The first is coarse, the second is finer, and the third one feels almost smooth. The process takes a while, but you will see the dusty specks becoming one smooth piece (if you applied your gold evenly). If the gold was applied unevenly, it becomes obvious, as in the case of my cup with a few black dots. It looks a bit like the metal’s been eaten.
 
-[![金継ぎ　うなぎの寝床　東京](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1399.jpg?w=1920)](https://thecupandtheroad.files.wordpress.com/2016/10/kintsugi-japan-1399.jpg)
-
+![金継ぎ　うなぎの寝床　東京](/assets/images/kintsugi/kintsugi-japan-18.jpg)
 _Polishing the gold layer with a tooth! — Photo by Athena Lam_
 
 The final step is to use a tooth to polish the gold. I don’t quite understand what the property of the tooth is, but it helped change the colour of the surface. The absolute final step should be a protective polishing layer. However, I didn’t have the time to do this as I was leaving Tokyo. The entire process in my case took about half a year because I went to a community centre and couldn’t attend for about two months.
