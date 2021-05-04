@@ -14,6 +14,8 @@ color: danger
 
 Hong Kong’s 8th Pride Parade undoubtedly contributed to cleaner air for a good few hours this past Sunday as 10,000 marchers worked their way from Causeway Bay to Central. And, as you can see from my favourite photo above, the event was pretty family friendly. Hong Kong’s LGBTQ events may be a modest size compared to ones like Toronto, Vancouver, New York, San Fran, and even Taipei’s, but I look forward to this event whenever I am in town.
 
+![Two Chinese men with short hair walking under a long rainbow flag with one hand up](https://raw.githubusercontent.com/shenchingtou/shenchingtou.github.io/master/assets/images/lgbtq/hong-kong-pride-2017-athena-lam.jpg)
+
 The first plus is that it took me a mere 10 minutes to find the group that invited me to march with them: [Planet Ally](https://www.facebook.com/PlanetAllyApp/) at the Victoria Park rally point. The group is headquartered in Hong Kong by virtue of its organizers and it connects LGBTQ communities and activists around the world. And I can attest to its genuine inclusion beyond the usual “gay and lesbian plus the rest” approach (check their presenters at the [Human Dignity Festival](https://www.humandignityfestival.org/) to get a sense of what I mean. I opted to carry my camera in my two hands instead of the awesome comic-style signs. ![😉](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f609.svg)
 
 Bess, the superhero organizer who brought the suitcase of costumes and props for us, deserves special mention.
