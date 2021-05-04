@@ -2,9 +2,9 @@
 title: Into the Web Archive
 tags: [tech]
 categories: [Tech]
-style: 
+style: border
 layout: post
-color: 
+color: secondary
 date: '2021-05-04 22:00:00 +0530'
 description: The things I've kept when I deleted my old blog.
 ---
