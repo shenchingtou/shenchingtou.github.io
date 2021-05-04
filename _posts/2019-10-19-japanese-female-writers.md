@@ -1,12 +1,14 @@
 ---
 title: ## 14 Japanese Female Writers in Translation
-tags: [books]
-categories: [Books]
-style: 
+description: This post is a list of list of female writers in Japan, which includes authors, novelists, and translators. All the writers listed have been recognized with at least one of Japan’s literary awards, such as the Akutagawa Literary Prize, Naoki Prize, and the Female Writer’s Award.
+
+date: '2019-10-19 8:12:36 +0900'
 layout: post
 color: 
-date: '2019-10-19 8:12:36 +0900'
-description: This post is a list of list of female writers in Japan, which includes authors, novelists, and translators. All the writers listed have been recognized with at least one of Japan’s literary awards, such as the Akutagawa Literary Prize, Naoki Prize, and the Female Writer’s Award.
+style: 
+tags: [books]
+categories: [Books]
+
 ---
 
 _This post is a list of list of female writers in Japan, which includes authors, novelists, and translators. All the writers listed have been recognized with at least one of Japan’s literary awards, such as the Akutagawa Literary Prize, Naoki Prize, and the Female Writer’s Award. In recent years, more of them have been translated into English, with some that have other European language translations such as French, Italian and German. They are listed by date of birth as the periods in which they live may give some context about their tone or what makes them distinctive for their era. Note that the names written in Japanese have the family first (for example, Momoko Ishii is actually Ishii Momoko with the Japanese characters)._

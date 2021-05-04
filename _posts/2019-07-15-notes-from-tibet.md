@@ -1,5 +1,6 @@
 ---
 title: Notes from Tibet
+description: Travel notes from 2018
 
 layout: post
 date: '2019-07-15 12:12:36 +0530'

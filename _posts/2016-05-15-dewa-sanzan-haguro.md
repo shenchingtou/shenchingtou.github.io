@@ -1,6 +1,7 @@
 ---
-title: Dewa Sanzan - Haguro-san
+title: Dewa Sanzan - Mt Haguro
 description: Hiking diary post for the area called the Dewa Sanzan in Northern Japan.
+
 layout: post
 date: '2016-05-15 12:12:36 +0530'
 categories: []
@@ -39,8 +40,6 @@ The millennia-old pilgrimage route remains intact (or so I thought at the time).
 Countryside rice paddies near Tsuruoka
 
 I arrive in the early evening at Tsuruoka and walk around looking for food without much luck. Luckily, I’ve arrived on time for the last bus to the foot of Haguro-san, so I hop on. I ask the bus driver if he knows of any _ryokan_, Japanese inns, in the town near the first mountain. I hadn’t booked a place because I didn’t know when I’d arrive. It’s passed 5pm, so many _ryokan_ will no longer take last-minute reservations because they are already preparing dinner (usually included unless otherwise specified). I will just have to believe that my luck will carry me through.
-
-![mt haguro](https://thecupandtheroad.files.wordpress.com/2016/04/dsc09295.jpg?w=1920)
 
 Japanese maps are rarely to scale, but they give you a general idea of what to look out for!
 

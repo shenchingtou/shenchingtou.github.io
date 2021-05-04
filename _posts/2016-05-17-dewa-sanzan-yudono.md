@@ -1,5 +1,5 @@
 ---
-title: Dewa Sanzan - Yudono-san
+title: Dewa Sanzan - Mt Yudono
 description: Hiking diary post for the area called the Dewa Sanzan in Northern Japan.
 
 layout: post
