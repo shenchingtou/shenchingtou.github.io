@@ -6,9 +6,9 @@ layout: post
 date: '2016-05-17 12:12:36 +0530'
 categories: []
 tags: [travel, Japan]
-style: 
-color: 
-    
+style: border
+color: success
+
 ---
 
 *This is an archive post from my deleted blog.*

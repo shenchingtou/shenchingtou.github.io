@@ -6,8 +6,8 @@ layout: post
 date: '2019-07-15 12:12:36 +0530'
 categories: []
 tags: [travel]
-style: 
-color: 
+style: border
+color: success
     
 ---
 

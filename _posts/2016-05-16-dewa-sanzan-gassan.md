@@ -6,8 +6,8 @@ layout: post
 date: '2016-05-16 12:12:36 +0530'
 categories: []
 tags: [travel, Japan]
-style: 
-color: 
+style: border
+color: success
     
 ---
 
