@@ -1,7 +1,7 @@
 ---
 name: Queer Asia - A Quick List
 description: Places to start for queer folks in Hong Kong; compiled around 2018.
-image: /assets/images/lgbtq/rainbow-apple-watch.jpg
+image: /assets/images/lgbtq/hong-kong-pride-2017-athena-lam.jpg
 layout: post
 tools: [lgbtq, Asia]
 ---

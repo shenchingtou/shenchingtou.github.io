@@ -1,12 +1,18 @@
 ---
-name: Queer Hong Kong circa 2017
+title: Queer Hong Kong circa 2017
 description: Archived notes from another time
-image: /assets/images/lgbtq/hong-kong-pride-2017-athena-lam.jpg
+
 layout: post
-tools: [Hong Kong, lgbtq]
+date: '2017-11-20 12:12:36 +0530'
+categories: [Events]
+tags: [Hong Kong, lgbtq]
+style: border
+color: danger    
 ---
 
 *Copied down notes from an old blog. Many observations may no longer be true as vocal community leaders have emerged since. There's more work to be done. Take this as a reference piece of a pre-protest and Covid-19 era.*
+
+![Rainbow apple watch strap](/assets/images/lgbtq/rainbow-apple-watch.jpg)
 
 The contents are based on my own personal experiences, and not meant to be exhaustive or describe cultural traits. 
 
