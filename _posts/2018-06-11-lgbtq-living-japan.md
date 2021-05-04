@@ -11,7 +11,7 @@ color: danger
     
 ---
 
-_This blog post is from the perspective of a queer cis-female who lived in Tokyo with LGBTQ friends who can speak English and Japanese_ _(local_ _and foreigners). As I do not have a family and am not trans, information for queer families and trans considerations comes second-hand from people I know who have shared their experiences and resources._
+_This is an archive post written from the perspective of a queer cis-female who lived in Tokyo with LGBTQ friends who can speak English and Japanese_ _(local_ _and foreigners). As I do not have a family and am not trans, information for queer families and trans considerations comes second-hand from people I know who have shared their experiences and resources. This guide is no actively maintained._
 
 1.  **What are considerations if you’re moving to Japan?**
 2.  **Legal Statuses, cisas and ID for Japan**
