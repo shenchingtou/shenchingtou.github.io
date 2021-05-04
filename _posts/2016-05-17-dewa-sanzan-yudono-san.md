@@ -13,6 +13,10 @@ color:
 
 _This is part of a 3-part series on the Dewa Sanzan which includes 3 diary entries and travel information._
 
+![Red torii gate with a blue sky and clouds at Yudono San in Japan by Athena Lam](https://raw.githubusercontent.com/shenchingtou/shenchingtou.github.io/master/assets/images/blog/athena-lam-yudono-san_20150807.jpg)
+
+## Yudono-San
+
 I follow the trekkers down a precipitous slope. It has busy traffic, but the mountain can accommodate us all. The sheer path is made entirely of loose rocks on dry dirt.
 
 I’m wary. I rolled my left ankle, yet again, on my way up Gassan. Rocks and dirt, the most harmonious path with nature is also the most dangerous for bad feet. I shouldn’t be doing this. There’s already pain in my ankle. I use my staves as feet down to avoid the pain in my knees. I inch. Everyone, the numerous elderly included, pass me. I smile and greet them in turn. I admire them. I hope they are as happy as I am just to be here.
@@ -54,3 +58,21 @@ I enter Yudono shrine via the back entrance, pay the fee, and go through. It is 
 After that, I return to modernity. I walk to the parking lot, wait for the shuttle bus taking me to the massive _torii_ gate that sits at the mouth of the valley and marks the beginning of Yudono’s sacred grounds. I check out the visitor centre items while waiting for the bus that will take me out of the mountains to Tsuruoka.
 
 Through a combination of bus and train, I will be transported hundreds of miles south again. By nightfall, I will be in the capital of an entirely different prefecture: Niigata.
+
+## Afterword
+
+It was August 7. I checked into a budget business hotel in Niigata City after dark. Tomorrow, I will head to Shibu Onsen and treat myself for finishing my long treks.
+
+Only a day ago, I’d taken almost the exact same train up north. Now, I am being hurled at over a hundred miles an hour down the western coast of Japan.
+
+The sky and sea are as calm as yesterday. However today, I am watching golden hour unfold. The ocean remains as inscrutable blue as ever. The sky, dotted with a splash of cloud here and there, is not as fierce as yesterday. The royal blue mellows into magenta. As the sun hovers like a perfectly golden yolk. Its saturated colours fan out into soft orange brush strokes above the opaque sea below.
+
+It’s hard to believe I began the day in civilization, at a ryokan, and will end the day in civilization, in one of the largest cities on Japan’s rugged western coast.
+
+I mull over the three shrines and their characters. Haguro-san was by far the wealthiest and most visited since it houses the deities for all three mountains for year-round worship. The size and quality of craftsmanship is as impressive as temples in Nikko and Koya-san. Its wealth has brought prosperity to the village below as well. I appreciate it especially because of its pristine morning, with nothing but the rustle of the trees and the call of birds. I’m not sure how I’d feel about it arriving mid-day, with the cacophony of tour groups churning through.
+
+The second, Gassan, I felt houses the spirit of Shugendo. Symbolically, it seems that one does have to wade past the grey bog to see the blue skies above. Yet, even at the peak, they chose, of all spots, the windiest, mistiest corner. On the surface, it seems a grey view of the world, but once one works past the apathetic natural forces hurling through, there’s an uncanny peace. The shrine may be a pile of rocks, but the true mark of achievement is the hundreds of thousands of rocks leading up to them that were placed to give us a road up. If we were really walking the path, then the form at the end does not matter. Being impressed no longer matters. What matters is that, for whatever reason, we were drawn here. What matters is that we arrived.
+
+The last, Yudono-san, is the heart. Like Gassan, it is small. It is not much. It is not aloof. It is hidden, nestled in a valley easily missed amongst the thousands in this region. However, this Yudono’s Shrine is the holiest of the three. The holy has a dash of magic; just a little is enough.
+
+While the three are so different in character, and the paths that mark them equally so, they work well as a trio. The first retains the majesty of human faith and dedication, an homage if nothing else to the heights that humanity can ascend. As to the other two: the strong and the wise have left spiritual peddling to others. The holy is that sense of wonder, gratitude, and mystery at the forgotten corners all around us, as powerful and fickle as the mountain, and as intense and nourishing as Japan’s hot springs.
