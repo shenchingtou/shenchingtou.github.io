@@ -9,6 +9,8 @@ tools: [Taiwan, vlogs, movies, podcasts]
 
 *This post was originally posted on my old blog in October 2018. I'm sure it's dated and has plenty of formatting errors. I'll try to update my commentary and add any updated stuff I come across. Feel free to DM me on Twitter if you have a link to share or directly create a PR on GitHub.*
 
+*Last updated: 2021 May*
+
 This Taiwan LGBTQ content post mushroomed out of an ill-fated attempt to update “cultural media content” for Hong Kong. I had thought I’d just toss in all the content for the entire Greater China Region (Hong Kong, Taiwan, and China), as if 1/6th of the world’s population didn’t have enough to LGBTQ stories to tell on screen. Needless to say, I fell down the Taiwan rabbit hole. This post aims to to introduce LGBTQ Taiwanese movies, TV shows, podcasts, and vlogs for people who want to see, or listen to discussions by, Taiwanese queers on their lives and contemporary culture.
 
 ### Taiwan’s queer cinema backdrop
