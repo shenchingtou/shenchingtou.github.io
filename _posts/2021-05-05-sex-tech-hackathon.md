@@ -38,17 +38,17 @@ For this hackathon, the design challenges were:
 
 
 
-## Our project
+## Our Project
 Ghonche had enlisted [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/), who had the idea to create an app to help people expand how they experience their body, or more specific, bodily pleasure. 
 
-### The problem
+### The Problem
 The idea was that many people may not feel entirely connected to their body or the permission to feel bodily pleasure. We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality. 
 
 To summarize, we had two hypotheses:
 1. A lot of people can probably not only have better sex, but have access to more ways of feeling pleasure through their body (sexual or not). 
 2. Mindfulness (and connection to the body) is a huge industry; the experience industry is huge; the sex industry is huge. There's a market for this type of content, whichever industry it sits in, but ideally at the intersection of the three.
 
-### The solution
+### The Solution
 ![Sensploration app mockup with two smartphones. One phone shows 5 bubbles for each of the 5 senses, touch, feel, taste, hear, and smell. The other phone has a playlist for Touch including light, deep, move, and toys](/assets/images/projects/Sensploration-app.jpg)
 Our solution came in two parts. 
 1. To collect data on our idea that people wanted to have better sex or find more ways to experience physical pleasure, we did a survey and received 70 responses in under 24 hours. (Findings are in the [project page](https://shenchingtou.github.io/projects/sex-tech-hackathon-202021/).)

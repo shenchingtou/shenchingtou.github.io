@@ -17,6 +17,7 @@ image: /assets/images/projects/Sensploration-app.jpg
 The Hackathon
 The Problem
 The Product
+The Process
 The Bigger Picture
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
@@ -29,13 +30,20 @@ The hackathon's consortium of organizers invited "artists, academics, activists,
 
 This year, I teamed up again with my friend [Ghonche Tavoosi](https://twitter.com/glenatavoosi), podcaster, feminist, activist, product manager and community organizer extraordinare. Last year, we built a working prototype of audio hugs for the LGBTQ community, [Pride Polyphony](https://pride-polyphony.netlify.app/) with [Emma Lawson](https://www.linkedin.com/in/emma-c-lawson/). This year, our friend [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/) wanted to address the gap between people wanting to connect to their bodies or find more ways of experiencing pleasure and the availability of inclusive resources to do so.
 
+For the Sex Tech Hackathon, the three themes we could work with were:
+- Fair Futures
+- Sexual Health = Health
+- Dream Devices
+
+It was an open field of possibilites for sex to become more accessible, inclusive, and relevant for people.
+
 ## The Problem
 
 Problem that we wanted to address at the individual level was that many people may not feel entirely connected to their body or the permission to feel bodily pleasure. The messages that we receive from media and our suroundings has, in many ways, limited how we experience our body, and more precisely, how we experience bodily pleasure. 
 
 The big picture problem that we wanted to address was the silos within the "experience economy" that has alienated many people and, since 2020 with the pandemic, left people with unsatiated desires. To put it another way, Covid-19 restrictions have shown us the limits of an economic model that focuses on consuming the experiences we are given access to, the ones that are sold to us and that we can afford, **instead of focusing on how we experience things**.
 
- ### What people told us about their experiences
+### What people shared with us
 
 To get more insights into this, **we did a survey** in under 24 hours. 
 
@@ -65,7 +73,7 @@ To summarize, we had two hypotheses:
 1. A lot of people can probably not only have better sex, but have access to more ways of feeling pleasure through their body (sexual or not). 
 2. Mindfulness (and connection to the body) is a huge industry; the experience industry is huge; the sex industry is huge. There's a market for this type of content, whichever industry it sits in, but ideally at the intersection of the three.
 
-## The solution
+## The Product
 We envisioned Sensploration, an activity-based app that offers people new approaches to explore and enjoy their body, and that also gives them a language to communicate with others. 
 
 We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality.
@@ -95,3 +103,7 @@ Below is a walkthrough of the app. We presented this on Sunday and are honoured 
 We do so through engaging the five senses and the intersections between them. 
 
 In the short term, our goal is to guide people who are already curious but lack ways to explore their and their partners’ bodies. In the long run, the user’s knowledge of what they enjoy is expanded, and they have the tools needed to openly communicate what they enjoy to others. This approach remaps how we think about pleasure and intimacy, dismantling stigmas, shame, and taboos.
+
+## The Process
+
+## The Bigger Picture
