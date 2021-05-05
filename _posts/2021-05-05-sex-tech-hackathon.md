@@ -1,8 +1,8 @@
 ---
 title: Sex Tech Hackathon
-description: The things I've kept when I deleted my old blog.
+description: A summary of the second Sex Tech Hackathon 2021 during Rainbows End Festival co-hosted by Touchy Feely Tech, Her Visions, Creative Coding Utrecht, Kinky Makers and others. 
 date: '2021-05-05 21:00:00 +0530'
-tags: [T	ech, LGBTQ, Berlin]
+tags: [Tech, LGBTQ, Berlin]
 categories: [Tech, LGBTQ]
 style: border
 layout: post
