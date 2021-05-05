@@ -56,10 +56,12 @@ To summarize, we had two hypotheses:
 ### The solution
 ![Sensploration app mockup with two smartphones. One phone shows 5 bubbles for each of the 5 senses, touch, feel, taste, hear, and smell. The other phone has a playlist for Touch including light, deep, move, and toys](/assets/images/projects/Sensploration-app.jpg)
 Our solution came in two parts. 
-1. To collect data on our idea that people wanted to have better sex or find more ways to experience physical pleasure, we did a survey and received 70 responses in under 24 hours. 
+1. To collect data on our idea that people wanted to have better sex or find more ways to experience physical pleasure, we did a survey and received 70 responses in under 24 hours. (Findings are in the [project page](https://shenchingtou.github.io/projects/sex-tech-hackathon-202021/).)
 2. We built a mobile app mockup of our concept using [Figma](https://figma.com).
 
 **The App**
+
+[*If you want details on the app, go to this project post.*](https://shenchingtou.github.io/projects/sex-tech-hackathon-202021/)
 
 Though there are a number of ways to address the problem we wanted to solve, we chose to do it through a mobile application. Even  then, there are a number of ways to create a solution. We decided to create an activity-based app that offers people new approaches to explore and enjoy their body using the 5 senses *and the intersections between them*.
 
@@ -75,8 +77,9 @@ We also wanted to create an app that was:
 - be inclusive of different types of bodies, shapes, and skin colours 
 - be accessible to people who may have difficulty reading (therefore the content would have both transcript and audio)
 
-Below is a walkthrough of the app. We presented this on Sunday and are honoured to have tied for 2nd place.
+![Sensploration app from when a user arrives to when they click through a play a guided activity](/assets/images/projects/sensploration.gif)
 
+I describe the [app development in more detail](https://shenchingtou.github.io/projects/sex-tech-hackathon-202021/) in my projects page. We presented this on Sunday and are honoured to have tied for 2nd place. 
 
 ## Other notes and observations
 
