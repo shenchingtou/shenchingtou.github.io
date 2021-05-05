@@ -2,7 +2,7 @@
 title: Sex Tech Hackathon
 description: The things I've kept when I deleted my old blog.
 date: '2021-05-05 21:00:00 +0530'
-tags: [Tech, LGBTQ, Berlin]
+tags: [T	ech, LGBTQ, Berlin]
 categories: [Tech, LGBTQ]
 style: border
 layout: post
@@ -12,8 +12,8 @@ color: primary
 
 {% capture list_items %}
 How it started
-Who organized it
 Our project
+Other notes and observations
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
@@ -26,9 +26,9 @@ https://twitter.com/carolstran/status/1388772122940649475?s=20
 https://twitter.com/carolstran/status/1388450228089597957?s=20
 
 In the event's words:
->We invite artists, academics, activists, thinkers and tinkerers from all backgrounds and perspectives to take part. The Hackathon is open to anyone interested in exploring the themes of the event with a group of like-minded people. The Hackathon is also beginner-friendly, so if you have always wanted to participate in an event that follows this unique format, now is your chance!
+>_We invite artists, academics, activists, thinkers and tinkerers from all backgrounds and perspectives to take part. The Hackathon is open to anyone interested in exploring the themes of the event with a group of like-minded people. The Hackathon is also beginner-friendly, so if you have always wanted to participate in an event that follows this unique format, now is your chance!_
 >
->In case you prefer not to have the full Hackathon experience but still want to join the conversation, we've also planned a workshop and a talk show that can be attended without a Hackathon ticket. Read on to discover our full agenda!
+>*In case you prefer not to have the full Hackathon experience but still want to join the conversation, we've also planned a workshop and a talk show that can be attended without a Hackathon ticket. Read on to discover our full agenda!*
 
 It just seemed like a great collection of community people. I had no idea what the event was about and no idea what to expect, but I figured it was worth €40 to find out (also the only hackathon I've ever paid for). I also enlisted a co-conspirator [Ghonche Tavoosi](https://twitter.com/glenatavoosi), who actually looked into the details and was even more excited than me. 
 

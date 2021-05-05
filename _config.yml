@@ -11,6 +11,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 ### Plugins ###
 plugins:
   - jemoji
+  - lazy_tweet_embedding
 
 
 ### Navbar Settings ###
