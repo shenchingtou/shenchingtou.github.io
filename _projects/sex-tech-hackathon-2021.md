@@ -91,7 +91,13 @@ We wanted to focus on activivities that offer people new approaches to explore a
 4. When the user returns to the main page they can see the touch bubble that they have just practised has grown to show progress. And new categories are unlocked.
 5. As a user explores more activites, each sense bubble grows bigger and eventually overlap, with new intersectional categories are unlocked. 
 
-![](/assets/images/projects/iPhone-x-Silver-touch.png)
+
+{% capture carousel_images %}
+https://shenchingtou.github.io//assets/images/projects/Sensploration-app.jpg
+https://shenchingtou.github.io/assets/images/projects/iPhone-x-play.png
+https://shenchingtou.github.io/assets/images/projects/iPhone-x-Silver-touch.png
+{% endcapture %}
+{% include elements/carousel.html %}
 
 As an example, touch can begin with light touches, deep touches. It can include pressing, holding, pinching, and tapping. But touch can also expand to materials, which can have its own subcategories such as textures and temperatures. Touch can also include movement and toys. 
 
@@ -108,6 +114,8 @@ The goal of the app is to give people a framework through each of the senses to 
 - be inclusive of bodies with different abilities
 - be inclusive of different types of bodies, shapes, and skin colours 
 - be accessible to people who may have difficulty reading (therefore the content would have both transcript and audio)
+
+You can find the [Figma mockup file here](https://www.figma.com/file/sDEEMSubsVP6V0azWhCIQv/Sensploration?node-id=0%3A1).
 
 Rather than seeing all of these factors as limitations, we saw them as opportunities to design a better product from the beginning. 
 
@@ -132,5 +140,7 @@ Working backward from the presentation, we needed to find a way to convey our id
 
 
 2. We built a mobile app mockup of our concept using [Figma](https://figma.com).
+
+You ca
 
 
