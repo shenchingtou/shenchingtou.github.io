@@ -59,13 +59,18 @@ Respondents included friends, friends of friends, and strangers online. We asked
 
 **What some survey respondents shared about media and education**
 >_"I feel like I have worked on new ways to experience pleasure but I feel like I lack a framework for it and especially to do it with partners."
+
 >"_I felt like this was true in the past i.e thinking I was abnormal for not orgasming during penetrative penis in Vagina Sex. However after learning about pleasure on my own terms this has changed my experience drastically._"
+
 >"*Being queer (and particularly bisexual) isn't always well represented (or represented at all) in media or education.*"
+
 > _“I think the default of "here's what I can expect to be the range of possibilities" is very much shaped by the media.”_
 
 **Some responses to experiencing and trying new ways of experiencing pleasure**
 >"_I'm interested in moving beyond orgasms and finding different ways to receive pleasure_"
+
 > _“As a sexual trauma survivor I know I am disconnected from sensations so I would like to explore ways to feel. “__
+
 > "*I think knowing how to give yourself pleasure helps you connect with yourself, and it's a part of connecting with others also. Receiving pleasure is a way to connect.*"
 
 
