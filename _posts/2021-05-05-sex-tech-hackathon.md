@@ -1,9 +1,9 @@
 ---
 title: Sex Tech Hackathon
 description: The things I've kept when I deleted my old blog.
-date: '2021-05-04 22:00:00 +0530'
-tags: [tech]
-categories: [Tech]
+date: '2021-05-05 21:00:00 +0530'
+tags: [Tech, LGBTQ, Berlin]
+categories: [Tech, LGBTQ]
 style: border
 layout: post
 color: primary
