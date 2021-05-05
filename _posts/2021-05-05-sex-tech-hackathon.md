@@ -19,21 +19,16 @@ Other notes and observations
 
 ## How it started
 
-One weekend morning, I was browsing Twitter and clicked into developer and writer Carolyn Stransky's posts on sex and tech. She posted about the  [Sex Tech Hackathon](https://hack.touchyfeely.tech/) co-hosted by [Touchy Feely Tech](https://hack.touchyfeely.tech/), [Hervisions](https://hervisions.world/), [Kinky Makers](https://kinkymakers.com/), [Creative Code Utrecht](https://creativecodingutrecht.nl/) that was part of the Rainbows End online festival. 
-
-https://twitter.com/carolstran/status/1388772122940649475?s=20
-
-https://twitter.com/carolstran/status/1388450228089597957?s=20
+One weekend morning, I was browsing Twitter and clicked into developer and writer [Carolyn Stransky's posts on sex and tech](https://twitter.com/carolstran/status/1388772122940649475?s=20). She posted about the  [Sex Tech Hackathon](https://hack.touchyfeely.tech/) co-hosted by [Touchy Feely Tech](https://hack.touchyfeely.tech/), [Hervisions](https://hervisions.world/), [Kinky Makers](https://kinkymakers.com/), [Creative Code Utrecht](https://creativecodingutrecht.nl/) that was part of the Rainbows End online festival. 
 
 In the event's words:
 >_We invite artists, academics, activists, thinkers and tinkerers from all backgrounds and perspectives to take part. The Hackathon is open to anyone interested in exploring the themes of the event with a group of like-minded people. The Hackathon is also beginner-friendly, so if you have always wanted to participate in an event that follows this unique format, now is your chance!_
 >
 >*In case you prefer not to have the full Hackathon experience but still want to join the conversation, we've also planned a workshop and a talk show that can be attended without a Hackathon ticket. Read on to discover our full agenda!*
 
-It just seemed like a great collection of community people. I had no idea what the event was about and no idea what to expect, but I figured it was worth €40 to find out (also the only hackathon I've ever paid for). I also enlisted a co-conspirator [Ghonche Tavoosi](https://twitter.com/glenatavoosi), who actually looked into the details and was even more excited than me. 
+It just seemed like a great collection of community people. I had no idea what the event was about and no idea what to expect, but I figured it was worth €40 to find out (also the only hackathon I've ever paid for). I also enlisted a co-conspirator [Ghonche Tavoosi](https://twitter.com/glenatavoosi), who actually looked into the details and was even more excited than me. Last year, we built a working prototype of audio hugs for the LGBTQ community, [Pride Polyphony](https://pride-polyphony.netlify.app/) for the Unicorns in Tech Pride Hackathon together with fellow team member [Emma Lawson](https://www.linkedin.com/in/emma-c-lawson/), who came up with the idea. This year, our friend [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/)who gave us the product inspiration.
 
-The design challenges were:
-
+For this hackathon, the design challenges were:
 
 
 | FAIR FUTURES | SEXUAL HEALTH = HEALTH| DREAM DEVICES |
@@ -44,7 +39,7 @@ The design challenges were:
 
 
 ## Our project
-Ghonche had enlisted another friend, [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/), who had the idea to create an app to help people expand how they experience their body, or more specific, bodily pleasure. 
+Ghonche had enlisted [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/), who had the idea to create an app to help people expand how they experience their body, or more specific, bodily pleasure. 
 
 ### The problem
 The idea was that many people may not feel entirely connected to their body or the permission to feel bodily pleasure. We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality. 
