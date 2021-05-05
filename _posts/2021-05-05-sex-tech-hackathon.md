@@ -38,7 +38,7 @@ For this hackathon, the design challenges were:
 
 
 
-## Our Project
+## [Our Project](https://shenchingtou.github.io/projects/sex-tech-hackathon-2021/)
 Ghonche had enlisted [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/), who had the idea to create an app to help people expand how they experience their body, or more specific, bodily pleasure. 
 
 ### The Problem
