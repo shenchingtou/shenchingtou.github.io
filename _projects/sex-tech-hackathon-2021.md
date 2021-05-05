@@ -91,19 +91,9 @@ We wanted to focus on activivities that offer people new approaches to explore a
 4. When the user returns to the main page they can see the touch bubble that they have just practised has grown to show progress. And new categories are unlocked.
 5. As a user explores more activites, each sense bubble grows bigger and eventually overlap, with new intersectional categories are unlocked. 
 
-
-{% capture carousel_images %}
-https://shenchingtou.github.io//assets/images/projects/Sensploration-app.jpg
-https://shenchingtou.github.io/assets/images/projects/iPhone-x-play.png
-https://shenchingtou.github.io/assets/images/projects/iPhone-x-Silver-touch.png
-{% endcapture %}
-{% include elements/carousel.html %}
-
 As an example, touch can begin with light touches, deep touches. It can include pressing, holding, pinching, and tapping. But touch can also expand to materials, which can have its own subcategories such as textures and temperatures. Touch can also include movement and toys. 
 
 The goal of the app is to give people a framework through each of the senses to explore their and their partners’ bodies. In the long run, the user’s knowledge of what they enjoy is expanded, and they have the tools needed to openly communicate what they enjoy to others. By focusing on senses and activcities, we remap how we think about pleasure and intimacy, dismantling stigmas, shame, and taboos. 
-
-![](/assets/images/projects/iPhone-x-play.png)
 
 **We also wanted to intentionally create a more inclusive app that could**
 
@@ -120,9 +110,37 @@ You can find the [Figma mockup file here](https://www.figma.com/file/sDEEMSubsVP
 Rather than seeing all of these factors as limitations, we saw them as opportunities to design a better product from the beginning. 
 
 
-## The Bigger Picture
+## The Bigger Picture (aka Finances)
+
+To understand our users and the market demand a little better, we looked at the second part of our survey.
+
+![Sensploration survey responses to the statement I would be interested in spending time exploring more ways to get physical pleasure.](/assets/images/projects/sensploration-survey-results-3.png)
+
+We found out that 90% of our sample believe that having more ways to experience bodily pleasure would be beneficial to them, 86% would like to try new ways to do it and 82% are interested in spending time doing so. 
 
 ![](/assets/images/projects/sex-industry-size.jpg)
+
+**The addressable market** is actually the intersection between mindfulness apps and the sex toy markets. In April, the mindfulness and meditation app market size (the likes of Headspace and Calm) was projected to be [around US$ 770.7 Million by 2025](https://marketprimes.com/mindfulness-meditation-application-market/). If that seems big, the sex toy market in Europe alone was estimated to grow to [US$2.56 Billion in the Personal Products Industry during 2021-2025](https://www.prnewswire.com/news-releases/sex-toys-market-in-europe-to-garner-usd-2-56-billion-in-the-personal-products-industry-during-2021-2025technavio-301269699.html). 
+ 
+**Industry precedents** also come from different spaces and there are many indirect competitors. The most famous is OMG yes, which focuses on women and on their sexual pleasure. This form of targeting excludes non-women and asexual people, is the most common scenario. Other popular forms of competition comes from content creators on social media, such as for [lesbian sex](https://www.youtube.com/watch?v=zX4LVYigvO0&feature=youtu.be), to product blogs by [Unbound Babes](https://unboundbabes.com/), [Dame products](https://www.dameproducts.com/pages/quiz) or to apps like [Clue](https://helloclue.com/). But topic specialization lacks inclustivity for all types of people.
+
+*In short there is no holistic solution that covers body experiences, sensual pleasure and sexual pleasure, and that is also inclusive of different body types, sexualities, and abilities.*
+
+**The reason we are talking about addressable market is because financial sustainability is important for long-term sustainability of a service.**
+
+The past 20 years of the internet have shown that if you do not pay for the product, you are the product. For this reason, we (or at least I specifically) do not believe in a freemium model. I want a product to be good enough to be paid for from day one. This means that the product does not need to be beholden to investors and does not need to grow users for the sake of accumulating numbers. 
+
+In addition, people have shown that they are willing to pay for quality content and support content creators. This is true across different parts of the sex industry. Examples include:
+
+1.  [OMG Yes](https://www.omgyes.com/): the educational site we mentioned before with a one-off paid fee for its educational content   
+2.  [Karada House](https://karada-house.de/events/): a queer BIPOC-owned community space that hosts paid events such as rope, kink, and sexualities workshops and conferences
+3.  Only Fans: perhaps the biggest paid content creator platform to emerge out of Covid-19 
+
+For an app, paid models could include:
+1. One-off paid app download: like buying a book
+2. Tiered model for introductory and advanced content 
+3. Paid subscription (personally my least favourite for this app)
+
 
 ## The Process
 
@@ -135,12 +153,17 @@ Working backward from the presentation, we needed to find a way to convey our id
 - Deciding on the prototype
 - Researching bigger market opportunities
 - Preparing for the pitch
-- Eating, baking, and sleeping
 
 
+The tools we used included:
+- Google Forms for the survey
+- Google Slides for the presentation
+- [Figma](https://figma.com) for the mockups
 
-2. We built a mobile app mockup of our concept using [Figma](https://figma.com).
+In general, we took longest for debates and discussions. A key debate was how the app worked and how the library of data would be structured. This was not ultimately shown, but since Ghonche and I both have product experience, it was a detail that mattered to us. Simply put, we would not go ahead and create designs for an app that we did not have a conceptual backend for. 
 
-You ca
+Another debate point that we had was what to prototype with. Generally, i prefer building working prototypes over designing mockups. I had originally wanted to use [Prezi](https://prezi.com/) to create the non-linear library of activities that the public could actually use by the end of the hackathon. However, when I learned that my team members wanted a guided user onboarding, with only one bubble available in the beginning and a growing library based on activities, we decided to go with the [Figma mockup](https://www.figma.com/file/sDEEMSubsVP6V0azWhCIQv/Sensploration?node-id=0%3A1).
 
+The final debating point was the presentation -- the overarching story, which sections we were filling out, and who was doing which section. Ghonche is a slide wizard, so we largely left it to her. Since the product was Thomas' idea, he took the slides she created and the script we worked on and presented. This works when everyone is on the same page about the general storyline. However, this method also requires allowing the speaker at least a final hour to do their own final touches to the slide and the script.
 
+Most of our time was spent waiting. They waited for me to edit the survey questions while I made lunch. We waited for Ghonche to work on the presentation story and slides. We waited for Thomas to do his ideation in his bedroom. We all needed to wait for the survey results. This is not a bad thing. It meant we had time. We had time to chat, to have dinner, to go for walks and runs, had a full night's sleep, and baked a cake. 

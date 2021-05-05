@@ -89,5 +89,3 @@ Idea generation session with [Alice Stewart](https://twitter.com/alicestew_art),
 The event also gathered people from very different backgrounds including developers, makers and artists. Many of the teams gravitated towards gender neutral products that focused much more on experiences and sensations, which was heartening to see. There were proposals for haptic napkin-sized products, pens that could draw as well as have motors, blending of audio and motion experiences. The first place team took inspiration from ET fingers and looked at augmentations for fingering.
 
 I also didn't realize that there would be raffles, but there were. Money was definitely well spent for the weekend.
-
-https://www.youtube.com/watch?v=zX4LVYigvO0&feature=youtu.be
