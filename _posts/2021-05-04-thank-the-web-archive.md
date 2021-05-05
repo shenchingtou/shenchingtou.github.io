@@ -1,12 +1,12 @@
 ---
 title: Into the Web Archive
+description: The things I've kept when I deleted my old blog.
+date: '2021-05-04 22:00:00 +0530'
 tags: [tech]
 categories: [Tech]
 style: border
 layout: post
-color: secondary
-date: '2021-05-04 22:00:00 +0530'
-description: The things I've kept when I deleted my old blog.
+color: primary
 ---
 
 
