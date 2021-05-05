@@ -12,7 +12,7 @@ color: primary
 
 {% capture list_items %}
 How it started
-Our project
+Our Project
 Other notes and observations
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
@@ -48,7 +48,7 @@ To summarize, we had two hypotheses:
 1. A lot of people can probably not only have better sex, but have access to more ways of feeling pleasure through their body (sexual or not). 
 2. Mindfulness (and connection to the body) is a huge industry; the experience industry is huge; the sex industry is huge. There's a market for this type of content, whichever industry it sits in, but ideally at the intersection of the three.
 
-### The Solution
+### [The Solution](https://shenchingtou.github.io/projects/sex-tech-hackathon-2021/)
 ![Sensploration app mockup with two smartphones. One phone shows 5 bubbles for each of the 5 senses, touch, feel, taste, hear, and smell. The other phone has a playlist for Touch including light, deep, move, and toys](/assets/images/projects/Sensploration-app.jpg)
 Our solution came in two parts. 
 1. To collect data on our idea that people wanted to have better sex or find more ways to experience physical pleasure, we did a survey and received 70 responses in under 24 hours. (Findings are in the [project page](https://shenchingtou.github.io/projects/sex-tech-hackathon-202021/).)
@@ -91,3 +91,5 @@ Idea generation session with [Alice Stewart](https://twitter.com/alicestew_art),
 The event also gathered people from very different backgrounds including developers, makers and artists. Many of the teams gravitated towards gender neutral products that focused much more on experiences and sensations, which was heartening to see. There were proposals for haptic napkin-sized products, pens that could draw as well as have motors, blending of audio and motion experiences. The first place team took inspiration from ET fingers and looked at augmentations for fingering.
 
 I also didn't realize that there would be raffles, but there were. Money was definitely well spent for the weekend.
+
+You can also [read more about the product and protocyping process here](https://shenchingtou.github.io/projects/sex-tech-hackathon-2021/).
