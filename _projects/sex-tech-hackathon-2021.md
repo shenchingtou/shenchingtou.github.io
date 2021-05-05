@@ -9,9 +9,7 @@ image: /assets/images/projects/Sensploration-app.jpg
 ---
 ## Sex Tech Hackathon Prototype - Sensploration
 
-![](/assets/images/projects/Sensploration-app.jpg)
-
-![](/assets/images/projects/sensploration.gif)
+![Sensploration app mockup with two smartphones. One phone shows 5 bubbles for each of the 5 senses, touch, feel, taste, hear, and smell. The other phone has a playlist for Touch including light, deep, move, and toys](/assets/images/projects/Sensploration-app.jpg)
 
 {% capture list_items %}
 The Hackathon
@@ -35,7 +33,7 @@ For the Sex Tech Hackathon, the three themes we could work with were:
 - Sexual Health = Health
 - Dream Devices
 
-It was an open field of possibilites for sex to become more accessible, inclusive, and relevant for people.
+It was an open field of possibilites for sex to become more accessible, inclusive, and relevant for people. A note that this hackathon (refreshingly for me) did not have a business component / emphasis.
 
 ## The Problem
 
@@ -79,22 +77,31 @@ To summarize, we had two hypotheses:
 2. Mindfulness (and connection to the body) is a huge industry; the experience industry is huge; the sex industry is huge. There's a market for this type of content, whichever industry it sits in, but ideally at the intersection of the three.
 
 ## The Product
-We envisioned Sensploration, an activity-based app that offers people new approaches to explore and enjoy their body, and that also gives them a language to communicate with others. 
 
-We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality.
-![Sensploration app mockup with two smartphones. One phone shows 5 bubbles for each of the 5 senses, touch, feel, taste, hear, and smell. The other phone has a playlist for Touch including light, deep, move, and toys](/assets/images/projects/Sensploration-app.jpg)
+![](/assets/images/projects/sensploration.gif)
 
-2. We built a mobile app mockup of our concept using [Figma](https://figma.com).
+Though there are a number of ways to address the problem we wanted to solve, we chose to do it through a mobile application. We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality.
 
-**The App**
+We wanted to focus on activivities that offer people new approaches to explore and enjoy their body using the five senses *and the intersections between them*.
 
-Though there are a number of ways to address the problem we wanted to solve, we chose to do it through a mobile application. Even  then, there are a number of ways to create a solution. We decided to create an activity-based app that offers people new approaches to explore and enjoy their body using the 5 senses *and the intersections between them*.
+**To do this, we designed an app that:**
+1. Allows for guest access (for privacy) and logins (for personalisation)
+2. Has a guided start with a touch-based activity
+3. Gives opportunities for user feedback so people can note what they like and don't like (for future personalisation)
+4. When the user returns to the main page they can see the touch bubble that they have just practised has grown to show progress. And new categories are unlocked.
+5. As a user explores more activites, each sense bubble grows bigger and eventually overlap, with new intersectional categories are unlocked. 
 
-The goal of the app is to give people a framework through each of the senses to explore their and their partners’ bodies. In the long run, the user’s knowledge of what they enjoy is expanded, and they have the tools needed to openly communicate what they enjoy to others. This approach remaps how we think about pleasure and intimacy, dismantling stigmas, shame, and taboos. 
+![](/assets/images/projects/iPhone-x-Silver-touch.png)
 
-We also wanted to create an app that was:
+As an example, touch can begin with light touches, deep touches. It can include pressing, holding, pinching, and tapping. But touch can also expand to materials, which can have its own subcategories such as textures and temperatures. Touch can also include movement and toys. 
 
-- inclusive of all gender identities
+The goal of the app is to give people a framework through each of the senses to explore their and their partners’ bodies. In the long run, the user’s knowledge of what they enjoy is expanded, and they have the tools needed to openly communicate what they enjoy to others. By focusing on senses and activcities, we remap how we think about pleasure and intimacy, dismantling stigmas, shame, and taboos. 
+
+![](/assets/images/projects/iPhone-x-play.png)
+
+**We also wanted to intentionally create a more inclusive app that could**
+
+- speak to different gender identities (without alienating)
 - be mindful of how people may or may not relate to different parts of their bodies (for example, trans and genderqueer folks)
 - get away from gendered descriptions or roles (not heteronormative)
 - not limit concepts as sexual acts (for ACE folks)
@@ -102,13 +109,28 @@ We also wanted to create an app that was:
 - be inclusive of different types of bodies, shapes, and skin colours 
 - be accessible to people who may have difficulty reading (therefore the content would have both transcript and audio)
 
-Below is a walkthrough of the app. We presented this on Sunday and are honoured to have tied for 2nd place.
+Rather than seeing all of these factors as limitations, we saw them as opportunities to design a better product from the beginning. 
 
 
-We do so through engaging the five senses and the intersections between them. 
+## The Bigger Picture
 
-In the short term, our goal is to guide people who are already curious but lack ways to explore their and their partners’ bodies. In the long run, the user’s knowledge of what they enjoy is expanded, and they have the tools needed to openly communicate what they enjoy to others. This approach remaps how we think about pleasure and intimacy, dismantling stigmas, shame, and taboos.
+![](/assets/images/projects/sex-industry-size.jpg)
 
 ## The Process
 
-## The Bigger Picture
+Our process of designing and preparing our presentation had structure, but also required back and forths.
+
+Working backward from the presentation, we needed to find a way to convey our idea succinctly. The structure that lends itself well to a 5-10 minute presentation is (not surprisingly), a startup pitch. This meant that we structured it as:
+- The problem we wanted to solve
+- Finding data (quantiative and qualitative)
+- Conceptualising a solution
+- Deciding on the prototype
+- Researching bigger market opportunities
+- Preparing for the pitch
+- Eating, baking, and sleeping
+
+
+
+2. We built a mobile app mockup of our concept using [Figma](https://figma.com).
+
+
