@@ -78,7 +78,7 @@ I describe the [app development in more detail](https://shenchingtou.github.io/p
 
 ## Other notes and observations
 
-![Sex Tech Hackathon 2021 cohosted by Touchy Feely Tech Hervisions and Creative Coding Utrecht](/assets/images/projects/sex-tech-hackathon-talks.png)
+![Sex Tech Hackathon 2021 cohosted by Touchy Feely Tech Hervisions and Creative Coding Utrecht](/assets/images/blog/sex-tech-hackathon-talks.png)
 
 This was the most informative hackathon I have ever attended. Other hackathons that have informational sessions tend to center around product ideation, business, and pitching. These sessions included DIY workshops and information on the industry in general. You should look up content that the speakers below have on the web:
 - [Oli Lipski](https://twitter.com/LipskiOli), Sex Tech blogger
