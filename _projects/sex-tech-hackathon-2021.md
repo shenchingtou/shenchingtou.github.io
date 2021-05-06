@@ -56,7 +56,7 @@ Respondents included friends, friends of friends, and strangers online. We asked
 ![Sensploration survey responses to the statements I feel I can experience pleasure through my body and I would like to try new ways to experience pleasure through my body](/assets/images/projects/sensploration-survey-results-2.png)
 
 **What some survey respondents shared about media and education**
->_"I feel like I have worked on new ways to experience pleasure but I feel like I lack a framework for it and especially to do it with partners."
+>"_I feel like I have worked on new ways to experience pleasure but I feel like I lack a framework for it and especially to do it with partners._"
 
 >"_I felt like this was true in the past i.e thinking I was abnormal for not orgasming during penetrative penis in Vagina Sex. However after learning about pleasure on my own terms this has changed my experience drastically._"
 
@@ -67,7 +67,7 @@ Respondents included friends, friends of friends, and strangers online. We asked
 **Some responses to experiencing and trying new ways of experiencing pleasure**
 >"_I'm interested in moving beyond orgasms and finding different ways to receive pleasure_"
 
-> _“As a sexual trauma survivor I know I am disconnected from sensations so I would like to explore ways to feel. “__
+> “_As a sexual trauma survivor I know I am disconnected from sensations so I would like to explore ways to feel._“
 
 > "*I think knowing how to give yourself pleasure helps you connect with yourself, and it's a part of connecting with others also. Receiving pleasure is a way to connect.*"
 
@@ -148,7 +148,7 @@ Our process of designing and preparing our presentation had structure, but also 
 
 Working backward from the presentation, we needed to find a way to convey our idea succinctly. The structure that lends itself well to a 5-10 minute presentation is (not surprisingly), a startup pitch. This meant that we structured it as:
 - The problem we wanted to solve
-- Finding data (quantiative and qualitative)
+- Finding data (quantitative and qualitative)
 - Conceptualising a solution
 - Deciding on the prototype
 - Researching bigger market opportunities
