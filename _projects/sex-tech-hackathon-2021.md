@@ -22,9 +22,9 @@ The Bigger Picture
 
 ## The Hackathon
 
-The [Sex Tech Hackathon](https://hack.touchyfeely.tech/) co-hosted by [Touchy Feely Tech](https://hack.touchyfeely.tech/), [Hervisions](https://hervisions.world/), [Kinky Makers](https://kinkymakers.com/), [Creative Code Utrecht](https://creativecodingutrecht.nl/) took place on May 1-2, 2021 as part of the Rainbows End online festival. It was the second Sex Tech Hackathon, back within months of the first by popular demand. I found out about it through sex tech writer, [Carolyn Stransky](https://twitter.com/carolstran/status/1388772122940649475?s=20), on Twitter.
+Within months of organizing the first [Sex Tech Hackathon](https://hack.touchyfeely.tech/), the co-hosts ran a second one on may May 1–2, 2021 as part of the Rainbows End online festival. I hadn’t heard of any of them — [Touchy Feely Tech](https://hack.touchyfeely.tech/), [Hervisions](https://hervisions.world/), [Kinky Makers](https://kinkymakers.com/), [Creative Code Utrecht](https://creativecodingutrecht.nl/). I stumbled upon the event one more morning lying in bed, scrolling through [Carolyn Stransky](https://twitter.com/carolstran/status/1388772122940649475?s=20)’s tweets.
 
-The hackathon's consortium of organizers invited "artists, academics, activists, thinkers and tinkerers from all backgrounds and perspectives to take part" and also had numerous talks by makers and people in sex tech. I joined out of curiosity because I knew nothing about the topic and almost treated it like a conference.
+The hackathon’s consortium of organizers invited “artists, academics, activists, thinkers and tinkerers from all backgrounds and perspectives to take part” and also had numerous talks by makers and people in sex tech. I knew nothing about sex tech, but the idea was enough for me to pay $40 to join (the only hackathon I’ve ever paid for). I almost treated it like a conference.
 
 This year, I teamed up again with my friend [Ghonche Tavoosi](https://twitter.com/glenatavoosi), podcaster, feminist, activist, product manager and community organizer extraordinare. Last year, we built a working prototype of audio hugs for the LGBTQ community, [Pride Polyphony](https://pride-polyphony.netlify.app/) with [Emma Lawson](https://www.linkedin.com/in/emma-c-lawson/). This year, our friend [Thomas Liano](https://www.linkedin.com/feed/update/urn:li:activity:6794673645546430464/) wanted to address the gap between people wanting to connect to their bodies or find more ways of experiencing pleasure and the availability of inclusive resources to do so.
 
@@ -37,7 +37,7 @@ It was an open field of possibilites for sex to become more accessible, inclusiv
 
 ## The Problem
 
-Problem that we wanted to address at the individual level was that many people may not feel entirely connected to their body or the permission to feel bodily pleasure. The messages that we receive from media and our suroundings has, in many ways, limited how we experience our body, and more precisely, how we experience bodily pleasure. 
+The problem that we wanted to address at the individual level was that many people may not feel entirely connected to their body or the permission to feel bodily pleasure. The messages that we receive from media and our suroundings has, in many ways, limited how we experience our body, and more precisely, how we experience bodily pleasure. 
 
 The big picture problem that we wanted to address was the silos within the "experience economy" that has alienated many people and, since 2020 with the pandemic, left people with unsatiated desires. To put it another way, Covid-19 restrictions have shown us the limits of an economic model that focuses on consuming the experiences we are given access to, the ones that are sold to us and that we can afford, **instead of focusing on how we experience things**.
 
@@ -82,14 +82,14 @@ To summarize, we had two hypotheses:
 
 Though there are a number of ways to address the problem we wanted to solve, we chose to do it through a mobile application. We wanted envision an app that is radically inclusive in how people are invited to explore experiences, sensuality, and potentially sexuality.
 
-We wanted to focus on activivities that offer people new approaches to explore and enjoy their body using the five senses *and the intersections between them*.
+Sensploration is an app with thematic activities that offer people new approaches to explore and enjoy their body using the five senses _and the intersections between them_.
 
 **To do this, we designed an app that:**
 1. Allows for guest access (for privacy) and logins (for personalisation)
 2. Has a guided start with a touch-based activity
 3. Gives opportunities for user feedback so people can note what they like and don't like (for future personalisation)
-4. When the user returns to the main page they can see the touch bubble that they have just practised has grown to show progress. And new categories are unlocked.
-5. As a user explores more activites, each sense bubble grows bigger and eventually overlap, with new intersectional categories are unlocked. 
+4. When the user returns to the main page they can see the touch bubble that they have just practiced has grown to show progress. And new categories are unlocked.
+5. As a user explores more activities, each sense bubble grows bigger and eventually overlap, with new intersectional categories are unlocked. 
 
 As an example, touch can begin with light touches, deep touches. It can include pressing, holding, pinching, and tapping. But touch can also expand to materials, which can have its own subcategories such as textures and temperatures. Touch can also include movement and toys. 
 
@@ -122,7 +122,7 @@ We found out that 90% of our sample believe that having more ways to experience 
 
 **The addressable market** is actually the intersection between mindfulness apps and the sex toy markets. In April, the mindfulness and meditation app market size (the likes of Headspace and Calm) was projected to be [around US$ 770.7 Million by 2025](https://marketprimes.com/mindfulness-meditation-application-market/). If that seems big, the sex toy market in Europe alone was estimated to grow to [US$2.56 Billion in the Personal Products Industry during 2021-2025](https://www.prnewswire.com/news-releases/sex-toys-market-in-europe-to-garner-usd-2-56-billion-in-the-personal-products-industry-during-2021-2025technavio-301269699.html). 
  
-**Industry precedents** also come from different spaces and there are many indirect competitors. The most famous is OMG yes, which focuses on women and on their sexual pleasure. This form of targeting excludes non-women and asexual people, is the most common scenario. Other popular forms of competition comes from content creators on social media, such as for [lesbian sex](https://www.youtube.com/watch?v=zX4LVYigvO0&feature=youtu.be), to product blogs by [Unbound Babes](https://unboundbabes.com/), [Dame products](https://www.dameproducts.com/pages/quiz) or to apps like [Clue](https://helloclue.com/). But topic specialization lacks inclustivity for all types of people.
+**Industry precedents** also come from different spaces and there are many indirect competitors. The most famous is OMG yes, which focuses on women and on their sexual pleasure. This form of targeting excludes non-women and asexual people, is the most common scenario. Other popular forms of competition comes from content creators on social media, such as for [lesbian sex](https://www.youtube.com/watch?v=zX4LVYigvO0&feature=youtu.be), to product blogs by [Unbound Babes](https://unboundbabes.com/), [Dame products](https://www.dameproducts.com/pages/quiz) or to apps like [Clue](https://helloclue.com/). But topic specialization lacks inclusion for all types of people.
 
 *In short there is no holistic solution that covers body experiences, sensual pleasure and sexual pleasure, and that is also inclusive of different body types, sexualities, and abilities.*
 
@@ -159,10 +159,11 @@ The tools we used included:
 - Google Forms for the survey
 - Google Slides for the presentation
 - [Figma](https://figma.com) for the mockups
+- Unsplash for stock images
 
 In general, we took longest for debates and discussions. A key debate was how the app worked and how the library of data would be structured. This was not ultimately shown, but since Ghonche and I both have product experience, it was a detail that mattered to us. Simply put, we would not go ahead and create designs for an app that we did not have a conceptual backend for. 
 
-Another debate point that we had was what to prototype with. Generally, i prefer building working prototypes over designing mockups. I had originally wanted to use [Prezi](https://prezi.com/) to create the non-linear library of activities that the public could actually use by the end of the hackathon. However, when I learned that my team members wanted a guided user onboarding, with only one bubble available in the beginning and a growing library based on activities, we decided to go with the [Figma mockup](https://www.figma.com/file/sDEEMSubsVP6V0azWhCIQv/Sensploration?node-id=0%3A1).
+Another debate point that we had was what to prototype with. Generally, I prefer building working prototypes over designing mockups. I had originally wanted to use [Prezi](https://prezi.com/) to create the non-linear library of activities that the public could actually use by the end of the hackathon. However, when I learned that my team members wanted a guided user onboarding, with only one bubble available in the beginning and a growing library based on activities, we decided to go with the [Figma mockup](https://www.figma.com/file/sDEEMSubsVP6V0azWhCIQv/Sensploration?node-id=0%3A1).
 
 The final debating point was the presentation -- the overarching story, which sections we were filling out, and who was doing which section. Ghonche is a slide wizard, so we largely left it to her. Since the product was Thomas' idea, he took the slides she created and the script we worked on and presented. This works when everyone is on the same page about the general storyline. However, this method also requires allowing the speaker at least a final hour to do their own final touches to the slide and the script.
 
