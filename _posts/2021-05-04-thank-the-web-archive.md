@@ -18,7 +18,13 @@ Even though I keep thinking I am new to blogging, my domain is seven years old. 
 
 Despite the ambvialence, I had published over 200 posts and pages. Some 50 were related to the [Shikoku Pilgrimage, which has been migrated](https://shenchingtou.github.io/shikoku/). Even though I'd tried my hand at other posts, that was the seed that actually took root for a blog to grow. I diversified to cafe reviews, which probably numbered close to 100 at peak. It is like the mint I planted for fun in my mom's garden -- an easy weed to grow that overtakes everything else. They were the first batch that I dumped a few years back. Every successive cafe deletion has felt like a weight lifted off my shoulders. I was taking up less server space, creating less traffic, removing unnecessary middle-class expat attention to places that had been founded for local communities. The last set were LGBTQ and Chinese-language resources. 
 
-Like most of my projects, this one remains 80% finished. But since my subscription expires this month and it's a good a time as any to bury this skeleton.
+My subscription expires this month and it's a good a time as any to bury this skeleton. 
+
+The below are migrated posts:
+- [LGBTQ Guides](https://shenchingtou.github.io/lgbtq/): [Hong Kong](https://shenchingtou.github.io/lgbtq/lgbtq-hk-quick-guide/), [Queer Chinese Media](https://shenchingtou.github.io/lgbtq/queer-chinese-media/), [LGBTQ Tokyo](https://www.buymeacoffee.com/athena/e/9035), 
+- [Maps](https://shenchingtou.github.io/maps/): [Coffee Walks](https://shenchingtou.github.io/maps/coffee-walks/), [Taiwan Cafes](https://shenchingtou.github.io/maps/taipei-coffee/), Berlin Asian Food
+- Japan Hiking: [Kunisaki](https://shenchingtou.github.io/2016/kunisaki.html), as well as the Dewa Sanzan's [Mount Haguro](https://shenchingtou.github.io/2016/dewa-sanzan-haguro.html), [Gassan](https://shenchingtou.github.io/2016/dewa-sanzan-gassan.html), and [Mount Yudono](https://shenchingtou.github.io/2016/dewa-sanzan-yudono.html)
+- Maps of Tokyo: [Wheelchair Accessible Tokyo](https://shenchingtou.github.io/maps/accessible-tokyo/), [Muslim-Friendly Tokyo](https://shenchingtou.github.io/maps/muslim-friendly-tokyo/), [Vegan & Vegetarian Tokyo](https://shenchingtou.github.io/maps/vegan-vegetarian-tokyo/), [Tokyo Cafes](https://shenchingtou.github.io/maps/tokyocafes/), [Jimbocho's bookstores](https://shenchingtou.github.io/maps/jimbocho-tokyo/)
 
 
 I have submitted the posts that I do not have the energy to migrate into the Internet Web Archive 
@@ -42,10 +48,8 @@ Manually deleting everything takes time. It is not efficient in a world obsessed
 The pieces I will miss are:
 - Gujo-Hachiman
 - Yahiko
-- Kunisaki
 - Invsible Tokyo - a local foreigner's diary
 - Trave Expenses explained - 10 tips on a public budget sheet 
-- Mandarake 
 
 
 ---
